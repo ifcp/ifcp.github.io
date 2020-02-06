@@ -1,0 +1,20 @@
+<http://example.org/ifcp/131>
+  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/131/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p5>, <http://example.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　我が国の盆行事には、百八燈とか百八松明と称して百八把の松明を焚いて精霊の祭りを行うものがある。これらは新盆の家で行ったり、村共同で山や河原で盛大に行ったりする。
+　猪俣の百八燈は、８月15日（もとは７月15日）に村はずれの堂前山の丘の上に築かれた百八基の塚に百八の灯をともす盛大な行事で、地元では猪俣小平六範綱（鎌倉時代にこの土地を開発した人物）の霊を慰めるとも伝えられている。
+　この行事の主体となるのは、字猪俣の満６歳から満18歳までの子供組・若衆組（約50名）で、後見役（前年の親方）が総指揮を執り、親方（18歳）、次親方（17歳）が幹部となり、行事の企画・指導を行い、15日までの間に灯をともす松根掘りや、小平六の墓掃除、道こさえ、草刈り、塚つき、燈明器づくりを行う。
+　塚は村はずれの丘の稜線に沿って108基築かれており、規模は一般に高さ1㍍、直径30～40㎝で、留塚という両端の塚は一段と大きく、中央の2基は五重塚といって高さ2～2.5㍍、直径70㎝で、ほかの塚や留塚よりさらに大きく造られている。
+　行事は、15日未明に芝を切ってきて108の塚を築き直すことから始まり、真綿をよった燈心を取りつけた急須に石油を注ぎ燈明器として各塚に配備する。この際、五重塚と留塚、小平六の墓の側にある御公方塚には松根を置く。15日の夕刻6時、寺の境内で寄せ太鼓をし、一同が集合すると境内の小平六の墓に燈明をともし、笛・太鼓の行列で出発、堂前山の塚の百八燈に点火すると同時に仕掛花火も行われる。
+　猪俣の百八燈は、各地で行われる盆の百八燈の行事の中でも108の塚を築いたその上で盛大に火を焚く点で異色であり、亡魂を慰めるという趣意と相まって塚信仰の様相をよく示している。また、これらの行事が子供組・若衆組によって執行されることなどは注目すべきことで、盆行事の中に祖霊信仰の様相をうかがうことができる典型例として重要である。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月15日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.town.saitama-misato.lg.jp/admini/towninfo/ino108.html>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P31> "";
+    <http://purl.org/NET/cidoc-crm/core#P4> "";
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P81> ""
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "いのまたのひゃくはっとう", "猪俣の百八燈" .
