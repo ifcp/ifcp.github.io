@@ -22,7 +22,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "山口県柳井市阿月";
     <http://purl.org/NET/cidoc-crm/core#P31> "山口県柳井市";
-    <http://purl.org/NET/cidoc-crm/core#P4> "20190211";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-02-11";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city-yanai.jp/soshiki/39/atsukishimmei.html>;
     <http://purl.org/NET/cidoc-crm/core#P81> "正保元年(1644年)"
   ];

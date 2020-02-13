@@ -17,7 +17,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "奈良県五條市大津町念仏寺";
     <http://purl.org/NET/cidoc-crm/core#P31> "8-hachiro";
-    <http://purl.org/NET/cidoc-crm/core#P4> "20190413";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/陀々堂の鬼はしり>;
     <http://purl.org/NET/cidoc-crm/core#P81> "室町時代"
   ];

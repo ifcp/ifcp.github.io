@@ -1,0 +1,10 @@
+base_uri: http://example.org/ifcp/
+labels:
+  rdfs:label: 名称
+  crm:P3: 概要
+  crm:P4: 公開日
+  crm:P67: URL
+  crm:P141: 重要無形民俗文化財登録情報
+  crm:P94: 発祥情報
+  crm:P2: カテゴリー
+site_title: Intangible Folk Cultural Properties

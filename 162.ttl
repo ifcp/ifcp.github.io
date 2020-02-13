@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "福岡県久留米市大善寺";
     <http://purl.org/NET/cidoc-crm/core#P31> "STA3816";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2018115";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2018-11-15";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/鬼夜>;
     <http://purl.org/NET/cidoc-crm/core#P81> "368年（仁徳天皇56年）"
   ];

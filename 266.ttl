@@ -22,7 +22,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "富山県下新川郡入善町上野邑町";
     <http://purl.org/NET/cidoc-crm/core#P31> "なびお ";
-    <http://purl.org/NET/cidoc-crm/core#P4> "20190312";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-03-12";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/塞の神まつり>;
     <http://purl.org/NET/cidoc-crm/core#P81> "江戸時代"
   ];

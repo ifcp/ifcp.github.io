@@ -12,7 +12,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "秋田県美郷町六郷地区";
     <http://purl.org/NET/cidoc-crm/core#P31> "221.58.122.88";
-    <http://purl.org/NET/cidoc-crm/core#P4> "20181213";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/かまくら#六郷のかまくら>;
     <http://purl.org/NET/cidoc-crm/core#P81> "延暦21年（802年）"
   ];

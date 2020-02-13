@@ -19,7 +19,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "奈良県桜井市江包、大西";
     <http://purl.org/NET/cidoc-crm/core#P31> "8-hachiro";
-    <http://purl.org/NET/cidoc-crm/core#P4> "20190209";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-02-09";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/江包・大西の御綱>;
     <http://purl.org/NET/cidoc-crm/core#P81> "大同4年（809年）"
   ];
