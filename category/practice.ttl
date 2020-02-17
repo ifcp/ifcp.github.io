@@ -1,2 +1,4 @@
 <http://example.org/ifcp/category/practice>
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E55> .
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E55>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "風俗慣習";
+  <http://www.w3.org/2004/02/skos/core#narrower> <http://example.org/ifcp/category/p1>, <http://example.org/ifcp/category/p2>, <http://example.org/ifcp/category/p3>, <http://example.org/ifcp/category/p4>, <http://example.org/ifcp/category/p5>, <http://example.org/ifcp/category/p6>, <http://example.org/ifcp/category/p7> .
