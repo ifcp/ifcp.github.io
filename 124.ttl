@@ -1,20 +1,3 @@
 <http://example.org/ifcp/124>
-  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/124/register>;
-  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p5>, <http://example.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　奄美から沖縄にかけては、旧暦８月の収穫の時期に最も盛大な行事が行われる。それは稲の収穫が終わり、その収穫を感謝し、翌年の豊作を祈るもので、アラセツの語はこの意味をよく示している。
-　奄美に伝承されるアラセツ行事は、旧暦８月の最初の丙の日に、グジ（男の神役）が山で、ノロ（女の神役）が海に向かって稲魂を招くものである。
-　なかでも秋名のアラセツ行事で行われるショチュガマとヒラセマンカイは、奄美のアラセツ行事の中でも最も古形を伝えるものである。
-　ショチュガマは、アラセツの前日までに金久の山腹にあるショチュガマ屋敷に片流れの藁葺き小屋（ショチュガマ）を作り、アラセツの早朝にグジが稲魂を招き、次いで7,80人が藁葺きの小屋の屋根に上り、祝い歌を歌いながらその小屋を揺り倒し、倒れた屋根の上で「八月踊り」を踊る行事である。
-  ヒラセマンカイは、アラセツの夕方に神ヒラセ・女童【メーラビ】ヒラセという2つの岩の上でノロたちが中心となって歌い踊り、稲魂を招く行事である。マンカイとは、両手を招くように動かす時の踊りの所作をいう。
-　こうした行事は、かつては奄美の各地で行われていたようであるが、現存するのは秋名だけとなっている。南島におけるアラセツを迎える心意をよく伝えている行事として重要であるだけでなく、神を招いて神人交歓の遊びをする我が国の民俗芸能の古い要素をよく残すものとしても注目される。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦８月の初丙の日";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.tatsugo.lg.jp/edu/event-bunka/rekishi-bunka/arasetsu.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "奄美群島";
-    <http://purl.org/NET/cidoc-crm/core#P31> "龍郷町役場 教育委員会";
-    <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.tatsugo.lg.jp/edu/event-bunka/rekishi-bunka/arasetsu.html>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "那覇世（13～17世紀）"
-  ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "あぎなのあらせつぎょうじ", "秋名のアラセツ行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "155" .
