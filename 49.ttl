@@ -10,7 +10,7 @@
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "鹿児島県薩摩川内市下甑島";
     <http://purl.org/NET/cidoc-crm/core#P31> "そらみみ";
-    <http://purl.org/NET/cidoc-crm/core#P4> "43436";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-02";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/トシドン#甑島のトシドン>;
     <http://purl.org/NET/cidoc-crm/core#P81> "江戸時代"
   ];
