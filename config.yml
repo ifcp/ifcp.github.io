@@ -1,4 +1,5 @@
 base_uri: http://example.org/ifcp/
+output_dir: /Users/itsumi/Desktop/研究/ifcp
 labels:
   http://www.w3.org/2000/01/rdf-schema#label: 名称
   http://purl.org/NET/cidoc-crm/core#P3: 概要
@@ -8,3 +9,4 @@ labels:
   http://purl.org/NET/cidoc-crm/core#P94: 発祥情報
   http://purl.org/NET/cidoc-crm/core#P2: カテゴリー
 site_title: Intangible Folk Cultural Properties
+title_property: https://www.example.org/ifcp
