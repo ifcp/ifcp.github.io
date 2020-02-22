@@ -1,4 +1,4 @@
-base_uri: https://ifcp.github.io/
+base_uri: https://ifcp.github.io/109
 labels:
   http://www.w3.org/2000/01/rdf-schema#label: 名称
   http://purl.org/NET/cidoc-crm/core#P3: 概要
