@@ -1,6 +1,6 @@
 base_uri: https://ifcp.github.io/
 labels:
-  http://www.w3.org/2000/01/rdf-schema#label: 名称
+  http://www.w3.org/2000/01/rdf-schema#label: title
   http://purl.org/NET/cidoc-crm/core#P3: 概要
   http://purl.org/NET/cidoc-crm/core#P4: 公開日
   http://purl.org/NET/cidoc-crm/core#P67: URL
