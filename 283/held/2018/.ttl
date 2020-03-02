@@ -1,0 +1,10 @@
+<http://example.org/ifcp/283/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "松例祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/283>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-01-01";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-12-31"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://tsurumap.com/2018/12/19/20181231/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "山形県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -1,0 +1,10 @@
+<http://example.org/ifcp/179/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "大磯町左義長保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/179>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-01-13";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-13"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://paddler-shonan.com/eye/event-sagicho/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "神奈川県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

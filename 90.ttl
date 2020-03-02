@@ -1,0 +1,19 @@
+<http://example.org/ifcp/90>
+  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/90/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>, <http://example.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　古川祭の起し太鼓・屋台行事は、古川町の産土神である気多若宮神社の祭礼に行われる行事である。19日の神輿の渡御に合わせて屋台の行列が、獅子舞や鶏闘楽を伴って町々を練り歩き、翌20日0時からは勇壮な起し太鼓が行われる。
+　起し太鼓は、本楽祭の開始を知らせるためのものともいわれているが、大太鼓を据えた大きな櫓を大勢の半裸の若者がかつぎ、大太鼓の上にまたがった２人の若者がこの太鼓を豪快に打つ。
+　町を巡行する時には、小太鼓を担いだ附太鼓の連中が、各町内から出てこの大太鼓にからみあう。せめぎあう大太鼓と附太鼓は男性的な祭の興奮を呼び起す注目すべき行事である。
+　各町の屋台は、９基あり、江戸時代後期に発達した祭屋台の形態をよく備えており、この中にはからくり人形を設けた屋台もあり、この種の祭礼行事の代表的な事例の一つとして重要なものである。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月１９・２０日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.okosidaiko.com>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> "岐阜県飛騨市古川町";
+    <http://purl.org/NET/cidoc-crm/core#P31> "そらみみ ";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-08-20";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/古川祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "1776年（安永5年）、1831年（天保2年）"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "ふるかわまつりのおこしだいこ・やたいぎょうじ", "古川祭の起し太鼓・屋台行事" .
+<http://example.org/ifcp/90/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/90>.

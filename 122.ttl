@@ -1,0 +1,24 @@
+<http://example.org/ifcp/122>
+  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/122/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>, <http://example.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　室根神社祭のマツリバ行事は、古く熊野神をこの地に勧請したと伝えられる室根神社で行われる祭礼である。
+　万治２年（1659）の『東山上折壁村風土記』中に初見するように古い伝統を継承するもので、現行では初日の17日までに諸準備を完了して関係者一同が南流神社（この地方の開拓神を祀るとされる）に参詣する。
+　２日目の18日には新たに造営した仮宮をロクシャクガシラ（陸尺頭）の管理に移し、諸役を分担する一同がマツリバソロイ（仮宮の前に勢揃い）する。
+　第3日目の19日には室根神社の神輿2基が室根山八合目に鎮座する山宮を暗闇のなかで発輿し、途中タウエダン（田植壇）と呼ばれる場所で農耕に関する行事を行い、山降りして里の仮宮（お旅所）へ渡御する等の行事次第を繰りひろげる。
+　この行事は、室根村を中心に気仙地方の2市3町2村13地区にまたがる氏子中が従来からの決まりの役割に就いて関与する。仮宮の所在するマツリバでは、2基の神輿による先着競い等があって安着された後、簀垣をめぐらした前庭で扇の舞・鈴の舞が奉納され、それに引き続いて、その外側に設けられたババ（馬場）で、荒馬先陣・ホロ（母衣）先陣と呼ばれるものが行われる。これにはダシ（ホロとも言い、肩担ぎされるものが多い）の行列が連なる。
+　ババは、幅約２㍍、１周約50㍍の広さで、荒馬先陣の行列では、各ハヅナ（鼻綱）持ちを従え、武者の礼服姿を装った乗馬の面々の先頭に警固役・旗持ち等を従えた頭が立つ。
+　続くホロ先陣は、大名行列を模したものといわれ、その最後尾にはキョクロクと呼ばれる作り物が登場する。荒馬の背に乗せられた造華である。
+　また、６基のダシには、32人担ぎや40人担ぎ等のものがあり、マツリバソロイの折りに決められた順番に従って練りまわされ、オモテダシには合戦の場、ウラダシには昔話を題材にした作り物の出来具合が競われる。
+　この祭りは、荒馬祭りとも称され、従来、稲刈り後、麦まきを行うまでの時期になされたと伝えられる。厳格なジンヤク制によって分担され、３歳以上の雄馬を選定して人馬一体となり、荒馬先陣・キョクロク・ダシ等を繰り出すなど祭りの古態を良く止めているものである。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "旧暦閏年翌年の旧暦９月１７～１９日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> "岩手県一関市室根地域";
+    <http://purl.org/NET/cidoc-crm/core#P31> "一関市文化財課/文化財係";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2017-05-11";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "養老2年（718）"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "むろねじんじゃさいのまつりばぎょうじ", "室根神社祭のマツリバ行事" .
+<http://example.org/ifcp/122/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/122>.

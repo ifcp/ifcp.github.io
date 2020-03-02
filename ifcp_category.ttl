@@ -1,0 +1,50 @@
+@base <http://example.org/ifcp/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/>
+
+cate:practice
+	rdfs:label "風俗慣習" ;
+	skos:narrower cate:p1 ;
+	skos:narrower cate:p2 ;
+	skos:narrower cate:p3 ;
+	skos:narrower cate:p4 ;
+	skos:narrower cate:p5 ;
+	skos:narrower cate:p6 .
+
+cate:p1 rdfs:label "生産・生業" .
+cate:p2 rdfs:label "人生・儀礼" .
+cate:p3 rdfs:label "娯楽・競技" .
+cate:p4 rdfs:label "社会生活(民俗知識)" .
+cate:p5 rdfs:label "年中行事(信仰)" .
+cate:p6 rdfs:label "その他" .
+
+cate:entertainment
+	rdfs:label "民俗芸能" ;
+	skos:narrower cate:e1 ;
+	skos:narrower cate:e2 ;
+	skos:narrower cate:e3 ;
+	skos:narrower cate:e4 ;
+	skos:narrower cate:e5 ;
+	skos:narrower cate:e6 ;
+	skos:narrower cate:e7 .
+
+cate:e1 rdfs:label "神楽" .
+cate:e2 rdfs:label "田楽" .
+cate:e3 rdfs:label "風流" .
+cate:e4 rdfs:label "語り物・祝福芸" .
+cate:e5 rdfs:label "延年・おこない" .
+cate:e6 rdfs:label "渡来芸・舞台芸" .
+cate:e7 rdfs:label "その他" .
+
+cate:technique
+	rdfs:label "民俗技術" ;
+	skos:narrower cate:t1 ;
+	skos:narrower cate:t2 ;
+	skos:narrower cate:t3 .
+
+cate:t1 rdfs:label "生産・生業" .
+cate:t2 rdfs:label "衣食住" .
+cate:t3 rdfs:label "その他" .

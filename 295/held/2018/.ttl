@@ -1,0 +1,10 @@
+<http://example.org/ifcp/295/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "常陸大津の御船祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/295>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "開催せず";
+    <http://purl.org/NET/cidoc-crm/core#P116> "開催せず"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "茨城県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

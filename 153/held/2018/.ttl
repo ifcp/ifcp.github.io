@@ -1,0 +1,10 @@
+<http://example.org/ifcp/153/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "白間津区";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/153>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "開催せず";
+    <http://purl.org/NET/cidoc-crm/core#P116> "開催せず"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://bosotown.com/archives/2319>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "千葉県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

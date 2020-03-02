@@ -1,0 +1,10 @@
+<http://example.org/ifcp/197/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "中浜ボタモチ祭保存会、杉平ボタモチ祭保存会、岩石ボタモチ保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/197>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "新潟県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

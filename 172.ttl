@@ -1,0 +1,24 @@
+<http://example.org/ifcp/172>
+  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/172/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>, <http://example.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　この行事は、華やかな花飾りや吹き流しで飾られた小早船と神輿船などが櫂伝馬に曳かれて海上渡御する行事である。
+　27日朝、華やかな花飾りや吹き流しで飾られた小早船と神輿船などが櫂伝馬に曳かれて、仮殿前の浜から社前の浜まで海上を神迎えに行く。途中、櫂伝馬の競漕も行われる。神社では祭式の後、社前で鹿島踊りが奉納されると、神輿が船に移されて神職・鹿島踊り・氏子総代らの一行が乗船し、仮殿へ海上渡御する。この時、港内を巡りながら小早船では男性により古風な旋律と詞章の御船歌がうたわれ、囃子船では笛や太鼓の囃子が奏でられる。仮殿に神輿を移すと鹿島踊りが奉納され式典が済むと、町内に花山車の一行が繰り出す。
+　28日は神輿の町内巡行が行われ、前日に引き続き花山車の一行が一日中町内を巡る。夕方、仮殿から神輿が再び神輿船に乗せられ、たくさんの提灯を灯した小早船などに伴走されつつ、神社へ還御する。社前で納めの鹿島踊りがあり、壮麗な船祭りが終了する。
+　この行事を担うのは、２艘の小早船・２艘の櫂伝馬・数艘の囃子船および神輿船１艘である。
+　海上渡御にあたり、２艘の櫂伝馬が神輿船・小早船２艘・囃子船２艘を曳航する。花漕ぎともいい、八丁の櫂で漕ぎ、舳先に角樽・棕櫚・五色布の飾りをつける。櫂伝馬を漕ぐのは、かつては石船連中の役目だった。真鶴では安山岩系の良質な石材が産出し、この石材の運送にたずさわってきたのが石船の屈強の若者たちであった。神社に近づくとこの２艘の櫂伝馬による競漕が行われる。
+　神輿船は、宵宮に海上を神社へ神輿を迎えに行き、神官・氏子総代・氏子関係者等を乗せて、御旅所の仮殿へ奉安し、再び本宮へ帰還する。
+　社前など要所要所で奉納される鹿島踊りは、漁民の青年たちによって奉仕されてきた芸能だが、太鼓・鉦・日月の採り物など主要な役回り以外は、今日では中学生によって担われている。神社・御旅所・神幸中の要所などで踊られる。
+　なお、陸上の行事に登場する花山車は、18㎝角の柱の上部に造花を飾りたてた高さ3㍍ほどの万灯である。重さは60㎏以上もあり、これを腕の力だけで振り回すので、腕力に相当の自信のある者しかこなせない。
+　貴船神社の船祭りは、漁業・石材業・回漕業など船に密接なかかわりをもつ真鶴の人びとが豊漁や海上安全などの願いを込めて展開してきた祭りであり、日本各地に伝えられる船祭りのうち、関東地方に伝承される典型的なものとして重要である。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月２７・２８日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.yoritomo-japan.com/kifunematuri-manaduru.htm>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P31> "";
+    <http://purl.org/NET/cidoc-crm/core#P4> "";
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P81> ""
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "きぶねじんじゃのふなまつり", "貴船神社の船祭り" .
+<http://example.org/ifcp/172/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/172>.

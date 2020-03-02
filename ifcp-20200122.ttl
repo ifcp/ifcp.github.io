@@ -1,0 +1,41 @@
+@base <http://example.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/> .
+ifcp:"&A2&"
+    rdf:type crm:E1 ;
+    rdfs:label """&C2&""" ;
+    rdfs:label """&D2&""" ;
+    crm:P3 """""""&E2&""""""" ; 
+    crm:P4 """&F2&""" ; 
+    crm:P67 <"&G2&"> ;
+    crm:P141 <http://example.org/ifcp/"&A2&"/register> ; 
+    crm:P94 [
+        crm:P67 <"&Q2&"> ;
+        crm:P4 """&T2&""";
+        crm:P31 """&U2&""";
+        crm:P81 """&R2&""" ;
+        crm:P107 """&S2&""" 
+    ];
+    crm:P2 "&I2&" ;
+    crm:P2 "&H2&" .
+<"&Q2&">
+    rdf:type crm:E42 .
+<"&G2&">
+    rdf:type crm:E42 .   
+<http://example.org/ifcp/"&A2&"/register>
+    rdf:type crm:E5 ;
+    crm:P4 """&J2&""" ;
+    crm:P67 """&K2&""" .
+<http://example.org/ifcp/"&A2&"/held/2018> 
+    rdf:type crm:E5 ;
+    crm:p17 ifcp:"&A2&" ;
+    crm:P7 """&L2&""" ;
+    crm:P14 """&N2&""" ;
+    crm:P4 [
+        crm:P116 """&O2&""" ;
+        crm:P115 """&P2&""" 
+    ] .

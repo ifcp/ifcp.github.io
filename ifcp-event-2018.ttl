@@ -1,0 +1,21 @@
+@base <http://example.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/> .
+ifcp:"&A2&"
+    rdf:type crm:E1 ;
+    rdfs:label """&C2&""" .
+<http://example.org/ifcp/"&A2&"/held/2018/"&B2&">
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:"&A2&" ;
+    crm:P7 """&E2&""" ;
+    crm:P7 """&F2&""" ;
+    crm:P14 """&G2&""" ;
+    crm:P67 <"&J2&"> ;
+    crm:P4 [
+        crm:P116 """&O2&""" ;
+        crm:P115 """&P2&""" 
+    ] .

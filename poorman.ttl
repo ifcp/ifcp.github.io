@@ -1,0 +1,92 @@
+@base <http://example.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/> .
+ifcp:1
+ rdfs:label "早池峰神楽";
+ crm:P2 ifcp:category/entertainment;
+ crm:P2 ifcp:category/e1;
+ crm:P25 [
+  crm:P67 "岩手県".
+];
+ crm:P9 ifcp:1/held/2018;
+ crm:P142 ifcp:1/register .
+ifcp:1/held/2018
+ crm:P14 "早池峰神楽保存会　大償神楽保存会，岳神楽保存会".
+ifcp:1/register
+ crm:P4 "19760504".
+ifcp:category/entertainment skos:narrower ifcp:category/e1 . 
+ifcp:2
+ rdfs:label "秋保の田植踊";
+ crm:P2 ifcp:category/entertainment;
+ crm:P2 ifcp:category/e2;
+ crm:P25 [
+  crm:P67 "宮城県".
+];
+ crm:P9 ifcp:2/held/2018;
+ crm:P142 ifcp:2/register .
+ifcp:2/held/2018
+ crm:P14 "秋保の田植踊保存会　湯元の田植踊保存会，長袋の田植踊保存会，馬場の田植踊保存会".
+ifcp:2/register
+ crm:P4 "19760504".
+ifcp:category/entertainment skos:narrower ifcp:category/e2 . 
+ifcp:3
+ rdfs:label "大日堂舞楽";
+ crm:P2 ifcp:category/entertainment;
+ crm:P2 ifcp:category/e6;
+ crm:P25 [
+  crm:P67 "秋田県".
+];
+ crm:P9 ifcp:3/held/2018;
+ crm:P142 ifcp:3/register .
+ifcp:3/held/2018
+ crm:P14 "大日堂舞楽保存会".
+ifcp:3/register
+ crm:P4 "19760504".
+ifcp:category/entertainment skos:narrower ifcp:category/e6 . 
+ifcp:4
+ rdfs:label "黒川能";
+ crm:P2 ifcp:category/entertainment;
+ crm:P2 ifcp:category/e6;
+ crm:P25 [
+  crm:P67 "山形県".
+];
+ crm:P9 ifcp:4/held/2018;
+ crm:P142 ifcp:4/register .
+ifcp:4/held/2018
+ crm:P14 "黒川能保存会".
+ifcp:4/register
+ crm:P4 "19760504".
+ifcp:category/entertainment skos:narrower ifcp:category/e6 . 
+ifcp:5
+ rdfs:label "御宝殿の稚児田楽・風流";
+ crm:P2 ifcp:category/entertainment;
+ crm:P2 ifcp:category/e2;
+ crm:P25 [
+  crm:P67 "福島県".
+];
+ crm:P9 ifcp:5/held/2018;
+ crm:P142 ifcp:5/register .
+ifcp:5/held/2018
+ crm:P14 "御宝殿熊野神社田楽保存会".
+ifcp:5/register
+ crm:P4 "19760504".
+ifcp:category/entertainment skos:narrower ifcp:category/e2 . 
+ifcp:6
+ rdfs:label "綱火";
+ crm:P2 ifcp:category/entertainment;
+ crm:P2 ifcp:category/e6;
+ crm:P25 [
+  crm:P67 "茨城県".
+];
+ crm:P9 ifcp:6/held/2018;
+ crm:P142 ifcp:6/register .
+ifcp:6/held/2018
+ crm:P14 "綱火保存連合会(高岡流綱火更進団，小張松下流綱火保存会)".
+ifcp:6/register
+ crm:P4 "19760504".
+ifcp:category/entertainment skos:narrower ifcp:category/e6 . 
+

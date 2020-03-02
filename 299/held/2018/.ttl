@@ -1,0 +1,10 @@
+<http://example.org/ifcp/299/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "硫黄島八朔太鼓踊り保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/299>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-09-11";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-10"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.pref.kagoshima.jp/ak01/chiiki/kagoshima/takarabako/traditional/ioujimanomendon.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "鹿児島県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

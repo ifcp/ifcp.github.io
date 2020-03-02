@@ -1,0 +1,35 @@
+<http://example.org/ifcp/>
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E42> .
+<_:g70244077080420> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077459580> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077461060> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077798440> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077835180> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077917500> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077918680> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077928720> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244077932400> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244078081960> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244081859620> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244081859940> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082135940> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082165760> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082166320> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082170540> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082634000> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082665580> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244082845680> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244085451020> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244085532020> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<_:g70244085596180> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/126/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/180/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/197/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/199/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/201/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/226/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/231> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/270/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/292/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/295/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.
+<http://example.org/ifcp/96> <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>.

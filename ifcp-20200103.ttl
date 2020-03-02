@@ -1,0 +1,56 @@
+@base <http://example.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/> .
+ifcp:84 
+    rdf:type crm:E1 ;
+    rdfs:label "秋田の竿燈" ;
+    rdfs:label "あきたのかんとう" ;
+    crm:P3 "竿燈全体を稲穂に、連なる提灯を米俵に見立て、額・腰・肩などにのせ、豊作を祈る。" ; 
+    crm:P67 <http://www.kantou.gr.jp/index.htm> ;
+    crm:P141 ifcp:84/register ; 
+    crm:P94 [
+        crm:P67 <https://ja.wikipedia.org/wiki/%E7%AB%BF%E7%87%88> ;
+        crm:P4 "2019-08-24";
+        crm:P31 "Tateno1221";
+        crm:P81 "宝暦(1751~1764)" ;
+        crm:P107 "秋田市" .
+    ];
+    crm:P2 cate:p5 ;
+    crm:P2 cate:practice .
+<https://ja.wikipedia.org/wiki/%E7%AB%BF%E7%87%88>
+    rdf:type crm:E42 .
+<http://www.kantou.gr.jp/index.htm> 
+    rdf:type crm:E42 .   
+ifcp:84/register
+    rdf:type crm:E5 ;
+    crm:P4 "1980-01-28" ;
+    crm:P67 "162" .
+ifcp:84/held/2018
+    rdf:type crm:E5 ;
+    crm:p17 ifcp:84 ;
+    crm:P7 crm:E53 ;
+    crm:P14 "秋田市竿燈まつり実行委員会" ;
+    crm:P4 _:time-span . 
+_:time-span
+    crm:P116 "2018-08-03" ;
+    crm:P115 "2018-08-06" .
+crm:E53
+    crm:P121 "秋田市" .
+cate:P5
+    rdf:type crm:E55 ;
+    skos:broader cate:practice .
+cate:practice
+    rdf:type crm:E55 .
+ifcp:84/held/2017
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:84 .
+ifcp:84/held/2016
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:84 .
+ifcp:84/held/2015
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:84 .

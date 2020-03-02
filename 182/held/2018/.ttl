@@ -1,0 +1,10 @@
+<http://example.org/ifcp/182/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "富田鯨船保存会連合会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/182>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-15";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-14"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.you-yokkaichi.com/2018/08/15/5133/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "三重県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

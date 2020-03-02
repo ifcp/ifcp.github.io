@@ -1,0 +1,10 @@
+<http://example.org/ifcp/124/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "秋名ヒラセマンカイ保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/124>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-09-11";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-11"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://amamishimbun.co.jp/2018/09/11/13136/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "鹿児島県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

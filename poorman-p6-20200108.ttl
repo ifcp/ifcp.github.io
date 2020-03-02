@@ -1,0 +1,974 @@
+@base <http://example.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/> .
+ifcp:33
+ rdfs:label "日立風流物";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "茨城県".
+];
+ crm:P9 ifcp:33/held/2018;
+ crm:P142 ifcp:33/register .
+ifcp:33/held/2018
+ crm:P14 "日立郷土芸能保存会".
+ifcp:33/register
+ crm:P4 "19770517".
+cate:practice skos:narrower cate:p6 . 
+ifcp:63
+ rdfs:label "烏山の山あげ行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "栃木県".
+];
+ crm:P9 ifcp:63/held/2018;
+ crm:P142 ifcp:63/register .
+ifcp:63/held/2018
+ crm:P14 "烏山山あげ保存会".
+ifcp:63/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:64
+ rdfs:label "秩父祭の屋台行事と神楽";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "埼玉県".
+];
+ crm:P9 ifcp:64/held/2018;
+ crm:P142 ifcp:64/register .
+ifcp:64/held/2018
+ crm:P14 "秩父祭保存委員会".
+ifcp:64/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:66
+ rdfs:label "高岡御車山祭の御車山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "富山県".
+];
+ crm:P9 ifcp:66/held/2018;
+ crm:P142 ifcp:66/register .
+ifcp:66/held/2018
+ crm:P14 "高岡御車山保存会".
+ifcp:66/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:69
+ rdfs:label "高山祭の屋台行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "岐阜県".
+];
+ crm:P9 ifcp:69/held/2018;
+ crm:P142 ifcp:69/register .
+ifcp:69/held/2018
+ crm:P14 "日枝神社氏子山王祭保存会，八幡宮氏子八幡祭保存会".
+ifcp:69/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:71
+ rdfs:label "長浜曳山祭の曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "滋賀県".
+];
+ crm:P9 ifcp:71/held/2018;
+ crm:P142 ifcp:71/register .
+ifcp:71/held/2018
+ crm:P14 "（公益財団法人）長浜曳山文化協会".
+ifcp:71/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:72
+ rdfs:label "京都祇園祭の山鉾行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "京都府".
+];
+ crm:P9 ifcp:72/held/2018;
+ crm:P142 ifcp:72/register .
+ifcp:72/held/2018
+ crm:P14 "公益財団法人祇園祭山鉾連合会".
+ifcp:72/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:79
+ rdfs:label "博多祇園山笠行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "福岡県".
+];
+ crm:P9 ifcp:79/held/2018;
+ crm:P142 ifcp:79/register .
+ifcp:79/held/2018
+ crm:P14 "博多祇園山笠振興会".
+ifcp:79/register
+ crm:P4 "19790203".
+cate:practice skos:narrower cate:p6 . 
+ifcp:81
+ rdfs:label "青森のねぶた";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "青森県".
+];
+ crm:P9 ifcp:81/held/2018;
+ crm:P142 ifcp:81/register .
+ifcp:81/held/2018
+ crm:P14 "青森ねぶた祭保存会".
+ifcp:81/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:82
+ rdfs:label "弘前のねぷた";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "青森県".
+];
+ crm:P9 ifcp:82/held/2018;
+ crm:P142 ifcp:82/register .
+ifcp:82/held/2018
+ crm:P14 "弘前ねぷた保存会".
+ifcp:82/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:84
+ rdfs:label "秋田の竿灯";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "秋田県".
+];
+ crm:P9 ifcp:84/held/2018;
+ crm:P142 ifcp:84/register .
+ifcp:84/held/2018
+ crm:P14 "秋田市竿灯会".
+ifcp:84/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:85
+ rdfs:label "金沢の羽山ごもり";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "福島県".
+];
+ crm:P9 ifcp:85/held/2018;
+ crm:P142 ifcp:85/register .
+ifcp:85/held/2018
+ crm:P14 "羽山ごもり保存会".
+ifcp:85/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:90
+ rdfs:label "古川祭の起し太鼓・屋台行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "岐阜県".
+];
+ crm:P9 ifcp:90/held/2018;
+ crm:P142 ifcp:90/register .
+ifcp:90/held/2018
+ crm:P14 "古川祭保存会".
+ifcp:90/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:91
+ rdfs:label "尾張津島天王祭の車楽舟行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "愛知県".
+];
+ crm:P9 ifcp:91/held/2018;
+ crm:P142 ifcp:91/register .
+ifcp:91/held/2018
+ crm:P14 "尾張津島天王祭協賛会".
+ifcp:91/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:92
+ rdfs:label "豊橋神明社の鬼祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "愛知県".
+];
+ crm:P9 ifcp:92/held/2018;
+ crm:P142 ifcp:92/register .
+ifcp:92/held/2018
+ crm:P14 "豊橋鬼祭保存会".
+ifcp:92/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:95
+ rdfs:label "戸畑祇園大山笠行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "福岡県".
+];
+ crm:P9 ifcp:95/held/2018;
+ crm:P142 ifcp:95/register .
+ifcp:95/held/2018
+ crm:P14 "戸畑祇園大山笠振興会".
+ifcp:95/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:96
+ rdfs:label "唐津くんちの曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "佐賀県".
+];
+ crm:P9 ifcp:96/held/2018;
+ crm:P142 ifcp:96/register .
+ifcp:96/held/2018
+ crm:P14 "唐津曳山取締会".
+ifcp:96/register
+ crm:P4 "19800128".
+cate:practice skos:narrower cate:p6 . 
+ifcp:100
+ rdfs:label "田島祇園祭のおとうや行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "福島県".
+];
+ crm:P9 ifcp:100/held/2018;
+ crm:P142 ifcp:100/register .
+ifcp:100/held/2018
+ crm:P14 "田島祇園祭のおとうや行事保存会".
+ifcp:100/register
+ crm:P4 "19810121".
+cate:practice skos:narrower cate:p6 . 
+ifcp:102
+ rdfs:label "熊甲二十日祭の枠旗行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "石川県".
+];
+ crm:P9 ifcp:102/held/2018;
+ crm:P142 ifcp:102/register .
+ifcp:102/held/2018
+ crm:P14 "お熊甲祭奉賛会".
+ifcp:102/register
+ crm:P4 "19810121".
+cate:practice skos:narrower cate:p6 . 
+ifcp:114
+ rdfs:label "青柏祭の曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "石川県".
+];
+ crm:P9 ifcp:114/held/2018;
+ crm:P142 ifcp:114/register .
+ifcp:114/held/2018
+ crm:P14 "青柏祭でか山保存会".
+ifcp:114/register
+ crm:P4 "19830111".
+cate:practice skos:narrower cate:p6 . 
+ifcp:120
+ rdfs:label "岩木山の登拝行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "青森県".
+];
+ crm:P9 ifcp:120/held/2018;
+ crm:P142 ifcp:120/register .
+ifcp:120/held/2018
+ crm:P14 "お山参詣保存会".
+ifcp:120/register
+ crm:P4 "19840121".
+cate:practice skos:narrower cate:p6 . 
+ifcp:122
+ rdfs:label "室根神社祭のマツリバ行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "岩手県".
+];
+ crm:P9 ifcp:122/held/2018;
+ crm:P142 ifcp:122/register .
+ifcp:122/held/2018
+ crm:P14 "室根神社祭保存会".
+ifcp:122/register
+ crm:P4 "19850112".
+cate:practice skos:narrower cate:p6 . 
+ifcp:126
+ rdfs:label "東湖八坂神社のトウニン（統人）行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "秋田県".
+];
+ crm:P9 ifcp:126/held/2018;
+ crm:P142 ifcp:126/register .
+ifcp:126/held/2018
+ crm:P14 "東湖八坂神社崇敬会、船越町内連合会".
+ifcp:126/register
+ crm:P4 "19860114".
+cate:practice skos:narrower cate:p6 . 
+ifcp:129
+ rdfs:label "涌出宮の宮座行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "京都府".
+];
+ crm:P9 ifcp:129/held/2018;
+ crm:P142 ifcp:129/register .
+ifcp:129/held/2018
+ crm:P14 "涌出宮宮座行事保存会".
+ifcp:129/register
+ crm:P4 "19860114".
+cate:practice skos:narrower cate:p6 . 
+ifcp:149
+ rdfs:label "角館祭りのやま行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "秋田県".
+];
+ crm:P9 ifcp:149/held/2018;
+ crm:P142 ifcp:149/register .
+ifcp:149/held/2018
+ crm:P14 "角館のお祭り保存会".
+ifcp:149/register
+ crm:P4 "19910221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:150
+ rdfs:label "近江中山の芋競べ祭り";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "滋賀県".
+];
+ crm:P9 ifcp:150/held/2018;
+ crm:P142 ifcp:150/register .
+ifcp:150/held/2018
+ crm:P14 "芋くらべ祭保存会".
+ifcp:150/register
+ crm:P4 "19910221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:153
+ rdfs:label "白間津のオオマチ（大祭）行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "千葉県".
+];
+ crm:P9 ifcp:153/held/2018;
+ crm:P142 ifcp:153/register .
+ifcp:153/held/2018
+ crm:P14 "白間津区".
+ifcp:153/register
+ crm:P4 "19920311".
+cate:practice skos:narrower cate:p6 . 
+ifcp:171
+ rdfs:label "発光路の強飯式";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "栃木県".
+];
+ crm:P9 ifcp:171/held/2018;
+ crm:P142 ifcp:171/register .
+ifcp:171/held/2018
+ crm:P14 "発光路妙見神社青年部".
+ifcp:171/register
+ crm:P4 "19961220".
+cate:practice skos:narrower cate:p6 . 
+ifcp:172
+ rdfs:label "貴船神社の船祭り";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "神奈川県".
+];
+ crm:P9 ifcp:172/held/2018;
+ crm:P142 ifcp:172/register .
+ifcp:172/held/2018
+ crm:P14 "貴船祭保存会".
+ifcp:172/register
+ crm:P4 "19961220".
+cate:practice skos:narrower cate:p6 . 
+ifcp:176
+ rdfs:label "日田祗園の曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "大分県".
+];
+ crm:P9 ifcp:176/held/2018;
+ crm:P142 ifcp:176/register .
+ifcp:176/held/2018
+ crm:P14 "日田祗園山鉾振興会".
+ifcp:176/register
+ crm:P4 "19961220".
+cate:practice skos:narrower cate:p6 . 
+ifcp:178
+ rdfs:label "土崎神明社祭の曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "秋田県".
+];
+ crm:P9 ifcp:178/held/2018;
+ crm:P142 ifcp:178/register .
+ifcp:178/held/2018
+ crm:P14 "土崎神明社奉賛会".
+ifcp:178/register
+ crm:P4 "19971215".
+cate:practice skos:narrower cate:p6 . 
+ifcp:180
+ rdfs:label "魚津のタテモン行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "富山県".
+];
+ crm:P9 ifcp:180/held/2018;
+ crm:P142 ifcp:180/register .
+ifcp:180/held/2018
+ crm:P14 "魚津たてもん保存会".
+ifcp:180/register
+ crm:P4 "19971215".
+cate:practice skos:narrower cate:p6 . 
+ifcp:182
+ rdfs:label "鳥出神社の鯨船行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "三重県".
+];
+ crm:P9 ifcp:182/held/2018;
+ crm:P142 ifcp:182/register .
+ifcp:182/held/2018
+ crm:P14 "富田鯨船保存会連合会".
+ifcp:182/register
+ crm:P4 "19971215".
+cate:practice skos:narrower cate:p6 . 
+ifcp:187
+ rdfs:label "塩屋湾のウンガミ";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "沖縄県".
+];
+ crm:P9 ifcp:187/held/2018;
+ crm:P142 ifcp:187/register .
+ifcp:187/held/2018
+ crm:P14 "田港区、屋古区、塩屋区、白浜区".
+ifcp:187/register
+ crm:P4 "19971215".
+cate:practice skos:narrower cate:p6 . 
+ifcp:192
+ rdfs:label "等覚寺の松会";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "福岡県".
+];
+ crm:P9 ifcp:192/held/2018;
+ crm:P142 ifcp:192/register .
+ifcp:192/held/2018
+ crm:P14 "等覚寺松会保存会".
+ifcp:192/register
+ crm:P4 "19981216".
+cate:practice skos:narrower cate:p6 . 
+ifcp:197
+ rdfs:label "山北のボタモチ祭り";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "新潟県".
+];
+ crm:P9 ifcp:197/held/2018;
+ crm:P142 ifcp:197/register .
+ifcp:197/held/2018
+ crm:P14 "中浜ボタモチ祭保存会、杉平ボタモチ祭保存会、岩石ボタモチ保存会".
+ifcp:197/register
+ crm:P4 "19991221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:198
+ rdfs:label "滑川のネブタ流し";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "富山県".
+];
+ crm:P9 ifcp:198/held/2018;
+ crm:P142 ifcp:198/register .
+ifcp:198/held/2018
+ crm:P14 "中川原、常盤町一区・二区・三区".
+ifcp:198/register
+ crm:P4 "19991221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:199
+ rdfs:label "大江八幡神社の御船行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "静岡県".
+];
+ crm:P9 ifcp:199/held/2018;
+ crm:P142 ifcp:199/register .
+ifcp:199/held/2018
+ crm:P14 "大江氏子会".
+ifcp:199/register
+ crm:P4 "19991221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:201
+ rdfs:label "河内祭の御舟行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "和歌山県".
+];
+ crm:P9 ifcp:201/held/2018;
+ crm:P142 ifcp:201/register .
+ifcp:201/held/2018
+ crm:P14 "古座川河内祭保存会、古座獅子舞保存会".
+ifcp:201/register
+ crm:P4 "19991221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:205
+ rdfs:label "片品の猿追い祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "群馬県".
+];
+ crm:P9 ifcp:205/held/2018;
+ crm:P142 ifcp:205/register .
+ifcp:205/held/2018
+ crm:P14 "猿追い祭保存会".
+ifcp:205/register
+ crm:P4 "20001227".
+cate:practice skos:narrower cate:p6 . 
+ifcp:206
+ rdfs:label "気多の鵜祭の習俗";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "石川県".
+];
+ crm:P9 ifcp:206/held/2018;
+ crm:P142 ifcp:206/register .
+ifcp:206/held/2018
+ crm:P14 "気多大社、鵜浦町会".
+ifcp:206/register
+ crm:P4 "20001227".
+cate:practice skos:narrower cate:p6 . 
+ifcp:208
+ rdfs:label "見付天神裸祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "静岡県".
+];
+ crm:P9 ifcp:208/held/2018;
+ crm:P142 ifcp:208/register .
+ifcp:208/held/2018
+ crm:P14 "見付天神裸祭保存会".
+ifcp:208/register
+ crm:P4 "20001227".
+cate:practice skos:narrower cate:p6 . 
+ifcp:215
+ rdfs:label "城端神明宮祭の曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "富山県".
+];
+ crm:P9 ifcp:215/held/2018;
+ crm:P142 ifcp:215/register .
+ifcp:215/held/2018
+ crm:P14 "城端曳山祭保存会".
+ifcp:215/register
+ crm:P4 "20020212".
+cate:practice skos:narrower cate:p6 . 
+ifcp:216
+ rdfs:label "上野天神祭のダンジリ行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "三重県".
+];
+ crm:P9 ifcp:216/held/2018;
+ crm:P142 ifcp:216/register .
+ifcp:216/held/2018
+ crm:P14 "上野文化美術保存会".
+ifcp:216/register
+ crm:P4 "20020212".
+cate:practice skos:narrower cate:p6 . 
+ifcp:219
+ rdfs:label "鹿沼今宮神社祭の屋台行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "栃木県".
+];
+ crm:P9 ifcp:219/held/2018;
+ crm:P142 ifcp:219/register .
+ifcp:219/held/2018
+ crm:P14 "鹿沼いまみや付け祭り保存会".
+ifcp:219/register
+ crm:P4 "20030220".
+cate:practice skos:narrower cate:p6 . 
+ifcp:220
+ rdfs:label "八戸三社大祭の山車行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "青森県".
+];
+ crm:P9 ifcp:220/held/2018;
+ crm:P142 ifcp:220/register .
+ifcp:220/held/2018
+ crm:P14 "八戸三社大祭山車祭り行事保存会".
+ifcp:220/register
+ crm:P4 "20040206".
+cate:practice skos:narrower cate:p6 . 
+ifcp:226
+ rdfs:label "佐原の山車行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "千葉県".
+];
+ crm:P9 ifcp:226/held/2018;
+ crm:P142 ifcp:226/register .
+ifcp:226/held/2018
+ crm:P14 "佐原山車行事伝承保存会".
+ifcp:226/register
+ crm:P4 "20040206".
+cate:practice skos:narrower cate:p6 . 
+ifcp:231
+ rdfs:label "川越氷川祭の山車行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "埼玉県".
+];
+ crm:P9 ifcp:231/held/2018;
+ crm:P142 ifcp:231/register .
+ifcp:231/held/2018
+ crm:P14 "川越氷川祭の山車行事保存会".
+ifcp:231/register
+ crm:P4 "20050221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:232
+ rdfs:label "茂名の里芋祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "千葉県".
+];
+ crm:P9 ifcp:232/held/2018;
+ crm:P142 ifcp:232/register .
+ifcp:232/held/2018
+ crm:P14 "茂名区".
+ifcp:232/register
+ crm:P4 "20050221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:234
+ rdfs:label "三上のずいき祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "滋賀県".
+];
+ crm:P9 ifcp:234/held/2018;
+ crm:P142 ifcp:234/register .
+ifcp:234/held/2018
+ crm:P14 "ずいき祭保存会".
+ifcp:234/register
+ crm:P4 "20050221".
+cate:practice skos:narrower cate:p6 . 
+ifcp:243
+ rdfs:label "犬山祭の車山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "愛知県".
+];
+ crm:P9 ifcp:243/held/2018;
+ crm:P142 ifcp:243/register .
+ifcp:243/held/2018
+ crm:P14 "犬山祭保存会".
+ifcp:243/register
+ crm:P4 "20060315".
+cate:practice skos:narrower cate:p6 . 
+ifcp:244
+ rdfs:label "亀崎潮干祭の山車行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "愛知県".
+];
+ crm:P9 ifcp:244/held/2018;
+ crm:P142 ifcp:244/register .
+ifcp:244/held/2018
+ crm:P14 "亀崎潮干祭保存会".
+ifcp:244/register
+ crm:P4 "20060315".
+cate:practice skos:narrower cate:p6 . 
+ifcp:249
+ rdfs:label "桑名石取祭の祭車行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "三重県".
+];
+ crm:P9 ifcp:249/held/2018;
+ crm:P142 ifcp:249/register .
+ifcp:249/held/2018
+ crm:P14 "桑名石取祭保存会".
+ifcp:249/register
+ crm:P4 "20070307".
+cate:practice skos:narrower cate:p6 . 
+ifcp:259
+ rdfs:label "新庄まつりの山車行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "山形県".
+];
+ crm:P9 ifcp:259/held/2018;
+ crm:P142 ifcp:259/register .
+ifcp:259/held/2018
+ crm:P14 "新庄まつり山車行事保存会".
+ifcp:259/register
+ crm:P4 "20090311".
+cate:practice skos:narrower cate:p6 . 
+ifcp:270
+ rdfs:label "小菅の柱松行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "長野県".
+];
+ crm:P9 ifcp:270/held/2018;
+ crm:P142 ifcp:270/register .
+ifcp:270/held/2018
+ crm:P14 "小菅柱松保存会".
+ifcp:270/register
+ crm:P4 "20110309".
+cate:practice skos:narrower cate:p6 . 
+ifcp:272
+ rdfs:label "八代妙見祭の神幸行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "熊本県".
+];
+ crm:P9 ifcp:272/held/2018;
+ crm:P142 ifcp:272/register .
+ifcp:272/held/2018
+ crm:P14 "八代妙見祭保存振興会".
+ifcp:272/register
+ crm:P4 "20110309".
+cate:practice skos:narrower cate:p6 . 
+ifcp:273
+ rdfs:label "吉田の火祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "山梨県".
+];
+ crm:P9 ifcp:273/held/2018;
+ crm:P142 ifcp:273/register .
+ifcp:273/held/2018
+ crm:P14 "吉田の火祭保存会".
+ifcp:273/register
+ crm:P4 "20120308".
+cate:practice skos:narrower cate:p6 . 
+ifcp:275
+ rdfs:label "須成祭の車楽船行事と神葭流し";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "愛知県".
+];
+ crm:P9 ifcp:275/held/2018;
+ crm:P142 ifcp:275/register .
+ifcp:275/held/2018
+ crm:P14 "須成文化財保護委員会".
+ifcp:275/register
+ crm:P4 "20120308".
+cate:practice skos:narrower cate:p6 . 
+ifcp:276
+ rdfs:label "坂越の船祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "兵庫県".
+];
+ crm:P9 ifcp:276/held/2018;
+ crm:P142 ifcp:276/register .
+ifcp:276/held/2018
+ crm:P14 "坂越の船渡御祭保存会".
+ifcp:276/register
+ crm:P4 "20120308".
+cate:practice skos:narrower cate:p6 . 
+ifcp:282
+ rdfs:label "花輪祭の屋台行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "秋田県".
+];
+ crm:P9 ifcp:282/held/2018;
+ crm:P142 ifcp:282/register .
+ifcp:282/held/2018
+ crm:P14 "花輪ばやし祭典委員会".
+ifcp:282/register
+ crm:P4 "20140310".
+cate:practice skos:narrower cate:p6 . 
+ifcp:283
+ rdfs:label "松例祭の大松明行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "山形県".
+];
+ crm:P9 ifcp:283/held/2018;
+ crm:P142 ifcp:283/register .
+ifcp:283/held/2018
+ crm:P14 "松例祭保存会".
+ifcp:283/register
+ crm:P4 "20140310".
+cate:practice skos:narrower cate:p6 . 
+ifcp:288
+ rdfs:label "大垣祭の軕行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "岐阜県".
+];
+ crm:P9 ifcp:288/held/2018;
+ crm:P142 ifcp:288/register .
+ifcp:288/held/2018
+ crm:P14 "大垣祭保存会".
+ifcp:288/register
+ crm:P4 "20150302".
+cate:practice skos:narrower cate:p6 . 
+ifcp:290
+ rdfs:label "那智の扇祭り";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "和歌山県".
+];
+ crm:P9 ifcp:290/held/2018;
+ crm:P142 ifcp:290/register .
+ifcp:290/held/2018
+ crm:P14 "那智の扇祭り保存会".
+ifcp:290/register
+ crm:P4 "20150302".
+cate:practice skos:narrower cate:p6 . 
+ifcp:291
+ rdfs:label "大津祭の曳山行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "滋賀県".
+];
+ crm:P9 ifcp:291/held/2018;
+ crm:P142 ifcp:291/register .
+ifcp:291/held/2018
+ crm:P14 "大津祭保存会".
+ifcp:291/register
+ crm:P4 "20160302".
+cate:practice skos:narrower cate:p6 . 
+ifcp:292
+ rdfs:label "新宮の速玉祭・御燈祭り";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "和歌山県".
+];
+ crm:P9 ifcp:292/held/2018;
+ crm:P142 ifcp:292/register .
+ifcp:292/held/2018
+ crm:P14 "熊野速玉大社祭事保存会".
+ifcp:292/register
+ crm:P4 "20160302".
+cate:practice skos:narrower cate:p6 . 
+ifcp:293
+ rdfs:label "西大寺の会陽";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "岡山県".
+];
+ crm:P9 ifcp:293/held/2018;
+ crm:P142 ifcp:293/register .
+ifcp:293/held/2018
+ crm:P14 "西大寺会陽保存会".
+ifcp:293/register
+ crm:P4 "20160302".
+cate:practice skos:narrower cate:p6 . 
+ifcp:295
+ rdfs:label "常陸大津の御船祭";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "茨城県".
+];
+ crm:P9 ifcp:295/held/2018;
+ crm:P142 ifcp:295/register .
+ifcp:295/held/2018
+ crm:P14 "常陸大津の御船祭保存会".
+ifcp:295/register
+ crm:P4 "20170303".
+cate:practice skos:narrower cate:p6 . 
+ifcp:301
+ rdfs:label "浦佐毘沙門堂の裸押合";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "新潟県".
+];
+ crm:P9 ifcp:301/held/2018;
+ crm:P142 ifcp:301/register .
+ifcp:301/held/2018
+ crm:P14 "浦佐毘沙門堂裸押合大祭委員会".
+ifcp:301/register
+ crm:P4 "20180308".
+cate:practice skos:narrower cate:p6 . 
+ifcp:302
+ rdfs:label "村上祭の屋台行事";
+ crm:P2 cate:practice;
+ crm:P2 cate:p6;
+ crm:P25 [
+  crm:P67 "新潟県".
+];
+ crm:P9 ifcp:302/held/2018;
+ crm:P142 ifcp:302/register .
+ifcp:302/held/2018
+ crm:P14 "村上まつり保存会".
+ifcp:302/register
+ crm:P4 "20180308".
+cate:practice skos:narrower cate:p6 . 
+

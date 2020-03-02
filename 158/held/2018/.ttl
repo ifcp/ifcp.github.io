@@ -1,0 +1,10 @@
+<http://example.org/ifcp/158/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "宮古島市島尻自治会，宮古島市野原部落会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/158>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-09";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-08"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://okinawa-repeat.com/aokisanae-taikenreport-miyakojima-shimajiri/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> "", "沖縄県";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

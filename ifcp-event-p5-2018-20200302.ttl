@@ -1,0 +1,488 @@
+@base <http://example.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <http://example.org/ifcp/> .
+@prefix cate: <http://example.org/ifcp/category/> .
+ifcp:49
+    rdf:type crm:E1 .
+<http://example.org/ifcp/49/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:49 ;
+    crm:P7 "鹿児島県" ;
+    crm:P7 "" ;
+    crm:P14 "甑島トシドン保存会（手打港トシドン保存会，手打麓トシドン保存会，手打本町トシドン保存会，片野浦トシドン保存会，青瀬トシドン保存会，瀬々野浦トシドン保存会）" ;
+    crm:P67 <http://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/satumasendai/doshidon.html> ;
+    crm:P4 [
+        crm:P116 "2018-12-31" ;
+        crm:P115 "2018-12-31" 
+    ] . 
+ifcp:51
+    rdf:type crm:E1 .
+<http://example.org/ifcp/51/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:51 ;
+    crm:P7 "秋田県" ;
+    crm:P7 "" ;
+    crm:P14 "男鹿のナマハゲ保存会" ;
+    crm:P67 <https://www.namahage-oga.akita.jp> ;
+    crm:P4 [
+        crm:P116 "2018-12-31" ;
+        crm:P115 "2018-12-31" 
+    ] . 
+ifcp:67
+    rdf:type crm:E1 .
+<http://example.org/ifcp/67/held/2018/1>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:67 ;
+    crm:P7 "石川県" ;
+    crm:P7 "輪島市" ;
+    crm:P14 "能登のアマメハギ・面様年頭保存会（能登町秋吉地区アマメハギ保存会，門前町アマメハギ保存会，輪島市面様年頭保存会）" ;
+    crm:P67 <https://www.hot-ishikawa.jp/event/4517> ;
+    crm:P4 [
+        crm:P116 "2018-01-02" ;
+        crm:P115 "2018-01-02" 
+    ] . 
+ifcp:67
+    rdf:type crm:E1 .
+<http://example.org/ifcp/67/held/2018/2>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:67 ;
+    crm:P7 "石川県" ;
+    crm:P7 "鳳珠郡能登町" ;
+    crm:P14 "能登のアマメハギ・面様年頭保存会（能登町秋吉地区アマメハギ保存会，門前町アマメハギ保存会，輪島市面様年頭保存会）" ;
+    crm:P67 <https://www.hot-ishikawa.jp/event/4517> ;
+    crm:P4 [
+        crm:P116 "2018-02-03" ;
+        crm:P115 "2018-02-03" 
+    ] . 
+ifcp:109
+    rdf:type crm:E1 .
+<http://example.org/ifcp/109/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:109 ;
+    crm:P7 "鹿児島県" ;
+    crm:P7 "" ;
+    crm:P14 "枕崎市十五夜行事保存会，知覧町十五夜行事保存会，坊津町十五夜行事保存会" ;
+    crm:P67 <https://kanko-minamisatsuma.jp/event/7547/> ;
+    crm:P4 [
+        crm:P116 "2018-09-24" ;
+        crm:P115 "2018-09-24" 
+    ] . 
+ifcp:110
+    rdf:type crm:E1 .
+<http://example.org/ifcp/110/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:110 ;
+    crm:P7 "秋田県" ;
+    crm:P7 "" ;
+    crm:P14 "六郷町カマクラ保存会" ;
+    crm:P67 <https://www.town.misato.akita.jp/kamakura/2574.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-11" ;
+        crm:P115 "2018-02-15" 
+    ] . 
+ifcp:124
+    rdf:type crm:E1 .
+<http://example.org/ifcp/124/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:124 ;
+    crm:P7 "鹿児島県" ;
+    crm:P7 "" ;
+    crm:P14 "秋名ヒラセマンカイ保存会" ;
+    crm:P67 <http://amamishimbun.co.jp/2018/09/11/13136/> ;
+    crm:P4 [
+        crm:P116 "2018-09-11" ;
+        crm:P115 "2018-09-11" 
+    ] . 
+ifcp:131
+    rdf:type crm:E1 .
+<http://example.org/ifcp/131/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:131 ;
+    crm:P7 "埼玉県" ;
+    crm:P7 "" ;
+    crm:P14 "猪俣の百八灯保存会" ;
+    crm:P67 <https://www.saitamatsuri.jp/matsuri/inomata_hyakuhato/> ;
+    crm:P4 [
+        crm:P116 "2018-08-15" ;
+        crm:P115 "2018-08-15" 
+    ] . 
+ifcp:135
+    rdf:type crm:E1 .
+<http://example.org/ifcp/135/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:135 ;
+    crm:P7 "長崎県" ;
+    crm:P7 "" ;
+    crm:P14 "下崎山町内会" ;
+    crm:P67 <https://www.nishinippon.co.jp/item/n/388880/> ;
+    crm:P4 [
+        crm:P116 "2018-01-21" ;
+        crm:P115 "2018-01-21" 
+    ] . 
+ifcp:138
+    rdf:type crm:E1 .
+<http://example.org/ifcp/138/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:138 ;
+    crm:P7 "新潟県" ;
+    crm:P7 "" ;
+    crm:P14 "青海竹のからかい保存会" ;
+    crm:P67 <https://www.itoigawa-kanko.net/trad/ominotakenokarakai/> ;
+    crm:P4 [
+        crm:P116 "2018-01-15" ;
+        crm:P115 "2018-01-15" 
+    ] . 
+ifcp:140
+    rdf:type crm:E1 .
+<http://example.org/ifcp/140/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:140 ;
+    crm:P7 "三重県" ;
+    crm:P7 "" ;
+    crm:P14 "松尾地下，河内地下" ;
+    crm:P67 <https://www.bunka.pref.mie.lg.jp/Miebunka/mobile/bunkazaiMobile/detail/730770> ;
+    crm:P4 [
+        crm:P116 "2018-08-14" ;
+        crm:P115 "2018-08-15" 
+    ] . 
+ifcp:145
+    rdf:type crm:E1 .
+<http://example.org/ifcp/145/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:145 ;
+    crm:P7 "山口県" ;
+    crm:P7 "" ;
+    crm:P14 "祖生柱松行事保存会　中村柱松保存会，山田柱松保存会，落合柱松保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "2018-08-15" ;
+        crm:P115 "2018-08-23" 
+    ] . 
+ifcp:156
+    rdf:type crm:E1 .
+<http://example.org/ifcp/156/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:156 ;
+    crm:P7 "長野県" ;
+    crm:P7 "下高井郡野沢温泉村" ;
+    crm:P14 "野沢温泉村野沢組" ;
+    crm:P67 <https://www.mtlabs.co.jp/shinshu/event/dousonoz.htm> ;
+    crm:P4 [
+        crm:P116 "2018-01-15" ;
+        crm:P115 "2018-01-15" 
+    ] . 
+ifcp:158
+    rdf:type crm:E1 .
+<http://example.org/ifcp/158/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:158 ;
+    crm:P7 "沖縄県" ;
+    crm:P7 "" ;
+    crm:P14 "宮古島市島尻自治会，宮古島市野原部落会" ;
+    crm:P67 <https://okinawa-repeat.com/aokisanae-taikenreport-miyakojima-shimajiri/> ;
+    crm:P4 [
+        crm:P116 "2018-10-08" ;
+        crm:P115 "2018-10-09" 
+    ] . 
+ifcp:162
+    rdf:type crm:E1 .
+<http://example.org/ifcp/162/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:162 ;
+    crm:P7 "福岡県" ;
+    crm:P7 "" ;
+    crm:P14 "大善寺玉垂宮鬼夜保存会" ;
+    crm:P67 <https://mainichi.jp/articles/20180108/k00/00m/040/121000c> ;
+    crm:P4 [
+        crm:P116 "2018-01-07" ;
+        crm:P115 "2018-01-07" 
+    ] . 
+ifcp:167
+    rdf:type crm:E1 .
+<http://example.org/ifcp/167/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:167 ;
+    crm:P7 "奈良県" ;
+    crm:P7 "" ;
+    crm:P14 "念仏寺鬼はしり保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "2018-01-14" ;
+        crm:P115 "2018-01-14" 
+    ] . 
+ifcp:179
+    rdf:type crm:E1 .
+<http://example.org/ifcp/179/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:179 ;
+    crm:P7 "神奈川県" ;
+    crm:P7 "" ;
+    crm:P14 "大磯町左義長保存会" ;
+    crm:P67 <https://paddler-shonan.com/eye/event-sagicho/> ;
+    crm:P4 [
+        crm:P116 "2018-01-13" ;
+        crm:P115 "2018-01-13" 
+    ] . 
+ifcp:188
+    rdf:type crm:E1 .
+<http://example.org/ifcp/188/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:188 ;
+    crm:P7 "秋田県" ;
+    crm:P7 "" ;
+    crm:P14 "横岡サエの神保存会、大森サエの神保存会" ;
+    crm:P67 <https://matsuri-no-hi.com/matsuri/14018> ;
+    crm:P4 [
+        crm:P116 "2018-01-15" ;
+        crm:P115 "2018-01-15" 
+    ] . 
+ifcp:195
+    rdf:type crm:E1 .
+<http://example.org/ifcp/195/held/2018/1>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:195 ;
+    crm:P7 "山形県" ;
+    crm:P7 "遊佐町吹浦地区女鹿" ;
+    crm:P14 "遊佐のアマハゲ保存会" ;
+    crm:P67 <http://www.town.yuza.yamagata.jp/ou/kyoiku/bunka/8207.html> ;
+    crm:P4 [
+        crm:P116 "2018-01-03" ;
+        crm:P115 "2018-01-03" 
+    ] . 
+ifcp:195
+    rdf:type crm:E1 .
+<http://example.org/ifcp/195/held/2018/2>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:195 ;
+    crm:P7 "山形県" ;
+    crm:P7 "遊佐町吹浦地区滝ノ浦" ;
+    crm:P14 "遊佐のアマハゲ保存会" ;
+    crm:P67 <http://www.town.yuza.yamagata.jp/ou/kyoiku/bunka/8207.html> ;
+    crm:P4 [
+        crm:P116 "2018-01-01" ;
+        crm:P115 "2018-01-01" 
+    ] . 
+ifcp:195
+    rdf:type crm:E1 .
+<http://example.org/ifcp/195/held/2018/3>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:195 ;
+    crm:P7 "山形県" ;
+    crm:P7 "遊佐町吹浦地区鳥崎" ;
+    crm:P14 "遊佐のアマハゲ保存会" ;
+    crm:P67 <http://www.town.yuza.yamagata.jp/ou/kyoiku/bunka/8207.html> ;
+    crm:P4 [
+        crm:P116 "2018-01-06" ;
+        crm:P115 "2018-01-06" 
+    ] . 
+ifcp:204
+    rdf:type crm:E1 .
+<http://example.org/ifcp/204/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:204 ;
+    crm:P7 "宮城県" ;
+    crm:P7 "" ;
+    crm:P14 "米川の水かぶり保存会" ;
+    crm:P67 <https://www.city.tome.miyagi.jp/towa-simin/shisejoho/chiikijoho/2018yonekawanomizukaburijoho.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-07" ;
+        crm:P115 "2018-02-07" 
+    ] . 
+ifcp:218
+    rdf:type crm:E1 .
+<http://example.org/ifcp/218/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:218 ;
+    crm:P7 "佐賀県" ;
+    crm:P7 "" ;
+    crm:P14 "加勢鳥保存会" ;
+    crm:P67 <https://www.asobo-saga.jp/event/detail.html?id=2418> ;
+    crm:P4 [
+        crm:P116 "2018-02-10" ;
+        crm:P115 "2018-02-10" 
+    ] . 
+ifcp:221
+    rdf:type crm:E1 .
+<http://example.org/ifcp/221/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:221 ;
+    crm:P7 "岩手県" ;
+    crm:P7 "" ;
+    crm:P14 "吉浜スネカ保存会" ;
+    crm:P67 <https://ofunato.jp/Summary/info/81> ;
+    crm:P4 [
+        crm:P116 "2018-01-15" ;
+        crm:P115 "2018-01-15" 
+    ] . 
+ifcp:228
+    rdf:type crm:E1 .
+<http://example.org/ifcp/228/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:228 ;
+    crm:P7 "愛知県" ;
+    crm:P7 "" ;
+    crm:P14 "鳥羽区" ;
+    crm:P67 <https://www.katch.co.jp/kinjo/arekore/arekore44.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-11" ;
+        crm:P115 "2018-02-11" 
+    ] . 
+ifcp:236
+    rdf:type crm:E1 .
+<http://example.org/ifcp/236/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:236 ;
+    crm:P7 "島根県" ;
+    crm:P7 "" ;
+    crm:P14 "大浦グロ保存会" ;
+    crm:P67 <https://matsuri-no-hi.com/matsuri/22712> ;
+    crm:P4 [
+        crm:P116 "2018-01-11" ;
+        crm:P115 "2018-01-15" 
+    ] . 
+ifcp:240
+    rdf:type crm:E1 .
+<http://example.org/ifcp/240/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:240 ;
+    crm:P7 "宮城県" ;
+    crm:P7 "" ;
+    crm:P14 "えんずのわり保存会" ;
+    crm:P67 <https://www.nihon-kankou.or.jp/miyagi/042145/detail/04566be2220112899> ;
+    crm:P4 [
+        crm:P116 "2018-01-11" ;
+        crm:P115 "2018-01-16" 
+    ] . 
+ifcp:245
+    rdf:type crm:E1 .
+<http://example.org/ifcp/245/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:245 ;
+    crm:P7 "兵庫県" ;
+    crm:P7 "加西市上万願寺392" ;
+    crm:P14 "東光寺追儺式及び田遊び保存会" ;
+    crm:P67 <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm> ;
+    crm:P4 [
+        crm:P116 "2018-01-08" ;
+        crm:P115 "2018-01-08" 
+    ] . 
+ifcp:250
+    rdf:type crm:E1 .
+<http://example.org/ifcp/250/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:250 ;
+    crm:P7 "鳥取県" ;
+    crm:P7 "" ;
+    crm:P14 "酒津とんど祭り保存会" ;
+    crm:P67 <https://matsuri-no-hi.com/matsuri/20962> ;
+    crm:P4 [
+        crm:P116 "2018-01-13" ;
+        crm:P115 "2018-01-14" 
+    ] . 
+ifcp:253
+    rdf:type crm:E1 .
+<http://example.org/ifcp/253/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:253 ;
+    crm:P7 "福島県" ;
+    crm:P7 "" ;
+    crm:P14 "三島町年中行事保存会" ;
+    crm:P67 <http://www.mishima-kankou.net/20180112/> ;
+    crm:P4 [
+        crm:P116 "2018-01-15" ;
+        crm:P115 "2018-01-15" 
+    ] . 
+ifcp:264
+    rdf:type crm:E1 .
+<http://example.org/ifcp/264/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:264 ;
+    crm:P7 "山口県" ;
+    crm:P7 "" ;
+    crm:P14 "神明祭顕彰会" ;
+    crm:P67 <http://www.oidemase.or.jp/blog-yanai/2018/01/16/【柳井市】阿月神明祭開催のお知らせ> ;
+    crm:P4 [
+        crm:P116 "2018-02-11" ;
+        crm:P115 "2018-02-11" 
+    ] . 
+ifcp:266
+    rdf:type crm:E1 .
+<http://example.org/ifcp/266/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:266 ;
+    crm:P7 "富山県" ;
+    crm:P7 "" ;
+    crm:P14 "塞の神まつり保存会" ;
+    crm:P67 <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html> ;
+    crm:P4 [
+        crm:P116 "2018-01-14" ;
+        crm:P115 "2018-01-14" 
+    ] . 
+ifcp:269
+    rdf:type crm:E1 .
+<http://example.org/ifcp/269/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:269 ;
+    crm:P7 "神奈川県" ;
+    crm:P7 "三浦市初声町三戸" ;
+    crm:P14 "三戸お精霊流し保存会" ;
+    crm:P67 <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html> ;
+    crm:P4 [
+        crm:P116 "2018-08-16" ;
+        crm:P115 "2018-08-16" 
+    ] . 
+ifcp:277
+    rdf:type crm:E1 .
+<http://example.org/ifcp/277/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:277 ;
+    crm:P7 "奈良県" ;
+    crm:P7 "" ;
+    crm:P14 "江包・大西の御綱祭り保存会" ;
+    crm:P67 <http://www.pref.nara.jp/17619.htm> ;
+    crm:P4 [
+        crm:P116 "2018-02-09" ;
+        crm:P115 "2018-02-11" 
+    ] . 
+ifcp:278
+    rdf:type crm:E1 .
+<http://example.org/ifcp/278/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:278 ;
+    crm:P7 "山口県" ;
+    crm:P7 "" ;
+    crm:P14 "地福といとい保存会" ;
+    crm:P67 <https://www.city.yamaguchi.lg.jp/site/movie/19833.html> ;
+    crm:P4 [
+        crm:P116 "2018-01-14" ;
+        crm:P115 "2018-01-14" 
+    ] . 
+ifcp:298
+    rdf:type crm:E1 .
+<http://example.org/ifcp/298/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:298 ;
+    crm:P7 "鹿児島県" ;
+    crm:P7 "" ;
+    crm:P14 "悪石島の盆踊り保存会" ;
+    crm:P67 <https://www.asahi.com/articles/DA3S13652403.html> ;
+    crm:P4 [
+        crm:P116 "2018-08-26" ;
+        crm:P115 "2018-08-26" 
+    ] . 
+ifcp:299
+    rdf:type crm:E1 .
+<http://example.org/ifcp/299/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:299 ;
+    crm:P7 "鹿児島県" ;
+    crm:P7 "" ;
+    crm:P14 "硫黄島八朔太鼓踊り保存会" ;
+    crm:P67 <https://www.pref.kagoshima.jp/ak01/chiiki/kagoshima/takarabako/traditional/ioujimanomendon.html> ;
+    crm:P4 [
+        crm:P116 "2018-09-10" ;
+        crm:P115 "2018-09-11" 
+    ] . 

@@ -1,0 +1,21 @@
+<http://example.org/ifcp/95>
+  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/95/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>, <http://example.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　戸畑祇園大山笠行事は、北九州市の戸畑の祇園祭で行われる行事である。
+　14日当日、東大山笠、西大山笠、中原大山笠、天籟寺大山笠の４基の各山笠が、各山笠が所属する神社の神霊を奉じて練る。昼は台上に12本の幟を立て、前面に前花、背面に見送りを飾り、台の周囲に金銀糸の幕を張りめぐらした幟大山笠として、勇壮な囃子にのって若者たちにより担がれて市中を練り回る。
+　夜になると、大山笠に309個の提灯を積み重ねて飾り、提灯大山笠に姿をかえ、囃子に乗って練る。
+　幟大山笠に和して区内各地区から子ども山笠も多く出る。
+　この行事の次第は、７月13日に山笠の組立、飾り付けが始まり、14日正午に各山笠が八幡神社に集合し、祭典を行い、神霊移しの儀がある。そして大山笠とこれに供奉する子ども山笠が海岸にお潮井取りに出発する。夕方になると提灯大山笠の競演が行われる。15日は各山笠が地区内を流れがきする。
+　この行事は、昼は幟大山笠、夜は提灯大山笠の豪華絢爛たる流れがきが行われるもので、規模が大きく、内容にも特色があり、我が国の祭礼行事の代表的なものの１つとして重要である。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月１３～１５日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://tobatagion.jp>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> "福岡県北九州市戸畑区";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Dandyrobot";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-10-28";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/戸畑祇園大山笠>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "1802年（享和2年）"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "とばたぎおんおおやまがさぎょうじ", "戸畑祇園大山笠行事" .
+<http://example.org/ifcp/95/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/95>.

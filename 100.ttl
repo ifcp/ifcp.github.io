@@ -1,0 +1,19 @@
+<http://example.org/ifcp/100>
+  <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/100/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>, <http://example.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　田島祇園祭のおとうや行事は、７月18日から21日まで行なわれるもので、一連の行事は、おとうやという特色ある祭祀組織を中心に執行されるものである。
+　　この行事には、屋台の曳行・神輿の渡御・太々神楽の奉納などがあるほか、これらに先立って濁酒の仕込みや御神酒開きなどの諸準備が行なわれる。また、20日には、さかき迎え、七度の使い、七ほかいの献上など、おとうやによる特殊な行事が執行される。
+　この行事は、古式をよく伝えており、また、それが職業的な神主ではなく、おとうやという氏子を中心とした祭礼組織によって行なわれる点で重要なものである。
+　また、今日でも慶長８年（1603）の記録にほぼ近い形で、祭りの行事が行なわれている点でも貴重である。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月１８～２１日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.minamiaizu.org/gion/>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> "福島県南会津郡南会津町田島";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Osakanataro";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-13";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/会津田島祇園祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "鎌倉時代の文治年間（12世紀末葉）"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "たじまぎおんまつりのおとうやぎょうじ", "田島祇園祭のおとうや行事" .
+<http://example.org/ifcp/100/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/100>.

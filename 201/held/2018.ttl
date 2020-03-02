@@ -1,0 +1,9 @@
+<http://example.org/ifcp/201/held/2018>
+  <http://purl.org/NET/cidoc-crm/core#P14> "古座川河内祭保存会、古座獅子舞保存会";
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P7> "和歌山県";
+  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/201>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
