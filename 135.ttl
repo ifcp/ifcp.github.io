@@ -18,4 +18,4 @@
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "しもざきやまのへとまとぎょうじ", "下崎山のヘトマト行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "141", "しもざきやまのへとまとぎょうじ", "下崎山のヘトマト行事" .

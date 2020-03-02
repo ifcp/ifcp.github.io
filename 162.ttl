@@ -23,4 +23,4 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "368年（仁徳天皇56年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "だいぜんじたまたれぐうのおによ", "大善寺玉垂宮の鬼夜" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "136", "だいぜんじたまたれぐうのおによ", "大善寺玉垂宮の鬼夜" .

@@ -6,5 +6,10 @@ labels:
   http://purl.org/NET/cidoc-crm/core#P67: URL
   http://purl.org/NET/cidoc-crm/core#P141: 重要無形民俗文化財登録情報
   http://purl.org/NET/cidoc-crm/core#P94: 発祥情報
+  http://purl.org/NET/cidoc-crm/core#P31: 記入者
+  http://purl.org/NET/cidoc-crm/core#P94: 発祥時期
+  http://purl.org/NET/cidoc-crm/core#P94: 発祥地
   http://purl.org/NET/cidoc-crm/core#P2: カテゴリー
+  http://www.w3.org/2004/02/skos/core#border: 上位カテゴリー
+  http://www.w3.org/2004/02/skos/core#narrower: 下位カテゴリー
 site_title: Intangible Folk Cultural Properties

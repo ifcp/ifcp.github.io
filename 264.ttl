@@ -27,4 +27,4 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "正保元年(1644年)"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "あつきのしんめいまつり", "阿月の神明祭" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "857", "あつきのしんめいまつり", "阿月の神明祭" .
