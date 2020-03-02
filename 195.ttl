@@ -26,3 +26,7 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "712", "ゆざのこしょうがつぎょうじ", "遊佐の小正月行事" .
+<http://example.org/ifcp/195/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/195>.
+<http://example.org/ifcp/195/held/2018/1> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/195>.
+<http://example.org/ifcp/195/held/2018/2> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/195>.
+<http://example.org/ifcp/195/held/2018/3> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/195>.

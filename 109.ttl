@@ -18,3 +18,5 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "154", "みなみさつまのじゅうごやぎょうじ", "南薩摩の十五夜行事" .
+<http://example.org/ifcp/109/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/109>.
+<http://example.org/ifcp/109/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/109>.

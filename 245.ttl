@@ -24,3 +24,5 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "813", "とうこうじのおにえ", "東光寺の鬼会" .
+<http://example.org/ifcp/245/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/245>.
+<http://example.org/ifcp/245/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/245>.
