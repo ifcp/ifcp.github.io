@@ -14,10 +14,9 @@
     <http://purl.org/NET/cidoc-crm/core#P107> "";
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P67> <poorman-p5-20200302.ttl>;
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "92", "しまかもごごうのぼんまつりぎょうじ", "志摩加茂五郷の盆祭行事" .
-<http://example.org/ifcp/140/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/140>.
+  <http://www.w3.org/2000/01/rdf-schema#label> "しまかもごごうのぼんまつりぎょうじ", "志摩加茂五郷の盆祭行事" .
 <http://example.org/ifcp/140/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/140>.
