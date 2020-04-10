@@ -18,4 +18,4 @@ labels:
   http://purl.org/NET/cidoc-crm/core#P116: 開始日
   http://purl.org/NET/cidoc-crm/core#P115: 終了日
 site_title: Intangible Folk Cultural Properties
-top_class: http://purl.org/NET/cidoc-crm/core#E1
+top_class: http://www.w3.org/2000/01/rdf-schema#label
