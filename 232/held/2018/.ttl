@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "茂名区";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/232>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-02-20";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-02-20"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://nihonguide.net/maturi/1208.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "千葉県";

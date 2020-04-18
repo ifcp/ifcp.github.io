@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "発光路妙見神社青年部";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/171>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-01-03";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-03"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.shimotsuke.co.jp/articles/-/11035>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "栃木県";

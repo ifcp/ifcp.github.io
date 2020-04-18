@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "青柏祭でか山保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/114>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-05-05";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-05-03"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000014569>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "石川県";

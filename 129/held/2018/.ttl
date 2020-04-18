@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "涌出宮宮座行事保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/129>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-02-18";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-02-17"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://nihonguide.net/maturi/26131.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "京都府";

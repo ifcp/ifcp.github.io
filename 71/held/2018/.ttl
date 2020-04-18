@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "（公益財団法人）長浜曳山文化協会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/71>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-04-16";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-04-13"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.gaido.jp/clickalbum/41126.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "滋賀県";

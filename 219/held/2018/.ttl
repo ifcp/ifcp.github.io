@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "鹿沼いまみや付け祭り保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/219>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-07";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-06"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASLB65DMXLB6UUHB00F.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "栃木県";

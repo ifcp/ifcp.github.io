@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "常陸大津の御船祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/295>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "開催せず";
-    <http://purl.org/NET/cidoc-crm/core#P116> "開催せず"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "茨城県";

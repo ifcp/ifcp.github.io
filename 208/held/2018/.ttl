@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "見付天神裸祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/208>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-09-16";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-15"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.chunichi.co.jp/article/shizuoka/tokai-news/CK2018091602000097.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "静岡県";

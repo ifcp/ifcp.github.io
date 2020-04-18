@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "弘前ねぷた保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/82>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-07";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-01"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://blog.tugarujikukan.info/archives/hirosaki-neputa>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "青森県";

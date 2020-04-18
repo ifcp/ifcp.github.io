@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "大津祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/291>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-07";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-06"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.biwalake-otsuka.com/yado/2018/2018092001.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "滋賀県";

@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "気多大社、鵜浦町会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/206>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-12-16";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-12-16"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://kanazawa-carfur.cocolog-nifty.com/blog/2018/12/1216-20181216-a.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "石川県";

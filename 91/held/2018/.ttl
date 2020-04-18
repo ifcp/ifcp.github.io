@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "尾張津島天王祭協賛会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/91>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "中止";
-    <http://purl.org/NET/cidoc-crm/core#P116> "中止"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://tsushima-cci.or.jp/info/台風１２号の影響による尾張津島天王祭のイベン/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "愛知県";

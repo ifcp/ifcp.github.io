@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "秩父祭保存委員会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/64>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-12-03";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-12-03"
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.saitama-np.co.jp/news/2018/12/04/04_.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "", "埼玉県";
