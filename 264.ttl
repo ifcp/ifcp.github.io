@@ -18,7 +18,7 @@
 　また、東西2本のシンメイを立てて東西対抗で行われオコシタテの早さを競ったという伝承もあり、東西対抗の要素もみられた。さらにこの行事が地区の若者の若連からの脱退の儀礼が行われる場ともなっているという特色もある。
 　これまで同種の行事では東北日本や中国地方日本海側の行事が注目され指定されてきたが、本件は中国地方瀬戸内海側における行事として注目されるものである。""";
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月11日";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city-yanai.jp/soshiki/39/atsukishimmei.html>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.yanaicci.or.jp/yanai/event/sinmei-f.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "山口県柳井市阿月";
     <http://purl.org/NET/cidoc-crm/core#P31> "山口県柳井市";

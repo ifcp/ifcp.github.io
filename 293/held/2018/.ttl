@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.asahi.com/area/okayama/articles/MTW20180216340340001.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "岡山県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "岡山市", "岡山県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

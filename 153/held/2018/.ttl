@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://bosotown.com/archives/2319>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "千葉県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "千葉県", "南房総市千倉町白間津";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

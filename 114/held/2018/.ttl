@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000014569>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "石川県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "府中町", "石川県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-15"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.mishima-kankou.net/20180112/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "福島県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "三島町", "福島県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -9,7 +9,7 @@
 　次いで、晒の褌に手拭をつけた男たちは、2組に分かれ、路上で3度綱引きを場所を交替して行い、終了後、全員で大草履などを担ぎ、山の神神社に奉納する。途中、娘たちをつかまえその上に乗せて胴上げなども行われる。
 　この行事は、神仏に加護をもとめて生業の発展・除災招福を祈願するもので、ハゴイタツキ・タマゲリ・綱引きなどに宮相撲などが数多くあり、御幣の捧持役が世襲化であったり、ワッカモンにより行われるなど由来・内容等が典型的なものであり重要である。""";
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月１６日";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.goto.nagasaki.jp/s094/010/050/080/20200107113913.html>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://goto.nagasaki-tabinet.com/event/51078/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "";
     <http://purl.org/NET/cidoc-crm/core#P31> "";

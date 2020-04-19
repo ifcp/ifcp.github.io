@@ -17,7 +17,7 @@
 　この夜、古座神社では宵宮の祭式が行われ、河内様では御舟が順番に島を右回りに３周し、夜籠りが行われる。かつては、川原で夜を明かしたが現在ではいったん帰宅している。この日、古座区の獅子舞は区内の家を回り、高池下部・古田の獅子は河内様の古田側の川原で舞った後、区内の家をまわる。
 　25日は本祭で、狩衣姿のショウロウと祭典委員長などを乗せた当舟を先頭に、獅子を乗せた獅子伝馬、櫂伝馬が続き、その後に一般参加者の舟が続いて河内様に向かう。このときもショウロウは地面に足をつけず、神額同様橋を陸路で越える。当舟が河内様に到着するとショウロウを除く全員が島に登り参拝をする。その後、川原に移りショウロウはショウロウ座に着座する。この座はかつては榊と竹で組み毎年造り替えるものであった。""";
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年7月第四土・日曜日";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.wakayama-kanko.or.jp/event/detail.php?id=16779>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kushimoto.jp/kozajisi/sub03.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "";
     <http://purl.org/NET/cidoc-crm/core#P31> "";

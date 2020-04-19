@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASLB65DMXLB6UUHB00F.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "栃木県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "栃木県", "鹿沼市今宮町";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

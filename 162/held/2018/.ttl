@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-07"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://mainichi.jp/articles/20180108/k00/00m/040/121000c>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "福岡県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "久留米市大善寺町", "福岡県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

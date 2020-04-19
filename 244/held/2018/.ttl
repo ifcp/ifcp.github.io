@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL533TG6L53OBJB001.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "愛知県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "半田市", "愛知県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

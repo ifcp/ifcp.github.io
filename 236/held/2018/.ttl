@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-11"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://matsuri-no-hi.com/matsuri/22712>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "島根県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "大田市五十猛町", "島根県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

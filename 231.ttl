@@ -15,7 +15,7 @@
 　１日目には町内を山車を曳いて回る町内曳きが行われるが、この前後に神社まで山車を曳いていき参拝する行事が行われる。神社の鳥居前に正面して山車を止め人形をせり上げると、町内の役員は拝殿前で神職からお祓いを受け、その後山車も神職のお祓いを受ける。このとき氷川神社の御札をうけると山車に飾って町内に戻り、町内を巡行したり他町への巡行が行われる。他町内へ入るときには会所へ先触れが渡りの挨拶に行き、挨拶を受けた町内は自町内を山車が通過するまで金棒や提灯を持った案内役が先導する。
 　２日目も山車の曳き回しが行われ、山車同士が出合ったときには正面を至近距離で向き合わせて囃子の競演をするヒッカワセが行われる。""";
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年10月第三土・日曜日";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kawagoematsuri.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P107> "埼玉県川越市";
     <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212";

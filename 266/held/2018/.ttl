@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-14"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "富山県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "入善町上野", "富山県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

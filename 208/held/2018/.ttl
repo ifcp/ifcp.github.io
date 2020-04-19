@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.chunichi.co.jp/article/shizuoka/tokai-news/CK2018091602000097.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "静岡県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "磐田市", "静岡県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

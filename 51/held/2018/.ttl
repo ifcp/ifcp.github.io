@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-12-31"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.namahage-oga.akita.jp>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "秋田県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "男鹿市", "秋田県";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

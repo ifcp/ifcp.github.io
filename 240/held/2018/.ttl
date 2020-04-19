@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-11"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nihon-kankou.or.jp/miyagi/042145/detail/04566be2220112899>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "", "宮城県";
+  <http://purl.org/NET/cidoc-crm/core#P7> "宮城県", "東松島市";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
