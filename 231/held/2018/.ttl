@@ -4,9 +4,6 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://nobutsunakai.com/2018-matsuri/200/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "埼玉県", "川越市";

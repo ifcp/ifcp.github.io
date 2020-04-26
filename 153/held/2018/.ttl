@@ -4,9 +4,6 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://bosotown.com/archives/2319>;
   <http://purl.org/NET/cidoc-crm/core#P7> "千葉県", "南房総市千倉町白間津";

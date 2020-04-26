@@ -17,12 +17,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.otsu-matsuri.jp/festival/history.php>;
     <http://purl.org/NET/cidoc-crm/core#P81> "慶長～元和年間（1598～1624）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "滋賀県大津市京町三丁目";
-    <http://purl.org/NET/cidoc-crm/core#P31> "NPO法人大津祭曳山連盟";
-    <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <http://www.otsu-matsuri.jp/festival/history.php>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "慶長～元和年間（1598～1624）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおつまつりのひきやまぎょうじ", "大津祭の曳山行事" .

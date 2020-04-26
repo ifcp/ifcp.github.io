@@ -15,12 +15,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-10-28";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/戸畑祇園大山笠>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1802年（享和2年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "福岡県北九州市戸畑区";
-    <http://purl.org/NET/cidoc-crm/core#P31> "Dandyrobot";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-10-28";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/戸畑祇園大山笠>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "1802年（享和2年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とばたぎおんおおやまがさぎょうじ", "戸畑祇園大山笠行事" .

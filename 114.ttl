@@ -16,12 +16,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-30";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/青柏祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "諸説あり"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "石川県七尾市";
-    <http://purl.org/NET/cidoc-crm/core#P31> "182.158.76.4";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-30";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/青柏祭>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "諸説あり"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "せいはくさいのひきやまぎょうじ", "青柏祭の曳山行事" .

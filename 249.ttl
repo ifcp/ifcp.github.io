@@ -29,12 +29,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://isidori.jp/about.html>;
     <http://purl.org/NET/cidoc-crm/core#P81> "江戸時代初期"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "三重県桑名市";
-    <http://purl.org/NET/cidoc-crm/core#P31> "桑名石取祭保存会";
-    <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://isidori.jp/about.html>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "江戸時代初期"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "くわないしどりまつりのさいしゃぎょうじ", "桑名石取祭の祭車行事" .

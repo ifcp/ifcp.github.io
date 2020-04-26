@@ -24,12 +24,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/鹿沼今宮神社祭の屋台行事>;
     <http://purl.org/NET/cidoc-crm/core#P81> "慶長13年(1608年)3月"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "栃木県鹿沼市";
-    <http://purl.org/NET/cidoc-crm/core#P31> "Shikanuma";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-13";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/鹿沼今宮神社祭の屋台行事>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "慶長13年(1608年)3月"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かぬまいまみやじんじゃさいのやたいぎょうじ", "鹿沼今宮神社祭の屋台行事" .

@@ -16,12 +16,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://travel.nankikumano.jp/omatsuri/otoumatsuri/history/>;
     <http://purl.org/NET/cidoc-crm/core#P81> "敏達天皇三年(西暦574年)"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "和歌山県新宮市神倉";
-    <http://purl.org/NET/cidoc-crm/core#P31> "";
-    <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <http://travel.nankikumano.jp/omatsuri/otoumatsuri/history/>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "敏達天皇三年(西暦574年)"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "しんぐうのはやたまさい・おとうまつり", "新宮の速玉祭・御燈祭り" .

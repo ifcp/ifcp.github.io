@@ -24,12 +24,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1705年（宝永2年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県秋田市土崎港地区";
-    <http://purl.org/NET/cidoc-crm/core#P31> "ナレンコ";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "1705年（宝永2年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "つちざきしんめいしゃさいのひきやまぎょうじ", "土崎神明社祭の曳山行事" .

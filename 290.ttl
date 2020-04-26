@@ -19,12 +19,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/那智の田楽>;
     <http://purl.org/NET/cidoc-crm/core#P81> "応永10年（1403年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "和歌山県東牟婁郡那智勝浦町";
-    <http://purl.org/NET/cidoc-crm/core#P31> "ナレンコ";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/那智の田楽>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "応永10年（1403年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "なちのおうぎまつり", "那智の扇祭り" .

@@ -14,12 +14,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-30";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/秩父夜祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "崇神天皇の時代"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "知知夫国";
-    <http://purl.org/NET/cidoc-crm/core#P31> "113.33.3.36";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-30";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/秩父夜祭>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "崇神天皇の時代"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ちちぶまつりのやたいぎょうじとかぐら", "秩父祭の屋台行事と神楽" .

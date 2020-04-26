@@ -23,12 +23,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>;
     <http://purl.org/NET/cidoc-crm/core#P81> "天歴８（９５４）年"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "福岡県苅田町白川地区等覚寺";
-    <http://purl.org/NET/cidoc-crm/core#P31> "Taka&Take";
-    <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "天歴８（９５４）年"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とかくじのまつえ", "等覚寺の松会" .

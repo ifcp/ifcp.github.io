@@ -21,12 +21,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-18";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/須成祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "天文17年（1548年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県海部郡蟹江町";
-    <http://purl.org/NET/cidoc-crm/core#P31> "Asturio Cantabrio";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-18";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/須成祭>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "天文17年（1548年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "すなりまつりのだんじりぶねぎようじとみよしながし", "須成祭の車楽船行事と神葭流し" .

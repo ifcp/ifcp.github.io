@@ -4,9 +4,6 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://biwako-wifi-info.jp/event/179?locale=ja>;
   <http://purl.org/NET/cidoc-crm/core#P7> "滋賀県", "野洲市三上";

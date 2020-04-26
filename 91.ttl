@@ -13,12 +13,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-17";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/尾張津島天王祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "室町時代"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県津島市";
-    <http://purl.org/NET/cidoc-crm/core#P31> "Edotih Yno";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-17";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/尾張津島天王祭>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "室町時代"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おわりつしまてんのうまつりのだんじりぶねぎょうじ", "尾張津島天王祭の車楽舟行事" .

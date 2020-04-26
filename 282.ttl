@@ -20,12 +20,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-01";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/花輪ばやし>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1204年（元久元年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県鹿角市花輪";
-    <http://purl.org/NET/cidoc-crm/core#P31> "10.133.159.244";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-01";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/花輪ばやし>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "1204年（元久元年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はなわまつりのやたいぎょうじ", "花輪祭の屋台行事" .

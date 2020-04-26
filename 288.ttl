@@ -17,12 +17,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-31";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/大垣祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1648年（正保5年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "大垣藩";
-    <http://purl.org/NET/cidoc-crm/core#P31> "Himazu";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-31";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/大垣祭>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "1648年（正保5年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおがきまつりのやまぎようじ", "大垣祭の軕行事" .

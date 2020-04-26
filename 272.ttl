@@ -25,12 +25,6 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-27";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/八代神社>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1515年（永正12年）"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P107> "熊本県八代市妙見町";
-    <http://purl.org/NET/cidoc-crm/core#P31> "2400:4053:95a0:5e00:b176:c5e5:4753:8b";
-    <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-27";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/八代神社>;
-    <http://purl.org/NET/cidoc-crm/core#P81> "1515年（永正12年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "やつしろみょうけんさいのしんこうぎょうじ", "八代妙見祭の神幸行事" .
