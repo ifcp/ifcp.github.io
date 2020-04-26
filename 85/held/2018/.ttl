@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://fukuori.com/kitemina/event/124/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "福島市松川町金沢地区", "福島県";

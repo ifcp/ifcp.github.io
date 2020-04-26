@@ -18,6 +18,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-10";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/岩木山#お山参詣>;
     <http://purl.org/NET/cidoc-crm/core#P81> "鎌倉時代初期"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "津軽地方";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Masahing";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-10";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/岩木山#お山参詣>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "鎌倉時代初期"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "いわきさんのとはいぎょうじ", "岩木山の登拝行事" .

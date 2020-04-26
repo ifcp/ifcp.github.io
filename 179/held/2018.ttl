@@ -1,9 +1,0 @@
-<http://example.org/ifcp/179/held/2018>
-  <http://purl.org/NET/cidoc-crm/core#P14> "大磯町左義長保存会";
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ];
-  <http://purl.org/NET/cidoc-crm/core#P7> "神奈川県";
-  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/179>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

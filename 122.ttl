@@ -18,6 +18,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2017-05-11";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
     <http://purl.org/NET/cidoc-crm/core#P81> "養老2年（718）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "岩手県一関市室根地域";
+    <http://purl.org/NET/cidoc-crm/core#P31> "一関市文化財課/文化財係";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2017-05-11";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "養老2年（718）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "むろねじんじゃさいのまつりばぎょうじ", "室根神社祭のマツリバ行事" .

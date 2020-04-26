@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://prtimes.jp/main/html/rd/p/000000141.000031071.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "三重県", "桑名市";

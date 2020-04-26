@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://tsushima-cci.or.jp/info/台風１２号の影響による尾張津島天王祭のイベン/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "愛知県", "津島市";

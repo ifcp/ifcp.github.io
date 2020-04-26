@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://japan-attractions.jp/ja/festivals/ogaki-fes/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "大垣市", "岐阜県";

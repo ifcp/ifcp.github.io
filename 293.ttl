@@ -20,6 +20,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.saidaiji.jp/eyou/>;
     <http://purl.org/NET/cidoc-crm/core#P81> "奈良時代"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "岡山県岡山市東区西大寺";
+    <http://purl.org/NET/cidoc-crm/core#P31> "西大寺";
+    <http://purl.org/NET/cidoc-crm/core#P4> "";
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://www.saidaiji.jp/eyou/>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "奈良時代"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "さいだいじのえよう", "西大寺の会陽" .

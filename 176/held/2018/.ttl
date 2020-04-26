@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL7P4JH5L7PTPJB00S.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "大分県", "日田市";

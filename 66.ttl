@@ -12,6 +12,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-24";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/高岡御車山祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1588年（天正16年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "加賀藩";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212 ";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-24";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/高岡御車山祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "1588年（天正16年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "たかおかみくるまやままつりのみくるまやまぎょうじ", "高岡御車山祭の御車山行事" .

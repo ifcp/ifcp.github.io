@@ -23,6 +23,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-06-22";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/城端曳山祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1685年（貞享2年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "富山県南砺市城端地域";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Suikotei";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-06-22";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/城端曳山祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "1685年（貞享2年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "じょうはなしんめいぐうさいのひきやまぎょうじ", "城端神明宮祭の曳山行事" .

@@ -27,6 +27,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.mikami-jinja.jp/custom.html>;
     <http://purl.org/NET/cidoc-crm/core#P81> "永禄4年（1561年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "滋賀県野洲市三上8";
+    <http://purl.org/NET/cidoc-crm/core#P31> "近江富士三上山御上神社";
+    <http://purl.org/NET/cidoc-crm/core#P4> "";
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://www.mikami-jinja.jp/custom.html>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "永禄4年（1561年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "みかみのずいきまつり", "三上のずいき祭" .

@@ -15,6 +15,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.nagahama-hikiyama.or.jp/presently/>;
     <http://purl.org/NET/cidoc-crm/core#P81> "天正２年（1574）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "滋賀県長浜市宮前町";
+    <http://purl.org/NET/cidoc-crm/core#P31> "交易財団法人長浜曳山博物館";
+    <http://purl.org/NET/cidoc-crm/core#P4> "";
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://www.nagahama-hikiyama.or.jp/presently/>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "天正２年（1574）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ながはまひきやままつりのひきやまぎょうじ", "長浜曳山祭の曳山行事" .

@@ -18,6 +18,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-28";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/山あげ祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "永禄3年（1560年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "栃木県那須烏山市";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Urania ";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-28";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/山あげ祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "永禄3年（1560年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "からすやまのやまあげぎょうじ", "烏山の山あげ行事" .

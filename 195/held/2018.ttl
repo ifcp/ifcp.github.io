@@ -1,9 +1,0 @@
-<http://example.org/ifcp/195/held/2018>
-  <http://purl.org/NET/cidoc-crm/core#P14> "遊佐のアマハゲ保存会";
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ];
-  <http://purl.org/NET/cidoc-crm/core#P7> "山形県";
-  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/195>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -19,6 +19,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-08-19";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/たてもん祭り>;
     <http://purl.org/NET/cidoc-crm/core#P81> "享保年間中頃（1720年頃）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "富山県魚津市";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2018-08-19";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/たてもん祭り>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "享保年間中頃（1720年頃）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うおづのたてもんぎょうじ", "魚津のタテモン行事" .

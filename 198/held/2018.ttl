@@ -1,9 +1,0 @@
-<http://example.org/ifcp/198/held/2018>
-  <http://purl.org/NET/cidoc-crm/core#P14> "中川原、常盤町一区・二区・三区";
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ];
-  <http://purl.org/NET/cidoc-crm/core#P7> "富山県";
-  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/198>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

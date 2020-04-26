@@ -24,6 +24,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-21";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/村上大祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1633年（寛永10年）6月7日"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "新潟県村上市羽黒町";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Urania";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-21";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/村上大祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "1633年（寛永10年）6月7日"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "むらかみまつりのやたいぎょうじ", "村上祭の屋台行事" .

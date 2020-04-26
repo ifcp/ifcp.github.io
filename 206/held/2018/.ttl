@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "";
+    <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://kanazawa-carfur.cocolog-nifty.com/blog/2018/12/1216-20181216-a.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "寺家町、七尾市鵜浦町", "石川県";

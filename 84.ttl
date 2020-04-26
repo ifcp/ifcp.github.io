@@ -13,6 +13,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-30";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/竿燈>;
     <http://purl.org/NET/cidoc-crm/core#P81> "宝暦"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県秋田市";
+    <http://purl.org/NET/cidoc-crm/core#P31> "133.203.175.32";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-30";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/竿燈>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "宝暦"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "あきたのかんとう", "秋田の竿灯" .

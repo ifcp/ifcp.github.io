@@ -12,6 +12,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-03";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/唐津くんち>;
     <http://purl.org/NET/cidoc-crm/core#P81> "寛文年間（1661年-1673年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "佐賀県唐津市";
+    <http://purl.org/NET/cidoc-crm/core#P31> "レンネン";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-03";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/唐津くんち>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "寛文年間（1661年-1673年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "からつくんちのひきやまぎょうじ", "唐津くんちの曳山行事" .

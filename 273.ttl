@@ -22,6 +22,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-08-27";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/吉田の火祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "1494年（明応3年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "山梨県富士吉田市上吉田";
+    <http://purl.org/NET/cidoc-crm/core#P31> "江戸村のとくぞう";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-08-27";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/吉田の火祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "1494年（明応3年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "よしだのひまつり", "吉田の火祭" .

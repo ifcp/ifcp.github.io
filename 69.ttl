@@ -15,6 +15,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/高山祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "慶安5年（1652年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "岐阜県高山市";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-13";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/高山祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "慶安5年（1652年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "たかやままつりのやたいぎょうじ", "高山祭の屋台行事" .

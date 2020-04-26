@@ -16,6 +16,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-06-08";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/角館のお祭り>;
     <http://purl.org/NET/cidoc-crm/core#P81> "元禄7年（1694年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県仙北市角館地域";
+    <http://purl.org/NET/cidoc-crm/core#P31> "Championship2006 ";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-06-08";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/角館のお祭り>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "元禄7年（1694年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かくのだてまつりのやまぎょうじ", "角館祭りのやま行事" .

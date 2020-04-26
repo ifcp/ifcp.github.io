@@ -24,6 +24,12 @@
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-01-15";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/上野天神祭>;
     <http://purl.org/NET/cidoc-crm/core#P81> "天正13年（1585年）"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P107> "三重県伊賀市上野地区";
+    <http://purl.org/NET/cidoc-crm/core#P31> "新幹線";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2018-01-15";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/上野天神祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "天正13年（1585年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うえのてんじんまつりのだんじりぎょうじ", "上野天神祭のダンジリ行事" .
