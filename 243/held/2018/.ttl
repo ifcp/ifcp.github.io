@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "犬山祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/243>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-04-08";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-04-07"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL475CTWL47OBJB002.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "愛知県", "犬山市";

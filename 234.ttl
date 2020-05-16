@@ -29,5 +29,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "永禄4年（1561年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "みかみのずいきまつり", "三上のずいき祭" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "みかみのずいきまつり"@ja-hrkt, "三上のずいき祭"@ja .
+<http://example.org/ifcp/234/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/234>.
 <http://example.org/ifcp/234/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/234>.

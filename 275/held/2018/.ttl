@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "須成文化財保護委員会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/275>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-05";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-04"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://humizuki.com/omaturi_zanmai/sight/photo/sunari/sunari2018/sunari2018.htm>;
   <http://purl.org/NET/cidoc-crm/core#P7> "愛知県", "蟹江町";

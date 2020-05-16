@@ -14,5 +14,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "平安時代"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "とよはししんめいしゃのおにまつり", "豊橋神明社の鬼祭" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "とよはししんめいしゃのおにまつり"@ja-hrkt, "豊橋神明社の鬼祭"@ja .
+<http://example.org/ifcp/92/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/92>.
 <http://example.org/ifcp/92/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/92>.

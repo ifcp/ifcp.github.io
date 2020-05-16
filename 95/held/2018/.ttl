@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "戸畑祇園大山笠振興会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/95>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-29";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-27"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kitakyushu-museum.jp/resources/3531>;
   <http://purl.org/NET/cidoc-crm/core#P7> "北九州市", "福岡県";

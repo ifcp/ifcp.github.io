@@ -15,5 +15,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "宝暦"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "あきたのかんとう", "秋田の竿灯" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "あきたのかんとう"@ja-hrkt, "秋田の竿灯"@ja .
+<http://example.org/ifcp/84/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/84>.
 <http://example.org/ifcp/84/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/84>.

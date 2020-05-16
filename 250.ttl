@@ -27,5 +27,5 @@
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "さけのつのとんどう", "酒津のトンドウ" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "さけのつのとんどう"@ja-hrkt, "酒津のトンドウ"@ja .
 <http://example.org/ifcp/250/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/250>.

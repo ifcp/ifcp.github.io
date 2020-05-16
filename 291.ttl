@@ -19,5 +19,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "慶長～元和年間（1598～1624）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "おおつまつりのひきやまぎょうじ", "大津祭の曳山行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "おおつまつりのひきやまぎょうじ"@ja-hrkt, "大津祭の曳山行事"@ja .
+<http://example.org/ifcp/291/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/291>.
 <http://example.org/ifcp/291/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/291>.

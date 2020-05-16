@@ -25,5 +25,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "1635年（寛永12年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "いぬやままつりのやまぎょうじ", "犬山祭の車山行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "いぬやままつりのやまぎょうじ"@ja-hrkt, "犬山祭の車山行事"@ja .
+<http://example.org/ifcp/243/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/243>.
 <http://example.org/ifcp/243/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/243>.

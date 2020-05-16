@@ -14,5 +14,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "諸説あり"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "ひろさきのねぷた", "弘前のねぷた" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "ひろさきのねぷた"@ja-hrkt, "弘前のねぷた"@ja .
+<http://example.org/ifcp/82/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/82>.
 <http://example.org/ifcp/82/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/82>.

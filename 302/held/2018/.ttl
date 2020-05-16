@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "村上まつり保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/302>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-07";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-06"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.niikei.jp/19106/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "新潟県", "村上市";

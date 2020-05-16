@@ -13,5 +13,5 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "文政5年（1822年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "おがのなまはげ", "男鹿のナマハゲ" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "おがのなまはげ"@ja-hrkt, "男鹿のナマハゲ"@ja .
 <http://example.org/ifcp/51/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/51>.

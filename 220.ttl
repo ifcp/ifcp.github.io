@@ -23,5 +23,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "享保6年（1721年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "はちのへさんしゃたいさいのだしぎょうじ", "八戸三社大祭の山車行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "はちのへさんしゃたいさいのだしぎょうじ"@ja-hrkt, "八戸三社大祭の山車行事"@ja .
+<http://example.org/ifcp/220/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/220>.
 <http://example.org/ifcp/220/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/220>.

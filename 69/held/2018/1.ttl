@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "日枝神社氏子山王祭保存会，八幡宮氏子八幡祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/69>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-04-15";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-04-14"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.news24.jp/articles/2018/04/14/07390524.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "岐阜県", "高山市";

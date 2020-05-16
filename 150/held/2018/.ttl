@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "芋くらべ祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/150>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-09-02";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-02"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://nihonguide.net/maturi/2586.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "日野町", "滋賀県";

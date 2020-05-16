@@ -24,5 +24,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "1494年（明応3年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "よしだのひまつり", "吉田の火祭" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "よしだのひまつり"@ja-hrkt, "吉田の火祭"@ja .
+<http://example.org/ifcp/273/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/273>.
 <http://example.org/ifcp/273/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/273>.

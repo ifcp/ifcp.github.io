@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "室根神社祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/122>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-28";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-26"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.iwaken.or.jp/info/2018/10/29_1855.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "一関市", "岩手県";

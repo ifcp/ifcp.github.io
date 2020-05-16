@@ -18,5 +18,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "敏達天皇三年(西暦574年)"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "しんぐうのはやたまさい・おとうまつり", "新宮の速玉祭・御燈祭り" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "しんぐうのはやたまさい・おとうまつり"@ja-hrkt, "新宮の速玉祭・御燈祭り"@ja .
+<http://example.org/ifcp/292/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/292>.
 <http://example.org/ifcp/292/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/292>.

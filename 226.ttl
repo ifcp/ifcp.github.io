@@ -21,5 +21,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "享保年間"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "さわらのだしぎょうじ", "佐原の山車行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "さわらのだしぎょうじ"@ja-hrkt, "佐原の山車行事"@ja .
+<http://example.org/ifcp/226/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/226>.
 <http://example.org/ifcp/226/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/226>.

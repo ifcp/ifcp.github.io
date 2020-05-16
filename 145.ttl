@@ -17,5 +17,5 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "享保19年(1734)"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "すおうそおのはしらまつぎょうじ", "周防祖生の柱松行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "すおうそおのはしらまつぎょうじ"@ja-hrkt, "周防祖生の柱松行事"@ja .
 <http://example.org/ifcp/145/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/145>.

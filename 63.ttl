@@ -20,5 +20,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "永禄3年（1560年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "からすやまのやまあげぎょうじ", "烏山の山あげ行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "からすやまのやまあげぎょうじ"@ja-hrkt, "烏山の山あげ行事"@ja .
+<http://example.org/ifcp/63/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/63>.
 <http://example.org/ifcp/63/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/63>.

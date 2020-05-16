@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "浦佐毘沙門堂裸押合大祭委員会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/301>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-03-03";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-03-03"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.wasshoikitaro.site/entry/hadakaoshiai2018>;
   <http://purl.org/NET/cidoc-crm/core#P7> "南魚沼市", "新潟県";

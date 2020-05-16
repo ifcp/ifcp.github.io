@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "八戸三社大祭山車祭り行事保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/220>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-04";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-31"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL7Z44S5L7ZUBNB004.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "八戸市", "青森県";

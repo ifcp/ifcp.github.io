@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "公益財団法人祇園祭山鉾連合会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/72>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-31";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-01"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://kyoto-design.jp/event/35063>;
   <http://purl.org/NET/cidoc-crm/core#P7> "京都市", "京都府";

@@ -24,5 +24,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "慶安元年（1648年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "かわごえひかわまつりのだしぎょうじ", "川越氷川祭の山車行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "かわごえひかわまつりのだしぎょうじ"@ja-hrkt, "川越氷川祭の山車行事"@ja .
+<http://example.org/ifcp/231/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/231>.
 <http://example.org/ifcp/231/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/231>.

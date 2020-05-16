@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "花輪ばやし祭典委員会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/282>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-20";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-19"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://scoop-scoop.jp/scoop/scoop_hanawabayashi>;
   <http://purl.org/NET/cidoc-crm/core#P7> "秋田県", "鹿角市";

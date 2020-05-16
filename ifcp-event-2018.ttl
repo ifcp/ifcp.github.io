@@ -7,7 +7,7 @@
 @prefix cate: <http://example.org/ifcp/category/> .
 ifcp:"&A2&"
     rdf:type crm:E1 ;
-    rdfs:label """&D2&""" .
+    rdfs:label """&D2&"""@ja .
 <http://example.org/ifcp/"&A2&"/held/2018/"&B2&">
     rdf:type crm:E5 ;
     crm:P17 ifcp:"&A2&" ;

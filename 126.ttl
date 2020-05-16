@@ -21,5 +21,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "とうこやさかじんじゃのとうにんぎょうじ", "東湖八坂神社のトウニン（統人）行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "とうこやさかじんじゃのとうにんぎょうじ"@ja-hrkt, "東湖八坂神社のトウニン（統人）行事"@ja .
+<http://example.org/ifcp/126/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/126>.
 <http://example.org/ifcp/126/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/126>.

@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "お熊甲祭奉賛会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/102>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-09-20";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-20"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000016350>;
   <http://purl.org/NET/cidoc-crm/core#P7> "七尾市", "石川県";

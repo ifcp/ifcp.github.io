@@ -26,5 +26,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "天正13年（1585年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "うえのてんじんまつりのだんじりぎょうじ", "上野天神祭のダンジリ行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "うえのてんじんまつりのだんじりぎょうじ"@ja-hrkt, "上野天神祭のダンジリ行事"@ja .
+<http://example.org/ifcp/216/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/216>.
 <http://example.org/ifcp/216/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/216>.

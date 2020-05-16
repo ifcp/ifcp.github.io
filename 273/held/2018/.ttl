@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "吉田の火祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/273>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-26";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-26"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL8V30X8L8VUZOB001.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "富士吉田市", "山梨県";

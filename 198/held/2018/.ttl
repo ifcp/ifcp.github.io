@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "中川原、常盤町一区・二区・三区";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/198>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-31";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-31"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://71757238.at.webry.info/201808/article_1.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "富山県", "滑川市";

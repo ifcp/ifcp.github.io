@@ -22,5 +22,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "奈良時代"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "さいだいじのえよう", "西大寺の会陽" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "さいだいじのえよう"@ja-hrkt, "西大寺の会陽"@ja .
+<http://example.org/ifcp/293/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/293>.
 <http://example.org/ifcp/293/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/293>.

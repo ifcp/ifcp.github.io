@@ -21,5 +21,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "応永10年（1403年）"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "なちのおうぎまつり", "那智の扇祭り" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "なちのおうぎまつり"@ja-hrkt, "那智の扇祭り"@ja .
+<http://example.org/ifcp/290/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/290>.
 <http://example.org/ifcp/290/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/290>.

@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "豊橋鬼祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/92>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-02-11";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-02-10"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL2B3JL4L2BOBJB001.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> "愛知県", "豊橋市";

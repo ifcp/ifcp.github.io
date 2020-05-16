@@ -2,8 +2,8 @@
   <http://purl.org/NET/cidoc-crm/core#P14> "田島祇園祭のおとうや行事保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/100>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-24";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-22"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kanko-aizu.com/information/23745/>;
   <http://purl.org/NET/cidoc-crm/core#P7> "南会津町", "福島県";

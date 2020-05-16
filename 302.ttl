@@ -26,5 +26,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> "1633年（寛永10年）6月7日"
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "むらかみまつりのやたいぎょうじ", "村上祭の屋台行事" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "むらかみまつりのやたいぎょうじ"@ja-hrkt, "村上祭の屋台行事"@ja .
+<http://example.org/ifcp/302/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/302>.
 <http://example.org/ifcp/302/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/302>.

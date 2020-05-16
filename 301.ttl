@@ -21,5 +21,6 @@
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
-  <http://www.w3.org/2000/01/rdf-schema#label> "うらさびしゃもんどうのはだかおしあい", "浦佐毘沙門堂の裸押合" .
+  <http://www.w3.org/2000/01/rdf-schema#label> "うらさびしゃもんどうのはだかおしあい"@ja-hrkt, "浦佐毘沙門堂の裸押合"@ja .
+<http://example.org/ifcp/301/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/301>.
 <http://example.org/ifcp/301/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/301>.
