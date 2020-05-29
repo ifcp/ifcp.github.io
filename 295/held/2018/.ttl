@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "開催せず"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "北茨城市", "茨城県";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C08000-19700401>, <http://data.e-stat.go.jp/lod/sac/C08215-19981001>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

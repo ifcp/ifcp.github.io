@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月５～７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kantou.gr.jp/index.htm>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県秋田市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
     <http://purl.org/NET/cidoc-crm/core#P31> "133.203.175.32";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-30";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/竿燈>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "あきたのかんとう"@ja-hrkt, "秋田の竿灯"@ja .
-<http://example.org/ifcp/84/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/84>.
 <http://example.org/ifcp/84/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/84>.

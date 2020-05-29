@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月第一土曜日とその翌日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.inuyama-matsuri.com>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県犬山市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C23215-19830301>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212 ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2017-07-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/犬山祭>;
@@ -26,5 +26,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "いぬやままつりのやまぎょうじ"@ja-hrkt, "犬山祭の車山行事"@ja .
-<http://example.org/ifcp/243/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/243>.
 <http://example.org/ifcp/243/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/243>.

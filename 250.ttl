@@ -20,7 +20,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月15日に近い土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://db.pref.tottori.jp/bunkazainavi.nsf/bunkazai_web_view/ED924928115C630F4925796F0007FF1C?OpenDocument>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;

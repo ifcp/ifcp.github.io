@@ -6,7 +6,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年１２月３１日ないしは１月１６日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.namahage-oga.akita.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県男鹿市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C05206-20050322>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Urania";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-28";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/なまはげ>;

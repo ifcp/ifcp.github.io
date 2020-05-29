@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-14"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.yamaguchi.lg.jp/site/movie/19833.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "山口市阿東", "山口県";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C35000-19700401>, <http://data.e-stat.go.jp/lod/sac/C35203-20100116>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

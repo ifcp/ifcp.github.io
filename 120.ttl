@@ -13,7 +13,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦７月末日～８月１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/kuni/kuni28.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "津軽地方";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C02202-20060227>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Masahing";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-10";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/岩木山#お山参詣>;
@@ -21,5 +21,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "いわきさんのとはいぎょうじ"@ja-hrkt, "岩木山の登拝行事"@ja .
-<http://example.org/ifcp/120/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/120>.
 <http://example.org/ifcp/120/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/120>.

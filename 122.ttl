@@ -13,7 +13,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "旧暦閏年翌年の旧暦９月１７～１９日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "岩手県一関市室根地域";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C03209-20170904>;
     <http://purl.org/NET/cidoc-crm/core#P31> "一関市文化財課/文化財係";
     <http://purl.org/NET/cidoc-crm/core#P4> "2017-05-11";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
@@ -21,5 +21,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "むろねじんじゃさいのまつりばぎょうじ"@ja-hrkt, "室根神社祭のマツリバ行事"@ja .
-<http://example.org/ifcp/122/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/122>.
 <http://example.org/ifcp/122/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/122>.

@@ -12,7 +12,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年5月15日直前の土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ogaki.lg.jp/0000001311.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "大垣藩";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/page/smallArea/g00200521/2015/S212020010>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Himazu";
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-31";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/大垣祭>;
@@ -20,5 +20,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおがきまつりのやまぎようじ"@ja-hrkt, "大垣祭の軕行事"@ja .
-<http://example.org/ifcp/288/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/288>.
 <http://example.org/ifcp/288/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/288>.

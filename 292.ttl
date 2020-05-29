@@ -11,7 +11,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月６・７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://travel.nankikumano.jp/omatsuri/otoumatsuri/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "和歌山県新宮市神倉";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S302070100>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://travel.nankikumano.jp/omatsuri/otoumatsuri/history/>;
@@ -19,5 +19,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "しんぐうのはやたまさい・おとうまつり"@ja-hrkt, "新宮の速玉祭・御燈祭り"@ja .
-<http://example.org/ifcp/292/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/292>.
 <http://example.org/ifcp/292/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/292>.

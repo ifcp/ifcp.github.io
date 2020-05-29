@@ -10,7 +10,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月１１～１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.misato.akita.jp/kamakura/2574.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県美郷町六郷地区";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S054340010>;
     <http://purl.org/NET/cidoc-crm/core#P31> "221.58.122.88";
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/かまくら#六郷のかまくら>;

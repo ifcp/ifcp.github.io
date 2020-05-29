@@ -17,7 +17,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年10月第三土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kawagoematsuri.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "埼玉県川越市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C11201-20030401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-06-08";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/川越氷川祭>;
@@ -25,5 +25,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かわごえひかわまつりのだしぎょうじ"@ja-hrkt, "川越氷川祭の山車行事"@ja .
-<http://example.org/ifcp/231/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/231>.
 <http://example.org/ifcp/231/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/231>.

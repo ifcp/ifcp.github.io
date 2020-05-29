@@ -7,7 +7,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年５月３～５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kankou-hitachi.jp/page/dir000031.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "茨城県日立市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C08202-20041101>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Σ64 ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-05-12";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/日立風流物>;
@@ -15,5 +15,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ひたちふりゅうもの"@ja-hrkt, "日立風流物"@ja .
-<http://example.org/ifcp/33/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/33>.
 <http://example.org/ifcp/33/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/33>.

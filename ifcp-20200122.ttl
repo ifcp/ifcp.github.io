@@ -15,27 +15,20 @@ ifcp:"&A2&"
     crm:P141 <http://example.org/ifcp/"&A2&"/register> ; 
     crm:P94 [
         crm:P67 <"&Q2&"> ;
-        crm:P4 """&T2&""";
-        crm:P31 """&U2&""";
+        crm:P4 """&U2&""";
+        crm:P31 """&V2&""";
         crm:P81 """&R2&""" ;
-        crm:P107 """&S2&""" 
+        crm:P107 <"&T2&"> 
     ];
     crm:P2 "&I2&" ;
     crm:P2 "&H2&" .
 <"&Q2&">
     rdf:type crm:E42 .
 <"&G2&">
-    rdf:type crm:E42 .   
+    rdf:type crm:E42 . 
+<"&T2&">
+    rdfs:label """&S2&""".  
 <http://example.org/ifcp/"&A2&"/register>
     rdf:type crm:E5 ;
     crm:P4 """&J2&""" ;
     crm:P67 """&K2&""" .
-<http://example.org/ifcp/"&A2&"/held/2018> 
-    rdf:type crm:E5 ;
-    crm:p17 ifcp:"&A2&" ;
-    crm:P7 """&L2&""" ;
-    crm:P14 """&N2&""" ;
-    crm:P4 [
-        crm:P116 """&O2&""" ;
-        crm:P115 """&P2&""" 
-    ] .

@@ -14,7 +14,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月１５～１７日、３月２１日、９月３０日、１０月１６・１７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.pref.kyoto.jp/mishitei-bunkazai/1188265940408.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -22,5 +22,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "わきでのみやのみやざぎょうじ"@ja-hrkt, "涌出宮の宮座行事"@ja .
-<http://example.org/ifcp/129/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/129>.
 <http://example.org/ifcp/129/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/129>.

@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-15"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://ofunato.jp/Summary/info/81>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "大船渡市", "岩手県";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C03203-20011115>, <http://data.e-stat.go.jp/lod/sac/C04000-19700401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

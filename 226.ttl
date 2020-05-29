@@ -14,7 +14,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月９〜１８日までの金・土・日曜日（八坂神社）、毎年１０月第２土曜日を中心とする前後３日間（諏訪神社）";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.katori.lg.jp/smph/sightseeing/matsuri/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "千葉県香取市佐原";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C12236-20060327>;
     <http://purl.org/NET/cidoc-crm/core#P31> "2400:4051:a0c0:f600:a0c8:6cb5:39ac:d3a9";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-10-04";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/佐原の大祭>;
@@ -22,5 +22,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "さわらのだしぎょうじ"@ja-hrkt, "佐原の山車行事"@ja .
-<http://example.org/ifcp/226/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/226>.
 <http://example.org/ifcp/226/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/226>.

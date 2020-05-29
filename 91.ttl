@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月第４土曜日・翌日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.aichi-now.jp/spots/detail/320/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県津島市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C23208-19700510>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Edotih Yno";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-17";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/尾張津島天王祭>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おわりつしまてんのうまつりのだんじりぶねぎょうじ"@ja-hrkt, "尾張津島天王祭の車楽舟行事"@ja .
-<http://example.org/ifcp/91/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/91>.
 <http://example.org/ifcp/91/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/91>.

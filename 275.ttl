@@ -16,7 +16,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月初旬～10月下旬（宵祭・朝祭は8月第一土日曜日）";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kaninavi.jp/html/sunari/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県海部郡蟹江町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C23425-19960701>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Asturio Cantabrio";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-18";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/須成祭>;
@@ -24,5 +24,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "すなりまつりのだんじりぶねぎようじとみよしながし"@ja-hrkt, "須成祭の車楽船行事と神葭流し"@ja .
-<http://example.org/ifcp/275/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/275>.
 <http://example.org/ifcp/275/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/275>.

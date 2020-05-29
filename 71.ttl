@@ -10,7 +10,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月１３〜１６日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.nagahama-hikiyama.or.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "滋賀県長浜市宮前町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252030010>;
     <http://purl.org/NET/cidoc-crm/core#P31> "交易財団法人長浜曳山博物館";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.nagahama-hikiyama.or.jp/presently/>;
@@ -18,5 +18,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ながはまひきやままつりのひきやまぎょうじ"@ja-hrkt, "長浜曳山祭の曳山行事"@ja .
-<http://example.org/ifcp/71/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/71>.
 <http://example.org/ifcp/71/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/71>.

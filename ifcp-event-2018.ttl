@@ -11,11 +11,15 @@ ifcp:"&A2&"
 <http://example.org/ifcp/"&A2&"/held/2018/"&B2&">
     rdf:type crm:E5 ;
     crm:P17 ifcp:"&A2&" ;
-    crm:P7 """&E2&""" ;
-    crm:P7 """&F2&""" ;
-    crm:P14 """&G2&""" ;
-    crm:P67 <"&J2&"> ;
+    crm:P7 <"&F2&"> ;
+    crm:P7 <"&H2&"> ;
+    crm:P14 """&I2&""" ;
+    crm:P67 <"&L2&"> ;
     crm:P4 [
-        crm:P116 """&O2&""" ;
-        crm:P115 """&P2&""" 
-    ] .
+        crm:P116 """&J2&""" ;
+        crm:P115 """&K2&""" 
+    ] . 
+<"&F2&">
+    rdfs:label """&E2&""".
+<"&H2&">
+    rdfs:label """&G2&""".

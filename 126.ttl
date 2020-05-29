@@ -14,7 +14,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月６日、３月２４・２５日、６月２０・２４～２８日、７月１～８日、１２月７日、毎月１日の朝参り";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.oga.akita.jp/index.cfm/14,1397,52,141,html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -22,5 +22,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とうこやさかじんじゃのとうにんぎょうじ"@ja-hrkt, "東湖八坂神社のトウニン（統人）行事"@ja .
-<http://example.org/ifcp/126/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/126>.
 <http://example.org/ifcp/126/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/126>.

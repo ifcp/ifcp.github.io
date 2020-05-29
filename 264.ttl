@@ -20,7 +20,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月11日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.yanaicci.or.jp/yanai/event/sinmei-f.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "山口県柳井市阿月";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352120100>;
     <http://purl.org/NET/cidoc-crm/core#P31> "山口県柳井市";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-02-11";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city-yanai.jp/soshiki/39/atsukishimmei.html>;

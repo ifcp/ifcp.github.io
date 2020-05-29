@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-04"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://prtimes.jp/main/html/rd/p/000000141.000031071.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "三重県", "桑名市";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C24000-19700401>, <http://data.e-stat.go.jp/lod/sac/C24205-20041206>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -15,7 +15,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月１４日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.gojo.lg.jp/kankou/dentou/4032.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "奈良県五條市大津町念仏寺";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292070500>;
     <http://purl.org/NET/cidoc-crm/core#P31> "8-hachiro";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/陀々堂の鬼はしり>;

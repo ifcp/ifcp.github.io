@@ -13,7 +13,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "年1月11～16日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nihon-kankou.or.jp/miyagi/042145/detail/04566be2220112899>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;

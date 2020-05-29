@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-04-07"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kankou-hitachi.jp/page/page000060.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "日立市", "茨城県";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C08000-19700401>, <http://data.e-stat.go.jp/lod/sac/C08202-20041101>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

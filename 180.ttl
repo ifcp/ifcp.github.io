@@ -14,7 +14,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月第一金・土曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.uozu.toyama.jp/event-topics/svTopiDtl.aspx?servno=3553>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "富山県魚津市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C16204-19890601>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Shocoreo4212";
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-08-19";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/たてもん祭り>;
@@ -22,5 +22,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うおづのたてもんぎょうじ"@ja-hrkt, "魚津のタテモン行事"@ja .
-<http://example.org/ifcp/180/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/180>.
 <http://example.org/ifcp/180/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/180>.

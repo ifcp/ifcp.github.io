@@ -11,7 +11,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年５月１３〜１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nanao-cci.or.jp/dekayama/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "石川県七尾市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C17202-20090901>;
     <http://purl.org/NET/cidoc-crm/core#P31> "182.158.76.4";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-01-30";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/青柏祭>;
@@ -19,5 +19,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "せいはくさいのひきやまぎょうじ"@ja-hrkt, "青柏祭の曳山行事"@ja .
-<http://example.org/ifcp/114/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/114>.
 <http://example.org/ifcp/114/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/114>.

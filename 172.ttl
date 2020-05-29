@@ -13,7 +13,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月２７・２８日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.yoritomo-japan.com/kifunematuri-manaduru.htm>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -21,5 +21,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "きぶねじんじゃのふなまつり"@ja-hrkt, "貴船神社の船祭り"@ja .
-<http://example.org/ifcp/172/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/172>.
 <http://example.org/ifcp/172/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/172>.

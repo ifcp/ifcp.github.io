@@ -20,7 +20,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年1月15日が日曜日にあたる場合は15日、それ以外の場合は1月15日の直前の日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "富山県下新川郡入善町上野邑町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C16342-20141201>;
     <http://purl.org/NET/cidoc-crm/core#P31> "なびお ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-03-12";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/塞の神まつり>;

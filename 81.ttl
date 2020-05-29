@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月２～７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nebuta.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "陸奥国";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C04100-20190401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "ITA-ATU";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-19";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/青森ねぶた>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "あおもりのねぶた"@ja-hrkt, "青森のねぶた"@ja .
-<http://example.org/ifcp/81/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/81>.
 <http://example.org/ifcp/81/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/81>.

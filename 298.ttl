@@ -12,7 +12,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦７月１６";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.pref.kagoshima.jp/ak01/chiiki/kagoshima/takarabako/traditional/akusekijimanoboze.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;

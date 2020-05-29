@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月１９・２０日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.okosidaiko.com>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "岐阜県飛騨市古川町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C21217-20040201>;
     <http://purl.org/NET/cidoc-crm/core#P31> "そらみみ ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-08-20";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/古川祭>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ふるかわまつりのおこしだいこ・やたいぎょうじ"@ja-hrkt, "古川祭の起し太鼓・屋台行事"@ja .
-<http://example.org/ifcp/90/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/90>.
 <http://example.org/ifcp/90/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/90>.

@@ -14,7 +14,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月13、14日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://kumanonachitaisha.or.jp/ougimaturi/ougi.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "和歌山県東牟婁郡那智勝浦町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C30421-19700401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "ナレンコ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/那智の田楽>;
@@ -22,5 +22,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "なちのおうぎまつり"@ja-hrkt, "那智の扇祭り"@ja .
-<http://example.org/ifcp/290/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/290>.
 <http://example.org/ifcp/290/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/290>.

@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-13"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://kabegamiphoto.com/event/ako/oosakejinja-funematsuri.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "兵庫県", "赤穂市";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C28000-19700401>, <http://data.e-stat.go.jp/lod/sac/C28212-19700401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "千葉県", "香取市佐原";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C12000-19700401>, <http://data.e-stat.go.jp/lod/sac/C12236-20060327>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

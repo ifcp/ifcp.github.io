@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-19"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.iga-younet.co.jp/2018/10/22/10060/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "三重県", "伊賀市";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C24000-19700401>, <http://data.e-stat.go.jp/lod/sac/C24216-20041101>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

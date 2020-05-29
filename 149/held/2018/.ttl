@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-07"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASL956SVGL95UBUB010.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "仙北市角館", "秋田県";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/page/smallArea/g00200521/2015/S052150130>, <http://data.e-stat.go.jp/lod/sac/C05000-19700401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

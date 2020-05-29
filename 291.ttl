@@ -12,7 +12,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年10月第二月曜日前の土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.otsu-matsuri.jp/festival/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "滋賀県大津市京町三丁目";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252011830>;
     <http://purl.org/NET/cidoc-crm/core#P31> "NPO法人大津祭曳山連盟";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.otsu-matsuri.jp/festival/history.php>;
@@ -20,5 +20,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおつまつりのひきやまぎょうじ"@ja-hrkt, "大津祭の曳山行事"@ja .
-<http://example.org/ifcp/291/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/291>.
 <http://example.org/ifcp/291/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/291>.

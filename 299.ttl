@@ -11,7 +11,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦8月1日・2日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://mishimamura.com/ech/5560/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "鹿児島県三島村硫黄島";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S134210040>;
     <http://purl.org/NET/cidoc-crm/core#P31> "鹿児島県三島村";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://mishimamura.com/ech/5560/>;

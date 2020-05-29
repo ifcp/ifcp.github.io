@@ -16,7 +16,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧盆明けの初亥の日を中心とした３日間";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://kanko.vill.ogimi.okinawa.jp/village/ungami/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -24,5 +24,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "しおやわんのうんがみ"@ja-hrkt, "塩屋湾のウンガミ"@ja .
-<http://example.org/ifcp/187/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/187>.
 <http://example.org/ifcp/187/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/187>.

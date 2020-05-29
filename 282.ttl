@@ -15,7 +15,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年8月19、20日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://hanawabayashi.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県鹿角市花輪";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052090020>;
     <http://purl.org/NET/cidoc-crm/core#P31> "10.133.159.244";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-01";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/花輪ばやし>;
@@ -23,5 +23,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はなわまつりのやたいぎょうじ"@ja-hrkt, "花輪祭の屋台行事"@ja .
-<http://example.org/ifcp/282/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/282>.
 <http://example.org/ifcp/282/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/282>.

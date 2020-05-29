@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月16日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;

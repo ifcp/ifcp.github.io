@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-31"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://71757238.at.webry.info/201808/article_1.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "富山県", "滑川市";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C16000-19700401>, <http://data.e-stat.go.jp/lod/sac/C16206-19910325>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

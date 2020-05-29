@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-12-31"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/satumasendai/doshidon.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "薩摩河内市", "鹿児島県";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C46000-19700401>, <http://data.e-stat.go.jp/lod/sac/C46215-20041012>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

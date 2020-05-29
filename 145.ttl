@@ -10,7 +10,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月１５日（祖生中村）、毎年８月１９日（祖生山田）、毎年８月２３日（祖生落合）";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.sea.icn-tv.ne.jp/~sosym/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "山口県周東町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/page/sac/C35325-20060320>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.sea.icn-tv.ne.jp/~sosym/>;

@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月１８～２１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.minamiaizu.org/gion/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "福島県南会津郡南会津町田島";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Osakanataro";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/会津田島祇園祭>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "たじまぎおんまつりのおとうやぎょうじ"@ja-hrkt, "田島祇園祭のおとうや行事"@ja .
-<http://example.org/ifcp/100/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/100>.
 <http://example.org/ifcp/100/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/100>.

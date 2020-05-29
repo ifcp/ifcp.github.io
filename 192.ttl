@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月第３日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "福岡県苅田町白川地区等覚寺";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C40621-19700401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Taka&Take";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>;
@@ -26,5 +26,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とかくじのまつえ"@ja-hrkt, "等覚寺の松会"@ja .
-<http://example.org/ifcp/192/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/192>.
 <http://example.org/ifcp/192/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/192>.

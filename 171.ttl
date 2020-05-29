@@ -16,7 +16,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月３日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "栃木県鹿沼市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C09205-20110801>;
     <http://purl.org/NET/cidoc-crm/core#P31> "鹿沼市教育委員会事務局文化課文化財係";
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-25";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>;
@@ -24,5 +24,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ほっこうじのごうはんしき"@ja-hrkt, "発光路の強飯式"@ja .
-<http://example.org/ifcp/171/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/171>.
 <http://example.org/ifcp/171/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/171>.

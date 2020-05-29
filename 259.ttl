@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月24～26日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://shinjo-matsuri.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "山形県新庄市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C06205-20050218>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Suz-b";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-07";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/新庄まつり>;
@@ -26,5 +26,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "しんじょうまつりのやたいぎょうじ"@ja-hrkt, "新庄まつりの山車行事"@ja .
-<http://example.org/ifcp/259/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/259>.
 <http://example.org/ifcp/259/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/259>.

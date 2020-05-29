@@ -15,7 +15,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月３１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.info-toyama.com/event/50030/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -23,5 +23,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "なめりかわのねぶたながし"@ja-hrkt, "滑川のネブタ流し"@ja .
-<http://example.org/ifcp/198/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/198>.
 <http://example.org/ifcp/198/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/198>.

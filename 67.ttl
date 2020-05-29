@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "旧門前町は毎年１月２日（※指定当時は毎年１月６日）、輪島市は毎年１月１４・２０日（※指定当時）、旧内浦町は毎年節分（２月３日）";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hot-ishikawa.jp/event/4517>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;

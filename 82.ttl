@@ -7,7 +7,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月１～７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hirosaki-kanko.or.jp/web/edit.html?id=cat02_summer_neputa>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "青森県弘前市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C02202-20060227>;
     <http://purl.org/NET/cidoc-crm/core#P31> "ナレンコ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/弘前ねぷた>;
@@ -15,5 +15,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ひろさきのねぷた"@ja-hrkt, "弘前のねぷた"@ja .
-<http://example.org/ifcp/82/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/82>.
 <http://example.org/ifcp/82/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/82>.

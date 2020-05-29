@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-02-09"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.pref.nara.jp/17619.htm>;
-  <http://purl.org/NET/cidoc-crm/core#P7> "奈良県", "桜井市";
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C29000-19700401>, <http://data.e-stat.go.jp/lod/sac/C29206-19700401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

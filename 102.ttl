@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年９月２０日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.pref.ishikawa.lg.jp/kyoiku/bunkazai/minzoku/2-2.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "くまがぶとはつかさいのわくばたぎょうじ"@ja-hrkt, "熊甲二十日祭の枠旗行事"@ja .
-<http://example.org/ifcp/102/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/102>.
 <http://example.org/ifcp/102/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/102>.

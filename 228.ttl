@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月第２日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.katch.ne.jp/~toba-shinmeisha/himatsuri/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県西尾市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C23213-20110401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Urania";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-21";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/鳥羽の火祭り>;

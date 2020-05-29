@@ -17,7 +17,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年2月11日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.sakurai-maibun.nara.jp/yorimichi/yorimiti6.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "奈良県桜井市江包、大西";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C29206-19700401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "8-hachiro";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-02-09";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/江包・大西の御綱>;

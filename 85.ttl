@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦１１月１６～１８日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.f-kankou.jp/matsuri-kanazawa-no-hayamagomori/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -16,5 +16,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かねざわのはやまごもり"@ja-hrkt, "金沢の羽山ごもり"@ja .
-<http://example.org/ifcp/85/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/85>.
 <http://example.org/ifcp/85/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/85>.

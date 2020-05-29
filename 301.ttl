@@ -14,7 +14,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年３月3日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://yamatokankou.jp/osiainixtutei.htm>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -22,5 +22,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うらさびしゃもんどうのはだかおしあい"@ja-hrkt, "浦佐毘沙門堂の裸押合"@ja .
-<http://example.org/ifcp/301/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/301>.
 <http://example.org/ifcp/301/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/301>.

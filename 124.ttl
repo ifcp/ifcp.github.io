@@ -10,7 +10,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦８月の初丙の日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.tatsugo.lg.jp/edu/event-bunka/rekishi-bunka/arasetsu.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "奄美群島";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C46222-20091019>;
     <http://purl.org/NET/cidoc-crm/core#P31> "龍郷町役場 教育委員会";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.tatsugo.lg.jp/edu/event-bunka/rekishi-bunka/arasetsu.html>;

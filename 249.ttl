@@ -24,7 +24,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月第一日曜日とその前日の土曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://isidori.jp/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "三重県桑名市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C24205-20041206>;
     <http://purl.org/NET/cidoc-crm/core#P31> "桑名石取祭保存会";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://isidori.jp/about.html>;
@@ -32,5 +32,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "くわないしどりまつりのさいしゃぎょうじ"@ja-hrkt, "桑名石取祭の祭車行事"@ja .
-<http://example.org/ifcp/249/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/249>.
 <http://example.org/ifcp/249/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/249>.

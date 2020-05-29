@@ -9,7 +9,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月１～１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hakata-yamakasa.net>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "福岡市博多区";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C40132-19720401>;
     <http://purl.org/NET/cidoc-crm/core#P31> "240f:41:1ef0:1:89e5:3c:9a84:d50";
     <http://purl.org/NET/cidoc-crm/core#P4> "2020-01-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/博多祇園山笠>;
@@ -17,5 +17,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はかたぎおんやまかさぎょうじ"@ja-hrkt, "博多祇園山笠行事"@ja .
-<http://example.org/ifcp/79/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/79>.
 <http://example.org/ifcp/79/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/79>.

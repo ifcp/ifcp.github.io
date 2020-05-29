@@ -11,7 +11,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年９月７～９日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kakudate.com/omatsuri/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県仙北市角館地域";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052150130>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Championship2006 ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-06-08";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/角館のお祭り>;
@@ -19,5 +19,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かくのだてまつりのやまぎょうじ"@ja-hrkt, "角館祭りのやま行事"@ja .
-<http://example.org/ifcp/149/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/149>.
 <http://example.org/ifcp/149/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/149>.

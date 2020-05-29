@@ -15,7 +15,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年９月１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.biwa.ne.jp/~tam/sansaku/report/32%20imokurabe/imokurabe.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
@@ -23,5 +23,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おうみなかやまのいもくらべまつり"@ja-hrkt, "近江中山の芋競べ祭り"@ja .
-<http://example.org/ifcp/150/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/150>.
 <http://example.org/ifcp/150/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/150>.

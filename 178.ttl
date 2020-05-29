@@ -19,7 +19,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月２０・２１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://tutizaki-hikiyama.com>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "秋田県秋田市土崎港地区";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
     <http://purl.org/NET/cidoc-crm/core#P31> "ナレンコ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事>;
@@ -27,5 +27,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "つちざきしんめいしゃさいのひきやまぎょうじ"@ja-hrkt, "土崎神明社祭の曳山行事"@ja .
-<http://example.org/ifcp/178/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/178>.
 <http://example.org/ifcp/178/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/178>.

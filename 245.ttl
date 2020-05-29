@@ -16,7 +16,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年1月8日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "兵庫県加西市上万願寺町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282201260>;
     <http://purl.org/NET/cidoc-crm/core#P31> "加西市ふるさと創造部 文化・観光・スポーツ課";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>;

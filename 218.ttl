@@ -13,7 +13,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月第二土曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://saga-otakara.jp/search/detail.php?id=5346>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
     <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;

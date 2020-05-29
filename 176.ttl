@@ -15,7 +15,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月２０日過ぎの土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.hita.oita.jp/soshiki/shokokankobu/kankoka/kankokikaku/gion/2548.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "大分県日田市";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C44204-20050322>;
     <http://purl.org/NET/cidoc-crm/core#P31> "JapaneseA ";
     <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-25";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/日田祇園祭>;
@@ -23,5 +23,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ひたぎおんのひきやまぎょうじ"@ja-hrkt, "日田祗園の曳山行事"@ja .
-<http://example.org/ifcp/176/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/176>.
 <http://example.org/ifcp/176/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/176>.

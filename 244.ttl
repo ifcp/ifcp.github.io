@@ -18,7 +18,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年５月３・４日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://shiohi-matsuri.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> "愛知県半田市亀崎町";
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/page/smallArea/g00200521/2015/S232051080>;
     <http://purl.org/NET/cidoc-crm/core#P31> "112.137.61.222";
     <http://purl.org/NET/cidoc-crm/core#P4> "2017-07-25";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/亀崎潮干祭>;
@@ -26,5 +26,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かめざきしおひまつりのだしぎょうじ"@ja-hrkt, "亀崎潮干祭の山車行事"@ja .
-<http://example.org/ifcp/244/held/2018> <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/244>.
 <http://example.org/ifcp/244/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/244>.
