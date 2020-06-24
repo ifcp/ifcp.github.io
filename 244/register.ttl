@@ -1,5 +1,0 @@
-<http://example.org/ifcp/244/register>
-  <http://purl.org/NET/cidoc-crm/core#P4> "2006-03-15";
-  <http://purl.org/NET/cidoc-crm/core#P67> "417";
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
-<https://w3id.org/ifcp/244> <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/244/register>.
