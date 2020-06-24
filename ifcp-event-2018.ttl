@@ -8,7 +8,7 @@
 ifcp:"&A2&"
     rdf:type crm:E1 ;
     rdfs:label """&D2&"""@ja .
-<http://example.org/ifcp/"&A2&"/held/2018/"&B2&">
+<https://w3id.org/ifcp/"&A2&"/held/2018/"&B2&">
     rdf:type crm:E5 ;
     crm:P17 ifcp:"&A2&" ;
     crm:P7 <"&F2&"> ;

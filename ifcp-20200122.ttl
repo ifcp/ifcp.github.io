@@ -12,7 +12,7 @@ ifcp:"&A2&"
     crm:P3 """""""&E2&""""""" ; 
     crm:P4 """&F2&""" ; 
     crm:P67 <"&G2&"> ;
-    crm:P141 <http://example.org/ifcp/"&A2&"/register> ; 
+    crm:P141 <https://w3id.org/ifcp/"&A2&"/register> ; 
     crm:P94 [
         crm:P67 <"&Q2&"> ;
         crm:P4 """&U2&""";
@@ -28,7 +28,7 @@ ifcp:"&A2&"
     rdf:type crm:E42 . 
 <"&T2&">
     rdfs:label """&S2&""".  
-<http://example.org/ifcp/"&A2&"/register>
+<https://w3id.org/ifcp/"&A2&"/register>
     rdf:type crm:E5 ;
     crm:P4 """&J2&""" ;
     crm:P67 """&K2&""" .
