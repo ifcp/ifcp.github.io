@@ -1,9 +1,0 @@
-<http://example.org/ifcp/49/held/2018>
-  <http://purl.org/NET/cidoc-crm/core#P14> "甑島トシドン保存会（手打港トシドン保存会，手打麓トシドン保存会，手打本町トシドン保存会，片野浦トシドン保存会，青瀬トシドン保存会，瀬々野浦トシドン保存会）";
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ];
-  <http://purl.org/NET/cidoc-crm/core#P7> "鹿児島県";
-  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/49>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

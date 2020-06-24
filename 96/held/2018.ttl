@@ -1,9 +1,0 @@
-<http://example.org/ifcp/96/held/2018>
-  <http://purl.org/NET/cidoc-crm/core#P14> "唐津曳山取締会";
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ];
-  <http://purl.org/NET/cidoc-crm/core#P7> "佐賀県";
-  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/96>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

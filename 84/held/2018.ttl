@@ -1,9 +1,0 @@
-<http://example.org/ifcp/84/held/2018>
-  <http://purl.org/NET/cidoc-crm/core#P14> "秋田市竿灯会";
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "";
-    <http://purl.org/NET/cidoc-crm/core#P116> ""
-  ];
-  <http://purl.org/NET/cidoc-crm/core#P7> "秋田県";
-  <http://purl.org/NET/cidoc-crm/core#p17> <http://example.org/ifcp/84>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
