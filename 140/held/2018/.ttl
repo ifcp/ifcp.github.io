@@ -1,6 +1,6 @@
 <http://example.org/ifcp/140/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "松尾地下，河内地下";
-  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/140>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/140>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-15";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-14"

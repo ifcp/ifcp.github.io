@@ -1,6 +1,6 @@
 <http://example.org/ifcp/79/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "博多祇園山笠振興会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/79>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/79>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-15";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-01"

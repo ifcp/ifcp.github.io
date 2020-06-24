@@ -1,10 +1,10 @@
 <http://example.org/ifcp/270/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "小菅柱松保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <http://example.org/ifcp/270>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/270>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://w3id.org/ifcp/>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
   <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C20000-19700401>, <http://data.e-stat.go.jp/lod/sac/C20213-20000401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

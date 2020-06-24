@@ -1,10 +1,10 @@
-@base <http://w3id.org/ifcp/> .
+@base <https://w3id.org/ifcp/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix ifcp: <http://example.org/ifcp/> .
-@prefix cate: <http://example.org/ifcp/category/> .
+@prefix ifcp: <https://w3id.org/ifcp/> .
+@prefix cate: <https://w3id.org/ifcp/category/> .
 ifcp:"&A2&"
     rdf:type crm:E1 ;
     rdfs:label """&D2&"""@ja .

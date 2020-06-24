@@ -2,4 +2,4 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "1998-12-16";
   <http://purl.org/NET/cidoc-crm/core#P67> "352 - 353";
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
-<http://example.org/ifcp/188> <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/188/register>.
+<https://w3id.org/ifcp/188> <http://purl.org/NET/cidoc-crm/core#P141> <http://example.org/ifcp/188/register>.
