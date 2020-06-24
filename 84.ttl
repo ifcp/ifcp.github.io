@@ -1,0 +1,18 @@
+<https://w3id.org/ifcp/84>
+  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/84/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　竿灯は、「眠りながし」の変化したものである。長い竹竿に9本の横竹を結び、46個の提灯を吊したものを、半天・ももひき・鉢巻の若者が「おえたさっさ、おえたさあ」の掛け声と笛・太鼓の囃子に合わせて、腰や肩あるいは額、または拇指や掌に乗せて、両手を離したり、さまざまな姿で拍子をとって、泳ぐようにあやつる。弓なりにしなう親竹がつりあいを保って見事に左右する。
+　竹竿は大、中、小とあって、それぞれ大若、中若、小若と呼ばれ、年齢別で分担する。大若には高さ8㍍、重さ50㎏を越えるものもある。これらの竹竿の先端には8月5日の朝、秋田八幡神社から受けてきた神社の霊符のついた御幣を立てる。
+　こうして多数の竿灯が昼夜町を練った後、8日早朝に竿灯の先端につけた御幣をはずし、新川橋から旧雄物川に流す。
+　このように竿灯は「眠り流し」の民俗と、散楽の竿芸とがよく結びついたもので、重要な行事である。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月５～７日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kantou.gr.jp/index.htm>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
+    <http://purl.org/NET/cidoc-crm/core#P31> "133.203.175.32";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-30";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/竿燈>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "宝暦"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "あきたのかんとう"@ja-hrkt, "秋田の竿灯"@ja .

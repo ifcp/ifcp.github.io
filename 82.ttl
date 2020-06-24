@@ -1,0 +1,17 @@
+<https://w3id.org/ifcp/82>
+  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/82/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　この行事は、いわゆる「ねむりながし」の習俗、すなわち仕事の妨げとなる眠気を送り出す習俗が風流化したものである。このような災厄を払い、無事息災を祈る行事は、東北地方をはじめ各地に見られるが、特に青森市と弘前市では盛大なものが行われてきた。
+　弘前のねぷたは、扇形をしている扇ねぷたで、台上に扇形の箱をつくり、これに紙を張り、その紙に歴史上の人物や物語上の人物等で勇壮なものを描いて、この扇形の箱の中に灯を入れたものである。
+　行事では、笛・太鼓の囃子につれて「ヤーヤド、ヤーヤド」の掛声で気勢をあげて多勢がねぷたを曳く。ねぷたは各町内会、愛好会、職場団体等がこれを運行するが、ねぷたの骨組み、絵、囃子等にたずさわる人々は、弘前市内全域にわたっている。大小数十のねぷたの中には古風をよく残したものも多く、青森のねぶた（昭和55年1月28日重要無形民俗文化財指定）と並んで貴重なものである。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月１～７日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hirosaki-kanko.or.jp/web/edit.html?id=cat02_summer_neputa>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C02202-20060227>;
+    <http://purl.org/NET/cidoc-crm/core#P31> "ナレンコ";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/弘前ねぷた>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "諸説あり"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "ひろさきのねぷた"@ja-hrkt, "弘前のねぷた"@ja .

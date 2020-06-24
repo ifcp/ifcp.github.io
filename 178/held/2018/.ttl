@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/178/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "土崎神明社奉賛会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/178>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-21";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-20"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://akitafes.com/2018/09/29/土崎神明社祭の曳山行事2018/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C05000-19700401>, <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

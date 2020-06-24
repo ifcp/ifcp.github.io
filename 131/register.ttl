@@ -1,0 +1,5 @@
+<https://w3id.org/ifcp/131/register>
+  <http://purl.org/NET/cidoc-crm/core#P4> "1987-01-08";
+  <http://purl.org/NET/cidoc-crm/core#P67> "257";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+<https://w3id.org/ifcp/131> <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/131/register>.

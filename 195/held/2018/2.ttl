@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/195/held/2018/2>
+  <http://purl.org/NET/cidoc-crm/core#P14> "遊佐のアマハゲ保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-01-01";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-01"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.town.yuza.yamagata.jp/ou/kyoiku/bunka/8207.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C06000-19700401>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S064610240>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

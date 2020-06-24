@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/84/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "秋田市竿灯会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/84>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-06";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-04"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kantou.gr.jp/reflect/2018.htm>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C05000-19700401>, <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/228/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "鳥羽区";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/228>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-02-11";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-02-11"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.katch.co.jp/kinjo/arekore/arekore44.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/page/sac/C23000-19700401>, <http://data.e-stat.go.jp/lod/sac/C23213-20110401>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

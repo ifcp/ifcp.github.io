@@ -1,0 +1,4 @@
+<https://w3id.org/ifcp/ifcp/234>
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "三上のずいき祭"@ja .
+<https://w3id.org/ifcp/234/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/234>.

@@ -1,0 +1,18 @@
+<https://w3id.org/ifcp/91>
+  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/91/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　尾張津島天王祭の車楽舟行事は、津島神社の津島祭で行われる行事で、宵祭（７月の第四土曜日）と朝祭（翌日曜日）からなり、天王川で行われる。
+　宵祭は、旧津島５カ村の米之座、下構、堤下、筏場、今市場から５艘のまきわら舟が出る。この舟の屋台の上に半円、山型に365箇の提灯を飾り、中央高く立てた真柱には12箇の提灯をかかげ北の堤の御旅所に神幸し、上陸後、御旅所の神輿に参拝して引きあげる。
+　翌日の朝祭には市江車と称する旧市江村から出る車楽舟を先頭とし、再び車楽舟５艘が提灯をおろし、能人形を飾って奏楽をしながら御旅所へ上ってくる。そして、御旅所近くまで来ると市江車から10人の裸の若者が鉾を持って次々に川に飛び込み、舟より先に着岸し、御旅所の神輿に参拝する。若者達はそのまま津島神社に走り、神社の石橋に新しく張られた〆繩を切る。続いて着岸した車楽舟から稚児が上陸し、太鼓の桴を肩にし警固役の肩車に乗って御旅所に参拝する。稚児は神輿の還御に供奉して津島神社に行き、拝殿で津島笛に合わせて太鼓を打つ。
+　この行事は、盛大なもので、京都祇園祭の山鉾行事とともに我が国を代表する夏祭で、特に川祭として特色がある。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月第４土曜日・翌日曜日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.aichi-now.jp/spots/detail/320/>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/sac/C23208-19700510>;
+    <http://purl.org/NET/cidoc-crm/core#P31> "Edotih Yno";
+    <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-17";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/尾張津島天王祭>;
+    <http://purl.org/NET/cidoc-crm/core#P81> "室町時代"
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "おわりつしまてんのうまつりのだんじりぶねぎょうじ"@ja-hrkt, "尾張津島天王祭の車楽舟行事"@ja .

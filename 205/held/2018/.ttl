@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/205/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "猿追い祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/205>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-31";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-31"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://ameblo.jp/ozenosatokatashina08-09/entry-12416023651.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C10000-19700401>, <http://data.e-stat.go.jp/lod/sac/C10443-19700401>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

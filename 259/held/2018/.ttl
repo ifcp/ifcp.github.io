@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/259/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "新庄まつり山車行事保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/259>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-26";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-24"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://shinjo-matsuri.jp/db/zuroku/year/heisei/2018>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C06000-19700401>, <http://data.e-stat.go.jp/lod/sac/C06205-20050218>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

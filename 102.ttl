@@ -1,0 +1,18 @@
+<https://w3id.org/ifcp/102>
+  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/102/register>;
+  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://purl.org/NET/cidoc-crm/core#P3> """　熊甲二十日祭の枠旗行事は、９月６日のシュライ（打ち合せ）や同19日のホウヘイ（奉幣）迎えの前行事を経て、当日を迎える。
+　当日朝、19の末社からお立ちした各村の神輿・枠旗などが各猿田彦の先導で本社である久麻加夫登阿良加志比古【くまかぶとあらかしひこ】神社に参集する。そこで各村の神輿・枠旗は、神事の後、本社の神輿を先頭に決まりの順番でお旅所まで供をする。
+　先導役をつとめる猿田彦はメンとも呼ばれ、鳥甲を被り、天狗面をつけ、メンボウを手にして、太鼓・鉦のリズムに合わせて乱舞する。また、大勢の若者たちは、山鉾形をなす10間余におよぶ長大な深紅の羅紗製枠旗を舁いて練り回る。4本ないし6本の張綱で支えられながらも、島田くずしの異名がつくほどの乱舞は圧巻である。
+　この神幸に際しては、寄り合い祭にふさわしく本社の境内はもちろん道中も見物人であふれる。家をあげ、むらをあげて祭に参加するためで、神慮を慰め、豊饒・豊漁の歓喜をよく顕現している。長大な枠旗舁きは極めて珍しく、地域的特色のある秋祭の典型例の一つとして重要である。""";
+  <http://purl.org/NET/cidoc-crm/core#P4> "毎年９月２０日";
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.pref.ishikawa.lg.jp/kyoiku/bunkazai/minzoku/2-2.html>;
+  <http://purl.org/NET/cidoc-crm/core#P94> [
+    <http://purl.org/NET/cidoc-crm/core#P107> <https://w3id.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P31> "";
+    <http://purl.org/NET/cidoc-crm/core#P4> "";
+    <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P81> ""
+  ];
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "くまがぶとはつかさいのわくばたぎょうじ"@ja-hrkt, "熊甲二十日祭の枠旗行事"@ja .

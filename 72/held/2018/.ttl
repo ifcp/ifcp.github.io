@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/72/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "公益財団法人祇園祭山鉾連合会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/72>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-31";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-01"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://kyoto-design.jp/event/35063>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C26000-19700401>, <http://data.e-stat.go.jp/lod/sac/C26100-20041220>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

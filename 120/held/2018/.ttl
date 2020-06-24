@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/120/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "お山参詣保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/120>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2018-09-10";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-08"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.mutusinpou.co.jp/news/2018/09/52599.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C02000-19700401>, <http://data.e-stat.go.jp/lod/sac/C02202-20060227>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
