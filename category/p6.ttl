@@ -1,7 +1,7 @@
 <http://example.org/ifcp/category/p6>
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E55>;
   <http://www.w3.org/2000/01/rdf-schema#label> "祭礼(信仰)";
-  <http://www.w3.org/2004/02/skos/core#boarder> <http://example.org/ifcp/category/practice> .
+  <http://www.w3.org/2004/02/skos/core#broader> <http://example.org/ifcp/category/practice> .
 <http://example.org/ifcp/100> <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>.
 <http://example.org/ifcp/102> <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>.
 <http://example.org/ifcp/114> <http://purl.org/NET/cidoc-crm/core#P2> <http://example.org/ifcp/category/p6>.

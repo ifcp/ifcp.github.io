@@ -1,5 +1,5 @@
 <http://example.org/ifcp/category/e5>
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E55>;
   <http://www.w3.org/2000/01/rdf-schema#label> "延年・おこない";
-  <http://www.w3.org/2004/02/skos/core#boarder> <http://example.org/ifcp/category/entertainment> .
+  <http://www.w3.org/2004/02/skos/core#broader> <http://example.org/ifcp/category/entertainment> .
 <http://example.org/ifcp/category/entertainment> <http://www.w3.org/2004/02/skos/core#narrower> <http://example.org/ifcp/category/e5>.

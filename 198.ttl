@@ -15,10 +15,10 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月３１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.info-toyama.com/event/50030/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://w3id.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://w3id.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;

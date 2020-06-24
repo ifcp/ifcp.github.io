@@ -16,10 +16,10 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年12月31日、1月1日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.dewasanzan.jp/publics/index/17/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://w3id.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P31> "";
     <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <http://example.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P67> <http://w3id.org/ifcp/>;
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
