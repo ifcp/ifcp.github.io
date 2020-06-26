@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/231/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "川越氷川祭の山車行事保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/231>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/231>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-21";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-20"

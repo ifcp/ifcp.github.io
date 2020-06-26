@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/199/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "大江氏子会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/199>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/199>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""

@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/226/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "佐原山車行事伝承保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/226>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/226>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""

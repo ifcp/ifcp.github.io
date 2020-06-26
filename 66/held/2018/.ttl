@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/66/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "高岡御車山保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/66>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/66>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-05-01";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-05-01"

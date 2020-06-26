@@ -15,3 +15,4 @@
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "たかおかみくるまやままつりのみくるまやまぎょうじ"@ja-hrkt, "高岡御車山祭の御車山行事"@ja .
+<https://w3id.org/ifcp/66/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/66>.

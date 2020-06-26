@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/292/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "熊野速玉大社祭事保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/292>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/292>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "";
     <http://purl.org/NET/cidoc-crm/core#P116> ""

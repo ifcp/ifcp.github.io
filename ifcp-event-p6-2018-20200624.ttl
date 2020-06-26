@@ -3,7 +3,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix ifcp: <https://w3id.org/ifcp/ifcp/> .
+@prefix ifcp: <https://w3id.org/ifcp/> .
 @prefix cate: <https://w3id.org/ifcp/category/> .
 ifcp:33
     rdf:type crm:E1 ;

@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/96/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "唐津曳山取締会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/96>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/96>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-11-04";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-11-02"

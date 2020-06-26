@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/244/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "亀崎潮干祭保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/244>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/244>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-05-04";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-05-03"

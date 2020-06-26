@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/275/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "須成文化財保護委員会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/275>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/275>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-05";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-04"

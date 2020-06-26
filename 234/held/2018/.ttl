@@ -1,6 +1,6 @@
 <https://w3id.org/ifcp/234/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "ずいき祭保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/ifcp/234>;
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/234>;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-08";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-08"
