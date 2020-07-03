@@ -8,7 +8,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月１８～２１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.minamiaizu.org/gion/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> <https://w3id.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S073680050>;
     <http://purl.org/NET/cidoc-crm/core#P31> "Osakanataro";
     <http://purl.org/NET/cidoc-crm/core#P4> "2019-07-13";
     <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/会津田島祇園祭>;

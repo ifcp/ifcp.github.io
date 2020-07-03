@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-16"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C14000-19700401>, <http://data.e-stat.go.jp/lod/sac/C14210-19700401>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C14210-19700401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-04-19"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.yomiuri.co.jp/local/gifu/news/20190420-OYTNT50094/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C21000-19700401>, <http://data.e-stat.go.jp/lod/sac/C21217-20040201>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C21217-20040201>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

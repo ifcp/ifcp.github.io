@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-06"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.town.yuza.yamagata.jp/ou/kyoiku/bunka/8207.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C06000-19700403>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S064610241>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S064610241>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

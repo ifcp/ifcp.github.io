@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-09-20"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000016350>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C17000-19700401>, <http://data.e-stat.go.jp/lod/sac/C17202-20090901>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C17202-20090901>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

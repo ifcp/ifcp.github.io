@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-26"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.iwaken.or.jp/info/2018/10/29_1855.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C03000-19700401>, <http://data.e-stat.go.jp/lod/sac/C03209-20170904>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C03209-20170904>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

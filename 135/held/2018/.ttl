@@ -6,5 +6,5 @@
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-21"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nishinippon.co.jp/item/n/388880/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C42000-19700401>, <http://data.e-stat.go.jp/lod/sac/C42211-20040801>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C42211-20040801>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
