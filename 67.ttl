@@ -8,10 +8,16 @@
   <http://purl.org/NET/cidoc-crm/core#P4> "旧門前町は毎年１月２日（※指定当時は毎年１月６日）、輪島市は毎年１月１４・２０日（※指定当時）、旧内浦町は毎年節分（２月３日）";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hot-ishikawa.jp/event/4517>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P107> <https://w3id.org/ifcp/>;
-    <http://purl.org/NET/cidoc-crm/core#P31> "";
-    <http://purl.org/NET/cidoc-crm/core#P4> "";
-    <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+    <http://purl.org/NET/cidoc-crm/core#P167> [
+      <http://purl.org/NET/cidoc-crm/core#P107> <http://data.e-stat.go.jp/lod/page/sac/C35325-20060320>, <http://data.e-stat.go.jp/lod/sac/C05206-20050322>, <http://data.e-stat.go.jp/lod/sac/C16342-20141201>, <http://data.e-stat.go.jp/lod/sac/C23213-20110401>, <http://data.e-stat.go.jp/lod/sac/C29206-19700401>, <http://data.e-stat.go.jp/lod/sac/C40203-20080401>, <http://data.e-stat.go.jp/lod/sac/C46222-20091019>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S054340010>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S134210040>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282201260>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292070500>, <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352120100>, <https://w3id.org/ifcp/>;
+      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C46215-20041012>;
+      <http://www.w3.org/2000/01/rdf-schema#label> "", "兵庫県加西市上万願寺町", "奄美群島", "奈良県五條市大津町念仏寺", "奈良県桜井市江包、大西", "富山県下新川郡入善町上野邑町", "山口県周東町", "山口県柳井市阿月", "愛知県西尾市", "福岡県久留米市大善寺", "秋田県男鹿市", "秋田県美郷町六郷地区", "鹿児島県三島村硫黄島", "鹿児島県薩摩川内市下甑島"
+    ];
+    <http://purl.org/NET/cidoc-crm/core#P31> [
+      <http://purl.org/NET/cidoc-crm/core#P4> "", "2018-11-15", "2018-12-02", "2018-12-13", "2019-02-09", "2019-02-11", "2019-03-12", "2019-04-13", "2019-12-21", "2019-12-28";
+      <http://purl.org/NET/cidoc-crm/core#P51> "", "221.58.122.88", "8-hachiro", "STA3816", "Urania", "そらみみ", "なびお ", "加西市ふるさと創造部 文化・観光・スポーツ課", "山口県柳井市", "鹿児島県三島村", "龍郷町役場 教育委員会";
+      <http://purl.org/NET/cidoc-crm/core#P67> <http://mishimamura.com/ech/5560/>, <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>, <http://www.sea.icn-tv.ne.jp/~sosym/>, <https://ja.wikipedia.org/wiki/かまくら#六郷のかまくら>, <https://ja.wikipedia.org/wiki/なまはげ>, <https://ja.wikipedia.org/wiki/トシドン#甑島のトシドン>, <https://ja.wikipedia.org/wiki/塞の神まつり>, <https://ja.wikipedia.org/wiki/江包・大西の御綱>, <https://ja.wikipedia.org/wiki/陀々堂の鬼はしり>, <https://ja.wikipedia.org/wiki/鬼夜>, <https://ja.wikipedia.org/wiki/鳥羽の火祭り>, <https://w3id.org/ifcp/>, <https://www.city-yanai.jp/soshiki/39/atsukishimmei.html>, <https://www.town.tatsugo.lg.jp/edu/event-bunka/rekishi-bunka/arasetsu.html>
+    ];
     <http://purl.org/NET/cidoc-crm/core#P81> ""
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
