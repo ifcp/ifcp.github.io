@@ -14,17 +14,17 @@ ifcp:"&A2&"
     crm:P67 <"&G2&"> ;
     crm:P141 <https://w3id.org/ifcp/"&A2&"/register> ; 
     crm:P94 [
-        crm:P31 _:edit ;
+        crm:P31 _:edit"&A2&" ;
         crm:P81 """&R2&""" ; 
-        crm:P167 _:place
+        crm:P167 _:place"&A2&"
     ];
     crm:P2 "&I2&" ;
     crm:P2 "&H2&" .
-_:edit
+_:edit"&A2&"
     crm:P67 <"&Q2&"> ;
     crm:P4 """&U2&""";
     crm:P51 """&V2&""".
-_:place
+_:place"&A2&"
     rdfs:label """&S2&""";
     crm:P67 <"&T2&">.
 <"&Q2&">
