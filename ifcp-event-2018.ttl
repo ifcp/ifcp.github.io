@@ -6,7 +6,6 @@
 @prefix ifcp: <https://w3id.org/ifcp/> .
 @prefix cate: <https://w3id.org/ifcp/category/> .
 ifcp:"&A2&"
-    rdf:type crm:E1 ;
     rdfs:label """&D2&"""@ja .
 <https://w3id.org/ifcp/"&A2&"/held/2018/"&B2&">
     rdf:type crm:E5 ;
