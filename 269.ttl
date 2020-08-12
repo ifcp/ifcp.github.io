@@ -32,3 +32,4 @@
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
   <http://www.w3.org/2000/01/rdf-schema#label> "みとのおしょろながし"@ja-hrkt, "三戸のオショロ流し"@ja .
 <https://w3id.org/ifcp/269/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/269>.
+<https://w3id.org/ifcp/269/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/269>.

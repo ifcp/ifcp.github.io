@@ -34,3 +34,6 @@
 <https://w3id.org/ifcp/195/held/2018/1> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>.
 <https://w3id.org/ifcp/195/held/2018/2> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>.
 <https://w3id.org/ifcp/195/held/2018/3> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>.
+<https://w3id.org/ifcp/195/held/2019/1> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>.
+<https://w3id.org/ifcp/195/held/2019/2> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>.
+<https://w3id.org/ifcp/195/held/2019/3> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/195>.

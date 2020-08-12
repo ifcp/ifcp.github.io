@@ -4,10 +4,7 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-02-15";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-02-11"
-  ], [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2019-02-15";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2019-02-11"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://mainichi.jp/articles/20190226/k00/00m/040/182000c>, <https://www.town.misato.akita.jp/kamakura/2574.html>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.misato.akita.jp/kamakura/2574.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C05434-20170222>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
