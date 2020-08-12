@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/266/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "塞の神まつり保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/266>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-01-13";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-01-13"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S202030350>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

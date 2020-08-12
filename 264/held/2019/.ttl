@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/264/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "神明祭顕彰会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/264>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-02-11";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-02-11"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city-yanai.jp/site/kanko/atsukishinmei.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352120100>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

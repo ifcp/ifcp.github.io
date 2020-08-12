@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/67/held/2019/2>
+  <http://purl.org/NET/cidoc-crm/core#P14> "能登のアマメハギ・面様年頭保存会（能登町秋吉地区アマメハギ保存会，門前町アマメハギ保存会，輪島市面様年頭保存会）";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/67>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-01-02";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-01-02"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://wajimanavi.jp/event/アマメハギ>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C17463-20050301>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

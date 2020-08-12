@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/253/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "三島町年中行事保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/253>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-01-15";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-01-15"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nihon-kankou.or.jp/fukushima/074446/detail/07444ba2212035019>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C07444-19700401>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
