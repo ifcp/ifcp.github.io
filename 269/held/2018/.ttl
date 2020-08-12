@@ -4,7 +4,10 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-16";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-16"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-16";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-08-16"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html>, <https://www.kanaloco.jp/article/entry-188969.html>;
   <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C14210-19700401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

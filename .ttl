@@ -86,14 +86,8 @@
 <_:place301> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
 <_:place67> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
 <_:place85> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/126/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/145/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/167/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/180/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
+<https://w3id.org/ifcp/153/held/2019/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
 <https://w3id.org/ifcp/197/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/199/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/201/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/226/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
+<https://w3id.org/ifcp/197/held/2019/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
 <https://w3id.org/ifcp/270/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/292/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.
 <https://w3id.org/ifcp/295/held/2018/> <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>.

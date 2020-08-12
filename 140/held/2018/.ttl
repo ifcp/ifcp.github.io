@@ -4,6 +4,9 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-15";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-14"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-15";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-08-15"
   ];
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.bunka.pref.mie.lg.jp/Miebunka/mobile/bunkazaiMobile/detail/730770>;
   <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C24211-19700401>;

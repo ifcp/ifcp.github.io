@@ -4,7 +4,10 @@
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-08-15";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-08-15"
+  ], [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-15";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-08-15"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.saitamatsuri.jp/matsuri/inomata_hyakuhato/>;
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.saihokunavi.net/event/event.shtml?id=51>, <https://www.saitamatsuri.jp/matsuri/inomata_hyakuhato/>;
   <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C11381-19890301>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
