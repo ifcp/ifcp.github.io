@@ -1,0 +1,847 @@
+@base <https://w3id.org/ifcp/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifcp: <https://w3id.org/ifcp/> .
+@prefix cate: <https://w3id.org/ifcp/category/> .
+ifcp:33
+    rdfs:label "日立風流物"@ja .
+<https://w3id.org/ifcp/33/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:33 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C08202-20041101> ;
+    crm:P14 "日立郷土芸能保存会" ;
+    crm:P67 <http://www.kankou-hitachi.jp/page/page000060.html> ;
+    crm:P4 [
+        crm:P116 "2018-04-07" ;
+        crm:P115 "2018-04-08" 
+    ] . 
+ifcp:63
+    rdfs:label "烏山の山あげ行事"@ja .
+<https://w3id.org/ifcp/63/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:63 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C09215-20120801> ;
+    crm:P14 "烏山山あげ保存会" ;
+    crm:P67 <https://www.shimotsuke.co.jp/articles/-/54273> ;
+    crm:P4 [
+        crm:P116 "2018-07-26" ;
+        crm:P115 "2018-07-29" 
+    ] . 
+ifcp:64
+    rdfs:label "秩父祭の屋台行事と神楽"@ja .
+<https://w3id.org/ifcp/64/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:64 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C11207-20050401> ;
+    crm:P14 "秩父祭保存委員会" ;
+    crm:P67 <https://www.saitama-np.co.jp/news/2018/12/04/04_.html> ;
+    crm:P4 [
+        crm:P116 "2018-12-03" ;
+        crm:P115 "2018-12-03" 
+    ] . 
+ifcp:66
+    rdfs:label "高岡御車山祭の御車山行事"@ja .
+<https://w3id.org/ifcp/66/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:66 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C16202-20051101> ;
+    crm:P14 "高岡御車山保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL514GM8L51PUZB007.html> ;
+    crm:P4 [
+        crm:P116 "2018-05-01" ;
+        crm:P115 "2018-05-01" 
+    ] . 
+ifcp:69
+    rdfs:label "高山祭の屋台行事"@ja .
+<https://w3id.org/ifcp/69/held/2018/1>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:69 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C21203-20050201> ;
+    crm:P14 "日枝神社氏子山王祭保存会，八幡宮氏子八幡祭保存会" ;
+    crm:P67 <http://www.news24.jp/articles/2018/04/14/07390524.html> ;
+    crm:P4 [
+        crm:P116 "2018-04-14" ;
+        crm:P115 "2018-04-15" 
+    ] . 
+ifcp:69
+    rdfs:label "高山祭の屋台行事"@ja .
+<https://w3id.org/ifcp/69/held/2018/2>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:69 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C21203-20050201> ;
+    crm:P14 "日枝神社氏子山王祭保存会，八幡宮氏子八幡祭保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASLB902HJLB8OHGB118.html> ;
+    crm:P4 [
+        crm:P116 "2018-10-09" ;
+        crm:P115 "2018-10-10" 
+    ] . 
+ifcp:71
+    rdfs:label "長浜曳山祭の曳山行事"@ja .
+<https://w3id.org/ifcp/71/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:71 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C25203-20100101> ;
+    crm:P14 "（公益財団法人）長浜曳山文化協会" ;
+    crm:P67 <https://www.gaido.jp/clickalbum/41126.html> ;
+    crm:P4 [
+        crm:P116 "2018-04-13" ;
+        crm:P115 "2018-04-16" 
+    ] . 
+ifcp:72
+    rdfs:label "京都祇園祭の山鉾行事"@ja .
+<https://w3id.org/ifcp/72/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:72 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C26100-20041220> ;
+    crm:P14 "公益財団法人祇園祭山鉾連合会" ;
+    crm:P67 <https://kyoto-design.jp/event/35063> ;
+    crm:P4 [
+        crm:P116 "2018-07-01" ;
+        crm:P115 "2018-07-31" 
+    ] . 
+ifcp:79
+    rdfs:label "博多祇園山笠行事"@ja .
+<https://w3id.org/ifcp/79/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:79 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C40132-19720401> ;
+    crm:P14 "博多祇園山笠振興会" ;
+    crm:P67 <https://www.hakatayamakasa.com/75640.html> ;
+    crm:P4 [
+        crm:P116 "2018-07-01" ;
+        crm:P115 "2018-07-15" 
+    ] . 
+ifcp:81
+    rdfs:label "青森のねぶた"@ja .
+<https://w3id.org/ifcp/81/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:81 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C02201-20070901> ;
+    crm:P14 "青森ねぶた祭保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL874S06L87UBNB003.html> ;
+    crm:P4 [
+        crm:P116 "2018-08-02" ;
+        crm:P115 "2018-08-07" 
+    ] . 
+ifcp:82
+    rdfs:label "弘前のねぷた"@ja .
+<https://w3id.org/ifcp/82/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:82 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C02202-20060227> ;
+    crm:P14 "弘前ねぷた保存会" ;
+    crm:P67 <https://blog.tugarujikukan.info/archives/hirosaki-neputa> ;
+    crm:P4 [
+        crm:P116 "2018-08-01" ;
+        crm:P115 "2018-08-07" 
+    ] . 
+ifcp:84
+    rdfs:label "秋田の竿灯"@ja .
+<https://w3id.org/ifcp/84/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:84 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C05201-20050111> ;
+    crm:P14 "秋田市竿灯会" ;
+    crm:P67 <http://www.kantou.gr.jp/reflect/2018.htm> ;
+    crm:P4 [
+        crm:P116 "2018-08-04" ;
+        crm:P115 "2018-08-06" 
+    ] . 
+ifcp:85
+    rdfs:label "金沢の羽山ごもり"@ja .
+<https://w3id.org/ifcp/85/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:85 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C07201-20080701> ;
+    crm:P14 "羽山ごもり保存会" ;
+    crm:P67 <https://fukuori.com/kitemina/event/124/> ;
+    crm:P4 [
+        crm:P116 "2018-01-02" ;
+        crm:P115 "2018-01-04" 
+    ] . 
+ifcp:90
+    rdfs:label "古川祭の起し太鼓・屋台行事"@ja .
+<https://w3id.org/ifcp/90/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:90 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C21217-20040201> ;
+    crm:P14 "古川祭保存会" ;
+    crm:P67 <https://www.yomiuri.co.jp/local/gifu/news/20190420-OYTNT50094/> ;
+    crm:P4 [
+        crm:P116 "2018-04-19" ;
+        crm:P115 "2018-04-20" 
+    ] . 
+ifcp:91
+    rdfs:label "尾張津島天王祭の車楽舟行事"@ja .
+<https://w3id.org/ifcp/91/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:91 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C23208-19900401> ;
+    crm:P14 "尾張津島天王祭協賛会" ;
+    crm:P67 <http://tsushima-cci.or.jp/info/台風１２号の影響による尾張津島天王祭のイベン/> ;
+    crm:P4 [
+        crm:P116 "中止" ;
+        crm:P115 "中止" 
+    ] . 
+ifcp:92
+    rdfs:label "豊橋神明社の鬼祭"@ja .
+<https://w3id.org/ifcp/92/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:92 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C23201-19990401> ;
+    crm:P14 "豊橋鬼祭保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL2B3JL4L2BOBJB001.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-10" ;
+        crm:P115 "2018-02-11" 
+    ] . 
+ifcp:95
+    rdfs:label "戸畑祇園大山笠行事"@ja .
+<https://w3id.org/ifcp/95/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:95 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C40100-20081001> ;
+    crm:P14 "戸畑祇園大山笠振興会" ;
+    crm:P67 <https://www.kitakyushu-museum.jp/resources/3531> ;
+    crm:P4 [
+        crm:P116 "2018-07-27" ;
+        crm:P115 "2018-07-29" 
+    ] . 
+ifcp:96
+    rdfs:label "唐津くんちの曳山行事"@ja .
+<https://w3id.org/ifcp/96/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:96 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C41202-20060101> ;
+    crm:P14 "唐津曳山取締会" ;
+    crm:P67 <https://www.saga-s.co.jp/subcategory/唐津くんち?page=3&name=唐津くんち> ;
+    crm:P4 [
+        crm:P116 "2018-11-02" ;
+        crm:P115 "2018-11-04" 
+    ] . 
+ifcp:100
+    rdfs:label "田島祇園祭のおとうや行事"@ja .
+<https://w3id.org/ifcp/100/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:100 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C07368-20060320> ;
+    crm:P14 "田島祇園祭のおとうや行事保存会" ;
+    crm:P67 <https://www.kanko-aizu.com/information/23745/> ;
+    crm:P4 [
+        crm:P116 "2018-07-22" ;
+        crm:P115 "2018-07-24" 
+    ] . 
+ifcp:102
+    rdfs:label "熊甲二十日祭の枠旗行事"@ja .
+<https://w3id.org/ifcp/102/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:102 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C17202-20090901> ;
+    crm:P14 "お熊甲祭奉賛会" ;
+    crm:P67 <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000016350> ;
+    crm:P4 [
+        crm:P116 "2018-09-20" ;
+        crm:P115 "2018-09-20" 
+    ] . 
+ifcp:114
+    rdfs:label "青柏祭の曳山行事"@ja .
+<https://w3id.org/ifcp/114/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:114 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172020010> ;
+    crm:P14 "青柏祭でか山保存会" ;
+    crm:P67 <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000014569> ;
+    crm:P4 [
+        crm:P116 "2018-05-03" ;
+        crm:P115 "2018-05-05" 
+    ] . 
+ifcp:120
+    rdfs:label "岩木山の登拝行事"@ja .
+<https://w3id.org/ifcp/120/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:120 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C02202-20060227> ;
+    crm:P14 "お山参詣保存会" ;
+    crm:P67 <http://www.mutusinpou.co.jp/news/2018/09/52599.html> ;
+    crm:P4 [
+        crm:P116 "2018-09-08" ;
+        crm:P115 "2018-09-10" 
+    ] . 
+ifcp:122
+    rdfs:label "室根神社祭のマツリバ行事"@ja .
+<https://w3id.org/ifcp/122/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:122 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C03209-20170904> ;
+    crm:P14 "室根神社祭保存会" ;
+    crm:P67 <https://www.iwaken.or.jp/info/2018/10/29_1855.html> ;
+    crm:P4 [
+        crm:P116 "2018-10-26" ;
+        crm:P115 "2018-10-28" 
+    ] . 
+ifcp:126
+    rdfs:label "東湖八坂神社のトウニン（統人）行事"@ja .
+<https://w3id.org/ifcp/126/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:126 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C05211-20050322> ;
+    crm:P14 "東湖八坂神社崇敬会、船越町内連合会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:129
+    rdfs:label "涌出宮の宮座行事"@ja .
+<https://w3id.org/ifcp/129/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:129 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C26214-20070312> ;
+    crm:P14 "涌出宮宮座行事保存会" ;
+    crm:P67 <http://nihonguide.net/maturi/26131.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-17" ;
+        crm:P115 "2018-02-18" 
+    ] . 
+ifcp:149
+    rdfs:label "角館祭りのやま行事"@ja .
+<https://w3id.org/ifcp/149/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:149 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052150130> ;
+    crm:P14 "角館のお祭り保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL956SVGL95UBUB010.html> ;
+    crm:P4 [
+        crm:P116 "2018-09-07" ;
+        crm:P115 "2018-09-10" 
+    ] . 
+ifcp:150
+    rdfs:label "近江中山の芋競べ祭り"@ja .
+<https://w3id.org/ifcp/150/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:150 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C25383-19700401> ;
+    crm:P14 "芋くらべ祭保存会" ;
+    crm:P67 <http://nihonguide.net/maturi/2586.html> ;
+    crm:P4 [
+        crm:P116 "2018-09-02" ;
+        crm:P115 "2018-09-02" 
+    ] . 
+ifcp:153
+    rdfs:label "白間津のオオマチ（大祭）行事"@ja .
+<https://w3id.org/ifcp/153/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:153 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C12466-20060320> ;
+    crm:P14 "白間津区" ;
+    crm:P67 <http://bosotown.com/archives/2319> ;
+    crm:P4 [
+        crm:P116 "開催せず" ;
+        crm:P115 "開催せず" 
+    ] . 
+ifcp:171
+    rdfs:label "発光路の強飯式"@ja .
+<https://w3id.org/ifcp/171/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:171 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C09205-20120801> ;
+    crm:P14 "発光路妙見神社青年部" ;
+    crm:P67 <https://www.shimotsuke.co.jp/articles/-/11035> ;
+    crm:P4 [
+        crm:P116 "2018-01-03" ;
+        crm:P115 "2018-01-03" 
+    ] . 
+ifcp:172
+    rdfs:label "貴船神社の船祭り"@ja .
+<https://w3id.org/ifcp/172/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:172 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C14383-19700401> ;
+    crm:P14 "貴船祭保存会" ;
+    crm:P67 <https://www.kanaloco.jp/article/entry-33868.html> ;
+    crm:P4 [
+        crm:P116 "2018-07-27" ;
+        crm:P115 "2018-07-28" 
+    ] . 
+ifcp:176
+    rdfs:label "日田祗園の曳山行事"@ja .
+<https://w3id.org/ifcp/176/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:176 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C44204-20050322> ;
+    crm:P14 "日田祗園山鉾振興会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL7P4JH5L7PTPJB00S.html> ;
+    crm:P4 [
+        crm:P116 "2018-07-21" ;
+        crm:P115 "2018-07-22" 
+    ] . 
+ifcp:178
+    rdfs:label "土崎神明社祭の曳山行事"@ja .
+<https://w3id.org/ifcp/178/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:178 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C05201-20050111> ;
+    crm:P14 "土崎神明社奉賛会" ;
+    crm:P67 <http://akitafes.com/2018/09/29/土崎神明社祭の曳山行事2018/> ;
+    crm:P4 [
+        crm:P116 "2018-07-20" ;
+        crm:P115 "2018-07-21" 
+    ] . 
+ifcp:180
+    rdfs:label "魚津のタテモン行事"@ja .
+<https://w3id.org/ifcp/180/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:180 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C16204-19890601> ;
+    crm:P14 "魚津たてもん保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:182
+    rdfs:label "鳥出神社の鯨船行事"@ja .
+<https://w3id.org/ifcp/182/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:182 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C24202-20001101> ;
+    crm:P14 "富田鯨船保存会連合会" ;
+    crm:P67 <https://www.you-yokkaichi.com/2018/08/15/5133/> ;
+    crm:P4 [
+        crm:P116 "2018-08-14" ;
+        crm:P115 "2018-08-15" 
+    ] . 
+ifcp:187
+    rdfs:label "塩屋湾のウンガミ"@ja .
+<https://w3id.org/ifcp/187/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:187 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C47302-19780601> ;
+    crm:P14 "田港区、屋古区、塩屋区、白浜区" ;
+    crm:P67 <https://ryukyushimpo.jp/style/article/entry-785935.html> ;
+    crm:P4 [
+        crm:P116 "2018-09-04" ;
+        crm:P115 "2018-09-04" 
+    ] . 
+ifcp:192
+    rdfs:label "等覚寺の松会"@ja .
+<https://w3id.org/ifcp/192/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:192 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C40621-19700401> ;
+    crm:P14 "等覚寺松会保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL4H3RG7L4HTLLS001.html> ;
+    crm:P4 [
+        crm:P116 "2018-04-15" ;
+        crm:P115 "2018-04-15" 
+    ] . 
+ifcp:197
+    rdfs:label "山北のボタモチ祭り"@ja .
+<https://w3id.org/ifcp/197/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:197 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C15212-20080401> ;
+    crm:P14 "中浜ボタモチ祭保存会、杉平ボタモチ祭保存会、岩石ボタモチ保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:198
+    rdfs:label "滑川のネブタ流し"@ja .
+<https://w3id.org/ifcp/198/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:198 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C16206-19910325> ;
+    crm:P14 "中川原、常盤町一区・二区・三区" ;
+    crm:P67 <https://71757238.at.webry.info/201808/article_1.html> ;
+    crm:P4 [
+        crm:P116 "2018-07-31" ;
+        crm:P115 "2018-07-31" 
+    ] . 
+ifcp:199
+    rdfs:label "大江八幡神社の御船行事"@ja .
+<https://w3id.org/ifcp/199/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:199 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C22226-20051011> ;
+    crm:P14 "大江氏子会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:201
+    rdfs:label "河内祭の御舟行事"@ja .
+<https://w3id.org/ifcp/201/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:201 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C30423-20050401> ;
+    crm:P14 "古座川河内祭保存会、古座獅子舞保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:205
+    rdfs:label "片品の猿追い祭"@ja .
+<https://w3id.org/ifcp/205/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:205 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C10443-19700401> ;
+    crm:P14 "猿追い祭保存会" ;
+    crm:P67 <https://ameblo.jp/ozenosatokatashina08-09/entry-12416023651.html> ;
+    crm:P4 [
+        crm:P116 "2018-10-31" ;
+        crm:P115 "2018-10-31" 
+    ] . 
+ifcp:206
+    rdfs:label "気多の鵜祭の習俗"@ja .
+<https://w3id.org/ifcp/206/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:206 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172021060> ;
+    crm:P14 "気多大社、鵜浦町会" ;
+    crm:P67 <http://kanazawa-carfur.cocolog-nifty.com/blog/2018/12/1216-20181216-a.html> ;
+    crm:P4 [
+        crm:P116 "2018-12-16" ;
+        crm:P115 "2018-12-16" 
+    ] . 
+ifcp:208
+    rdfs:label "見付天神裸祭"@ja .
+<https://w3id.org/ifcp/208/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:208 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C22211-20090217> ;
+    crm:P14 "見付天神裸祭保存会" ;
+    crm:P67 <https://www.chunichi.co.jp/article/shizuoka/tokai-news/CK2018091602000097.html> ;
+    crm:P4 [
+        crm:P116 "2018-09-15" ;
+        crm:P115 "2018-09-16" 
+    ] . 
+ifcp:215
+    rdfs:label "城端神明宮祭の曳山行事"@ja .
+<https://w3id.org/ifcp/215/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:215 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C16210-20041101> ;
+    crm:P14 "城端曳山祭保存会" ;
+    crm:P67 <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000014575> ;
+    crm:P4 [
+        crm:P116 "2018-05-05" ;
+        crm:P115 "2018-05-05" 
+    ] . 
+ifcp:216
+    rdfs:label "上野天神祭のダンジリ行事"@ja .
+<https://w3id.org/ifcp/216/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:216 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C24216-20041101> ;
+    crm:P14 "上野文化美術保存会" ;
+    crm:P67 <https://www.iga-younet.co.jp/2018/10/22/10060/> ;
+    crm:P4 [
+        crm:P116 "2018-10-19" ;
+        crm:P115 "2018-10-21" 
+    ] . 
+ifcp:219
+    rdfs:label "鹿沼今宮神社祭の屋台行事"@ja .
+<https://w3id.org/ifcp/219/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:219 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092050100> ;
+    crm:P14 "鹿沼いまみや付け祭り保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASLB65DMXLB6UUHB00F.html> ;
+    crm:P4 [
+        crm:P116 "2018-10-06" ;
+        crm:P115 "2018-10-07" 
+    ] . 
+ifcp:220
+    rdfs:label "八戸三社大祭の山車行事"@ja .
+<https://w3id.org/ifcp/220/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:220 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C02203-20170101> ;
+    crm:P14 "八戸三社大祭山車祭り行事保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL7Z44S5L7ZUBNB004.html> ;
+    crm:P4 [
+        crm:P116 "2018-07-31" ;
+        crm:P115 "2018-08-04" 
+    ] . 
+ifcp:226
+    rdfs:label "佐原の山車行事"@ja .
+<https://w3id.org/ifcp/226/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:226 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C12236-20060327> ;
+    crm:P14 "佐原山車行事伝承保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:231
+    rdfs:label "川越氷川祭の山車行事"@ja .
+<https://w3id.org/ifcp/231/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:231 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C11201-20030401> ;
+    crm:P14 "川越氷川祭の山車行事保存会" ;
+    crm:P67 <https://nobutsunakai.com/2018-matsuri/200/> ;
+    crm:P4 [
+        crm:P116 "2018-10-20" ;
+        crm:P115 "2018-10-21" 
+    ] . 
+ifcp:232
+    rdfs:label "茂名の里芋祭"@ja .
+<https://w3id.org/ifcp/232/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:232 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122050440> ;
+    crm:P14 "茂名区" ;
+    crm:P67 <http://nihonguide.net/maturi/1208.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-20" ;
+        crm:P115 "2018-02-20" 
+    ] . 
+ifcp:234
+    rdfs:label "三上のずいき祭"@ja .
+<https://w3id.org/ifcp/234/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:234 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252100330> ;
+    crm:P14 "ずいき祭保存会" ;
+    crm:P67 <https://biwako-wifi-info.jp/event/179?locale=ja> ;
+    crm:P4 [
+        crm:P116 "2018-10-08" ;
+        crm:P115 "2018-10-08" 
+    ] . 
+ifcp:243
+    rdfs:label "犬山祭の車山行事"@ja .
+<https://w3id.org/ifcp/243/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:243 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C23215-19830301> ;
+    crm:P14 "犬山祭保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL475CTWL47OBJB002.html> ;
+    crm:P4 [
+        crm:P116 "2018-04-07" ;
+        crm:P115 "2018-04-08" 
+    ] . 
+ifcp:244
+    rdfs:label "亀崎潮干祭の山車行事"@ja .
+<https://w3id.org/ifcp/244/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:244 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C23205-19950901> ;
+    crm:P14 "亀崎潮干祭保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL533TG6L53OBJB001.html> ;
+    crm:P4 [
+        crm:P116 "2018-05-03" ;
+        crm:P115 "2018-05-04" 
+    ] . 
+ifcp:249
+    rdfs:label "桑名石取祭の祭車行事"@ja .
+<https://w3id.org/ifcp/249/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:249 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C24205-20041206> ;
+    crm:P14 "桑名石取祭保存会" ;
+    crm:P67 <https://prtimes.jp/main/html/rd/p/000000141.000031071.html> ;
+    crm:P4 [
+        crm:P116 "2018-08-04" ;
+        crm:P115 "2018-08-05" 
+    ] . 
+ifcp:259
+    rdfs:label "新庄まつりの山車行事"@ja .
+<https://w3id.org/ifcp/259/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:259 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C06205-20050218> ;
+    crm:P14 "新庄まつり山車行事保存会" ;
+    crm:P67 <http://shinjo-matsuri.jp/db/zuroku/year/heisei/2018> ;
+    crm:P4 [
+        crm:P116 "2018-08-24" ;
+        crm:P115 "2018-08-26" 
+    ] . 
+ifcp:270
+    rdfs:label "小菅の柱松行事"@ja .
+<https://w3id.org/ifcp/270/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:270 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C20213-20000401> ;
+    crm:P14 "小菅柱松保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:272
+    rdfs:label "八代妙見祭の神幸行事"@ja .
+<https://w3id.org/ifcp/272/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:272 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C43202-20050801> ;
+    crm:P14 "八代妙見祭保存振興会" ;
+    crm:P67 <https://www.asahi.com/articles/ASLCR5SN8LCRTLVB00P.html> ;
+    crm:P4 [
+        crm:P116 "2018-11-22" ;
+        crm:P115 "2018-11-23" 
+    ] . 
+ifcp:273
+    rdfs:label "吉田の火祭"@ja .
+<https://w3id.org/ifcp/273/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:273 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C19202-19700401> ;
+    crm:P14 "吉田の火祭保存会" ;
+    crm:P67 <https://www.asahi.com/articles/ASL8V30X8L8VUZOB001.html> ;
+    crm:P4 [
+        crm:P116 "2018-08-26" ;
+        crm:P115 "2018-08-26" 
+    ] . 
+ifcp:275
+    rdfs:label "須成祭の車楽船行事と神葭流し"@ja .
+<https://w3id.org/ifcp/275/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:275 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C23425-19960701> ;
+    crm:P14 "須成文化財保護委員会" ;
+    crm:P67 <https://humizuki.com/omaturi_zanmai/sight/photo/sunari/sunari2018/sunari2018.htm> ;
+    crm:P4 [
+        crm:P116 "2018-08-04" ;
+        crm:P115 "2018-08-05" 
+    ] . 
+ifcp:276
+    rdfs:label "坂越の船祭"@ja .
+<https://w3id.org/ifcp/276/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:276 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C28212-19700401> ;
+    crm:P14 "坂越の船渡御祭保存会" ;
+    crm:P67 <https://kabegamiphoto.com/event/ako/oosakejinja-funematsuri.html> ;
+    crm:P4 [
+        crm:P116 "2018-10-13" ;
+        crm:P115 "2018-10-14" 
+    ] . 
+ifcp:282
+    rdfs:label "花輪祭の屋台行事"@ja .
+<https://w3id.org/ifcp/282/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:282 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C05209-19980601> ;
+    crm:P14 "花輪ばやし祭典委員会" ;
+    crm:P67 <https://scoop-scoop.jp/scoop/scoop_hanawabayashi> ;
+    crm:P4 [
+        crm:P116 "2018-08-19" ;
+        crm:P115 "2018-08-20" 
+    ] . 
+ifcp:283
+    rdfs:label "松例祭の大松明行事"@ja .
+<https://w3id.org/ifcp/283/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:283 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C06203-20180131> ;
+    crm:P14 "松例祭保存会" ;
+    crm:P67 <https://tsurumap.com/2018/12/19/20181231/> ;
+    crm:P4 [
+        crm:P116 "2018-12-31" ;
+        crm:P115 "2019-01-01" 
+    ] . 
+ifcp:288
+    rdfs:label "大垣祭の軕行事"@ja .
+<https://w3id.org/ifcp/288/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:288 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C21202-20091031> ;
+    crm:P14 "大垣祭保存会" ;
+    crm:P67 <https://japan-attractions.jp/ja/festivals/ogaki-fes/> ;
+    crm:P4 [
+        crm:P116 "2018-05-12" ;
+        crm:P115 "2018-05-13" 
+    ] . 
+ifcp:290
+    rdfs:label "那智の扇祭り"@ja .
+<https://w3id.org/ifcp/290/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:290 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C30421-19700401> ;
+    crm:P14 "那智の扇祭り保存会" ;
+    crm:P67 <https://wbs.co.jp/news/2018/07/14/120891.html> ;
+    crm:P4 [
+        crm:P116 "2018-07-14" ;
+        crm:P115 "2018-07-14" 
+    ] . 
+ifcp:291
+    rdfs:label "大津祭の曳山行事"@ja .
+<https://w3id.org/ifcp/291/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:291 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C25201-20090401> ;
+    crm:P14 "大津祭保存会" ;
+    crm:P67 <https://www.biwalake-otsuka.com/yado/2018/2018092001.html> ;
+    crm:P4 [
+        crm:P116 "2018-10-06" ;
+        crm:P115 "2018-10-07" 
+    ] . 
+ifcp:292
+    rdfs:label "新宮の速玉祭・御燈祭り"@ja .
+<https://w3id.org/ifcp/292/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:292 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C30207-20051001> ;
+    crm:P14 "熊野速玉大社祭事保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "" ;
+        crm:P115 "" 
+    ] . 
+ifcp:293
+    rdfs:label "西大寺の会陽"@ja .
+<https://w3id.org/ifcp/293/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:293 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C33201-20090401> ;
+    crm:P14 "西大寺会陽保存会" ;
+    crm:P67 <http://www.asahi.com/area/okayama/articles/MTW20180216340340001.html> ;
+    crm:P4 [
+        crm:P116 "2018-02-17" ;
+        crm:P115 "2018-02-17" 
+    ] . 
+ifcp:295
+    rdfs:label "常陸大津の御船祭"@ja .
+<https://w3id.org/ifcp/295/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:295 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C08215-19981001> ;
+    crm:P14 "常陸大津の御船祭保存会" ;
+    crm:P67 <> ;
+    crm:P4 [
+        crm:P116 "開催せず" ;
+        crm:P115 "開催せず" 
+    ] . 
+ifcp:301
+    rdfs:label "浦佐毘沙門堂の裸押合"@ja .
+<https://w3id.org/ifcp/301/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:301 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C15226-20051001> ;
+    crm:P14 "浦佐毘沙門堂裸押合大祭委員会" ;
+    crm:P67 <https://www.wasshoikitaro.site/entry/hadakaoshiai2018> ;
+    crm:P4 [
+        crm:P116 "2018-03-03" ;
+        crm:P115 "2018-03-03" 
+    ] . 
+ifcp:302
+    rdfs:label "村上祭の屋台行事"@ja .
+<https://w3id.org/ifcp/302/held/2018/>
+    rdf:type crm:E5 ;
+    crm:P17 ifcp:302 ;
+    crm:P7 <http://data.e-stat.go.jp/lod/sac/C15212-20100616> ;
+    crm:P14 "村上まつり保存会" ;
+    crm:P67 <https://www.niikei.jp/19106/> ;
+    crm:P4 [
+        crm:P116 "2018-07-06" ;
+        crm:P115 "2018-07-07" 
+    ] . 

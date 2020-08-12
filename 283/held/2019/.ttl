@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/283/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "松例祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/283>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2020-01-01";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-12-31"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://hagurokanko.jp/p3644/>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C06203-20180131>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

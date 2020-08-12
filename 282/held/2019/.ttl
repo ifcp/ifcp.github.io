@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/282/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "花輪ばやし祭典委員会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/282>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-21";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-08-19"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kahoku.co.jp/tohokunews/201908/20190820_45020.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C05209-19980601>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

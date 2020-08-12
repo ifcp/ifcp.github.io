@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/208/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "見付天神裸祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/208>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-09-08";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-09-07"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.at-s.com/event/article/festival/122649.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C22211-20090217>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

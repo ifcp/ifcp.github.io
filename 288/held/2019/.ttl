@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/288/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "大垣祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/288>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-05-12";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-05-11"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASM5C3FPKM5COHGB001.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C21202-20091031>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

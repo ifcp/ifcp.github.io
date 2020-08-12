@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/100/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "田島祇園祭のおとうや行事保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/100>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-07-24";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-07-22"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://tif.ne.jp/jp/event/event_disp.php?id=4995>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C07368-20060320>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

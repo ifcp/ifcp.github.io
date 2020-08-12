@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/206/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "気多大社、鵜浦町会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/206>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-12-16";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-12-16"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://iko-yo.net/events/212195>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172021060>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

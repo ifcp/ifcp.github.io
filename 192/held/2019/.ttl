@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/192/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "等覚寺松会保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/192>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-04-21";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-04-21"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://blowinthewind.net/digitalshot/shot152-tokakuji.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C40621-19700401>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

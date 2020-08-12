@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/49/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "甑島トシドン保存会（手打港トシドン保存会，手打麓トシドン保存会，手打本町トシドン保存会，片野浦トシドン保存会，青瀬トシドン保存会，瀬々野浦トシドン保存会）";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/49>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-12-31";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-12-31"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.welcomekyushu.jp/event/?mode=detail&id=9999900047564&isSpot=&isEvent=1>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C46215-20041012>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/90/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "古川祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/90>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-04-20";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-04-19"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hida-tourism.com/furukawa-festival>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C21217-20040201>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

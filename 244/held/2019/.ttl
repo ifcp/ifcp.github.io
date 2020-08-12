@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/244/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "亀崎潮干祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/244>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-05-04";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-05-03"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://dashimatsuri.jp/matsuri/kamezaki>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C23205-19950901>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/129/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "涌出宮宮座行事保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/129>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-02-17";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-02-17"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kyoto-np.co.jp/articles/-/3714>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C26214-20070312>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

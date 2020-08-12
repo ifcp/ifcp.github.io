@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/231/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "川越氷川祭の山車行事保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/231>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-10-20";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-10-19"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://kanko-bank.com/event_spots/detail/3850/2019_10_19～10_20%E3%80%80川越まつり（川越氷川祭）>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C11201-20030401>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

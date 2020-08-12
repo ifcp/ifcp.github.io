@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/66/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "高岡御車山保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/66>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-05-01";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-04-30"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000019360>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C16202-20051101>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

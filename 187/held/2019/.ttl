@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/187/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "田港区、屋古区、塩屋区、白浜区";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/187>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-18";
+    <http://purl.org/NET/cidoc-crm/core#P116> "209-08-18"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://ryukyushimpo.jp/photo/entry-973995.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C47302-19780601>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

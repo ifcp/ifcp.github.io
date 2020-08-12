@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/249/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "桑名石取祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/249>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-04";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-08-03"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.kuwana.lg.jp/index.cfm/26,62805,234,790,html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C24205-20041206>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .

@@ -1,0 +1,10 @@
+<https://w3id.org/ifcp/295/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P14> "常陸大津の御船祭保存会";
+  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/295>;
+  <http://purl.org/NET/cidoc-crm/core#P4> [
+    <http://purl.org/NET/cidoc-crm/core#P115> "2019-05-03";
+    <http://purl.org/NET/cidoc-crm/core#P116> "2019-05-02"
+  ];
+  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kitaibarakishi-kankokyokai.gr.jp/page/page000506.html>;
+  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C08215-19981001>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
