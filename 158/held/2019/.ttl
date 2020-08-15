@@ -1,6 +1,7 @@
 <https://w3id.org/ifcp/158/held/2019/>
   <http://purl.org/NET/cidoc-crm/core#P14> "宮古島市島尻自治会，宮古島市野原部落会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/158>;
+  <http://purl.org/NET/cidoc-crm/core#P170> 2019;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2019-10-04";
     <http://purl.org/NET/cidoc-crm/core#P116> "2019-10-04"

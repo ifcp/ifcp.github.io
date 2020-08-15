@@ -1,6 +1,7 @@
 <https://w3id.org/ifcp/245/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "東光寺追儺式及び田遊び保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/245>;
+  <http://purl.org/NET/cidoc-crm/core#P170> 2018;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-01-08";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-01-08"

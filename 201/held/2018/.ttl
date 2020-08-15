@@ -1,6 +1,7 @@
 <https://w3id.org/ifcp/201/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "古座川河内祭保存会、古座獅子舞保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/201>;
+  <http://purl.org/NET/cidoc-crm/core#P170> 2018;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-22";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-21"

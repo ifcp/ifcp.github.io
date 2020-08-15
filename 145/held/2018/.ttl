@@ -1,6 +1,7 @@
 <https://w3id.org/ifcp/145/held/2018/>
   <http://purl.org/NET/cidoc-crm/core#P14> "祖生柱松行事保存会　中村柱松保存会，山田柱松保存会，落合柱松保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/145>;
+  <http://purl.org/NET/cidoc-crm/core#P170> 2018;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "開催せず";
     <http://purl.org/NET/cidoc-crm/core#P116> "開催せず"

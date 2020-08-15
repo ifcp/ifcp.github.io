@@ -18,6 +18,7 @@ labels:
   http://purl.org/NET/cidoc-crm/core#P14: 運営団体
   http://purl.org/NET/cidoc-crm/core#P116: 開始日
   http://purl.org/NET/cidoc-crm/core#P115: 終了日
+  http://purl.org/NET/cidoc-crm/core#P170: 開催年
 site_title: Intangible Folk Cultural Properties
 title_property: http://www.w3.org/2000/01/rdf-schema#label
 top_class: http://purl.org/NET/cidoc-crm/core#E1

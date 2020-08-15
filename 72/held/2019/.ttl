@@ -1,6 +1,7 @@
 <https://w3id.org/ifcp/72/held/2019/>
   <http://purl.org/NET/cidoc-crm/core#P14> "公益財団法人祇園祭山鉾連合会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/72>;
+  <http://purl.org/NET/cidoc-crm/core#P170> 2019;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2019-07-31";
     <http://purl.org/NET/cidoc-crm/core#P116> "2019-07-01"

@@ -1,6 +1,7 @@
 <https://w3id.org/ifcp/216/held/2019/>
   <http://purl.org/NET/cidoc-crm/core#P14> "上野文化美術保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/216>;
+  <http://purl.org/NET/cidoc-crm/core#P170> 2019;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2019-10-20";
     <http://purl.org/NET/cidoc-crm/core#P116> "2019-10-20"

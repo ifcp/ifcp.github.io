@@ -6,14 +6,15 @@
 @prefix ifcp: <https://w3id.org/ifcp/> .
 @prefix cate: <https://w3id.org/ifcp/category/> .
 ifcp:"&A2&"
-    rdfs:label """&D2&"""@ja .
+    rdfs:label """&E2&"""@ja .
 <https://w3id.org/ifcp/"&A2&"/held/2018/"&B2&">
     rdf:type crm:E5 ;
+    crm:P170 "&D2&" ;
     crm:P17 ifcp:"&A2&" ;
-    crm:P7 <"&H2&"> ;
-    crm:P14 """&I2&""" ;
-    crm:P67 <"&L2&"> ;
+    crm:P7 <"&I2&"> ;
+    crm:P14 """&J2&""" ;
+    crm:P67 <"&M2&"> ;
     crm:P4 [
-        crm:P116 """&J2&""" ;
-        crm:P115 """&K2&""" 
-    ] . 
+        crm:P116 """&K2&""" ;
+        crm:P115 """&L2&""" 
+    ] .
