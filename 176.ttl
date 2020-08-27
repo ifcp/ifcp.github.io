@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/176>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/176/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月２０日過ぎの土・日曜日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　大分県西部の日田市の祗園祭の曳山行事は、毎年作り替えられるヤマと呼ぶ巨大な作り物（山鉾）が曳きまわされる行事である。
 　現在は、隈地区の隈町（１丁目・２丁目）・大和町、竹田地区の川原町・若宮町、豆田地区の御幸通り・上町・港町・中城町の８基と、隈地区の青壮年有志によって平成２年に製作された全高10㍍の平成山鉾1基の計9基がでる。
@@ -12,7 +16,6 @@
   山鉾の台車には囃子方が乗る囃子台があり、その上部に人形と屋形を設置する舞台が置かれている。山鉾の背後には見送りと呼ばれる懸幕を垂らし、台車の高欄の下部に緋羅紗【ひらしや】のミッチキ（水引）を引き回す。見送りは緋羅紗地に金糸などで鷲・虎・麒麟・鳳凰・唐獅子などの刺繍を施した華麗な懸装品で、幕末から明治期に製作されたものである。
 　江戸期から明治初期にかけて、山鉾はしだいに巨大化し、明治17年には高さ10.5㍍の山鉾が登場した。明治34年に日田水力電気会社が電柱を立てて架線したので、一時山鉾巡行ができなくなったが、大正13年に山鉾の高さを6㍍にして巡行を再開するようになった。平成2年、平成山鉾の新造にともなって、隈・竹田両地区の電線の高架工事が実施され、両地区の既存の四基の山鉾も全高8㍍まで大型化した。
 　日田祗園は、北部九州に拡がる博多うつしと呼ばれる博多祇園（舁山・飾り山）の系統をひかず、日田型祗園山鉾とも呼びうる独特な山車を建造する。この山鉾は、大分県九重町恵良、福岡県吉井町・田主丸町など日田市の周辺に伝播しており、独特な文化圏を形成している。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月２０日過ぎの土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.hita.oita.jp/soshiki/shokokankobu/kankoka/kankokikaku/gion/2548.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

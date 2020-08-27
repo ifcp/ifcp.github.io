@@ -9,7 +9,7 @@ ifcp:"&A2&"
     rdfs:label """&E2&"""@ja .
 <https://w3id.org/ifcp/"&A2&"/held/2018/"&B2&">
     rdf:type crm:E5 ;
-    crm:P170 "&D2&" ;
+    crm:P12 "&D2&" ;
     crm:P17 ifcp:"&A2&" ;
     crm:P7 <"&I2&"> ;
     crm:P14 """&J2&""" ;

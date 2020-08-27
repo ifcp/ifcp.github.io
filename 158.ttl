@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/158>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/158/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年陰暦９月上旬（島尻），毎年陰暦１２月最後の丑の日（野原）（";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現10月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　宮古島のパーントゥは、仮面をつけ、草をまとった異形の神が村落内を巡り歩いて災厄払いをするもので、宮古島の旧平良市島尻と旧上野村野原に伝承されている。
 　パーントゥとは、本来、お化け、鬼神を意味した言葉である。島尻ではこの行事のことをパーントゥ・プナカという。プナカは祈願祭のことであり、パーントゥ神が出現する祭りの意味である。一方、野原では、この行事名をサティパロウ（里払い）ともいい、仮面をつけたパーントゥが登場する。
@@ -10,7 +14,6 @@
 　野原では、全戸から主婦と小学校高学年の男子が参加するが、成人男子と少女は行事に参加しない。１人の少年が仮面を被り、その他の少年は、扮装はせず行列に加わる。そのうちの２人が法螺貝を吹き、１人が小太鼓を打って行列の先導をする。その後に婦人が２列縦隊で続く。
 　行列は大御嶽【ウプウタキ】の近くまで行って礼拝し、そこの広場で円陣をつくって声を出しながら左回りする。四辻でも同様に行い、さらに１年以内に新築した家の周囲を巡って祓い清める儀礼を行う。村の東から西へ行進し、西の村はずれで身にまとった植物の葉を捨てて終了する。
 　パーントゥは、海の彼方からやってくる神の１つと考えられており、南西諸島にいくつかの事例を見ることができるが、我が国の各地に散見する来訪神と同列に据えて眺める必要があり、比較研究の上からも重要な行事である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年陰暦９月上旬（島尻），毎年陰暦１２月最後の丑の日（野原）（";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.tabirai.net/sightseeing/column/0003469.aspx>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

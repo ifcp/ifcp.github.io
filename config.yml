@@ -1,8 +1,8 @@
 base_uri: https://w3id.org/ifcp/
 labels:
   http://www.w3.org/2000/01/rdf-schema#label: 名称
-  http://purl.org/NET/cidoc-crm/core#P3: 概要
-  http://purl.org/NET/cidoc-crm/core#P4: 公開日
+  http://purl.org/NET/cidoc-crm/core#P3: 詳細
+  http://purl.org/NET/cidoc-crm/core#P4: 日付
   http://purl.org/NET/cidoc-crm/core#P67: URL
   http://purl.org/NET/cidoc-crm/core#P141: 重要無形民俗文化財登録情報
   http://purl.org/NET/cidoc-crm/core#P94: 発祥
@@ -18,7 +18,9 @@ labels:
   http://purl.org/NET/cidoc-crm/core#P14: 運営団体
   http://purl.org/NET/cidoc-crm/core#P116: 開始日
   http://purl.org/NET/cidoc-crm/core#P115: 終了日
-  http://purl.org/NET/cidoc-crm/core#P170: 開催年
+  http://purl.org/NET/cidoc-crm/core#P12: 開催年
+  http://purl.org/NET/cidoc-crm/core#P170: 公開日
+  http://purl.org/NET/cidoc-crm/core#P164: 通例公開日
 site_title: Intangible Folk Cultural Properties
 title_property: http://www.w3.org/2000/01/rdf-schema#label
 top_class: http://purl.org/NET/cidoc-crm/core#E1

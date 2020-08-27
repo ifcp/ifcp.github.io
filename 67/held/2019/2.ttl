@@ -1,7 +1,7 @@
 <https://w3id.org/ifcp/67/held/2019/2>
+  <http://purl.org/NET/cidoc-crm/core#P12> 2019;
   <http://purl.org/NET/cidoc-crm/core#P14> "能登のアマメハギ・面様年頭保存会（能登町秋吉地区アマメハギ保存会，門前町アマメハギ保存会，輪島市面様年頭保存会）";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/67>;
-  <http://purl.org/NET/cidoc-crm/core#P170> 2019;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2019-01-02";
     <http://purl.org/NET/cidoc-crm/core#P116> "2019-01-02"

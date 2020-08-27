@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/69>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/69/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年４月１４・１５日、１０月９・１０日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現4月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　高山祭は、春４月14・15日の日枝神社の山王祭と、秋10月9・10日の八幡神社の八幡祭の総称である。いずれも10数基ずつの華麗な屋台が巡行する行事で、我が国有数の山車祭として知られている。
 　飛騨の高山は、元禄５年以降、江戸幕府の直轄地（いわゆる天領）となったが、政策上、いろいろな面で旧態を保存して人心を収らんしようとした。日枝神社や八幡神社の祭礼もその盛行を許されたことから、祭屋台の構造や装飾も、次第に華美になってきたものと考えられている。
@@ -7,7 +11,6 @@
 　秋の八幡祭は、8日の屋台曳き順の抽選に続いて、9日の例大祭に屋台の巡行があり、その夜に曳き別れを行う。10日の御神幸には、屋台の曳行とそれに伴う鶏頭楽、獅子舞などが行われ、夕刻曳き払いとなる。
 　この行事は、春・秋の祭りともに、年行事と呼ばれる役により屋台の曳行が指揮され、屋台ではからくり人形や囃子などが上演されるなど、我が国における屋台を用いた祭礼行事の代表的なものの一つとして重要である。
 　なお、山王祭の屋台12基と八幡祭の屋台11基は、江戸時代後期に発達した我が国の祭屋台の典型例の一つとして、重要有形民俗文化財に指定されている。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月１４・１５日、１０月９・１０日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.takayama-yatai.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

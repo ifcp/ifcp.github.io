@@ -1,7 +1,7 @@
 <https://w3id.org/ifcp/243/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P12> 2018;
   <http://purl.org/NET/cidoc-crm/core#P14> "犬山祭保存会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/243>;
-  <http://purl.org/NET/cidoc-crm/core#P170> 2018;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-04-08";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-04-07"

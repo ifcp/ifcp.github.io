@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/180>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/180/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月第一金・土曜日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　魚津のタテモン行事は、魚津市諏訪町に鎮座する諏訪神社の例祭に豊漁と航海・操業の安全を祈願して、氏子町内からマントウ(万灯)とかタテモンと呼ばれる作り物が曳き出されるものである。
 　現在、例祭は８月７・８日の魚津まつりに合わせて行われている。この日、諏訪神社の神輿が町内をまわるが、タテモンは夜の行事であり神輿に随行することはない。
@@ -11,7 +15,6 @@
 　回転を終えたタテモンは、神前に進み代表者が幣帛を捧げた後、境内を出て町内に帰る。祭りの実行主体となるのは各町内の若者たちであるが特定の組織はなく、祭り全体としては、諏訪神社の氏子組織である総代会のほかにたてもん保存会が組織されている。
 　この行事の起源は定かではないが、江戸時代には各町内ごとにいくつかの提灯を台上に吊るし町内を担ぎ回るものであったという。その後、しだいに提灯の数を増し、明治時代は25個、大正時代初めころは50個ほどへと増加し、現在のような数に至ったといわれる。タテモンは「立てるもの」の意味であり、富山県内にも富山市東岩瀬や氷見市などにタテモンと呼ぶ作り物がみられる。
 この行事は、秋田の竿灯などの眠り流しの要素と風流灯籠などの風流行事の様態がうかがわれ、この地域を代表する行事である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月第一金・土曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.uozu.toyama.jp/event-topics/svTopiDtl.aspx?servno=3553>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

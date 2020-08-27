@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/219>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/219/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年10月第２土・日曜日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現10月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　鹿沼今宮神社祭の屋台行事は、栃木県鹿沼市に鎮座する今宮神社の例祭に合わせて、毎年20基ほどの屋台が曳き出される行事である。
 　鹿沼市は、栃木県中西部にあり、東は宇都宮市、北は今市市、日光市と接し、江戸時代以来日光例幣使街道の宿場町として栄えるとともに、周辺で栽培される麻の集散地として、また木工建具生産を中心とする町として栄えてきた。
@@ -16,7 +20,6 @@
 　すべての屋台の繰り込みが終了すると、神社拝殿では各町氏子総代、祭典委員長、若衆頭等が参列して報告祭が行われる。夕方には屋台の提灯に灯が入って再びお囃子の演奏が始まり、すっかり暗くなった頃に繰り出しが始まる。
 　繰り出しも一番町を先頭に行われる。一番町の屋台が鳥居の外に出ると、すべての屋台がお囃子の演奏をやめて手打ち式が始まる。各町の祭典委員長、若衆頭、屋台の運行を指図する木頭が集合すると、一番町の祭典委員長が挨拶し、続いて一番町の木頭が音頭をとり柝を打って手打ちを行う。この手打ち式が終わると、各町は繰り込みと同じ順番で神社から繰り出して自町に帰っていく。
 　この行事は、風流の屋台行事の典型例の一つとして重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年10月第２土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://buttsuke.com>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

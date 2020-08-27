@@ -1,7 +1,7 @@
 <https://w3id.org/ifcp/49/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P12> 2018;
   <http://purl.org/NET/cidoc-crm/core#P14> "甑島トシドン保存会（手打港トシドン保存会，手打麓トシドン保存会，手打本町トシドン保存会，片野浦トシドン保存会，青瀬トシドン保存会，瀬々野浦トシドン保存会）";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/49>;
-  <http://purl.org/NET/cidoc-crm/core#P170> 2018;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2018-12-31";
     <http://purl.org/NET/cidoc-crm/core#P116> "2018-12-31"

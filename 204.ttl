@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/204>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/204/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年２月初午";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現2月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　旧登米郡東和町は、宮城県北部に位置し、北は岩手県と境を接する北上川左岸の地域である。旧狼河原村と鱒渕村の２か村が明治22年に合併して米川村となり、さらに昭和32年に近接する米谷町、日高村と合併して東和町となった。この旧米川村の中心地が狼河原であり、近世には登米郡から本吉郡へ通じる西郡街道の宿駅であった。狼河原は本町、中町、五日町からなっており、この行事は五日町で行われている。
 　米川の水かぶりは、２月初午の日に行われる。五日町町内在住の若者や厄年の者が集まって行われる行事で、厄払いの要素も併せもつ。この行事には、五日町町内在住の男以外が参加したり、初午の日以外にすると火事が起きるとか、宿を変えてはならないという伝承があり、宿は代々五日町地内の菅原家と決まっている。
@@ -13,7 +17,6 @@
 　参加者は、宿にひきあげると風呂に入ってカサコシに参加する。以前は風呂に入らず、宿の裏側を流れている二俣川に入って禊ぎをしたという。カサコシも宿で行っていたが、平成４年頃から集会所でしている。
 　米川では、初午の日は水かぶりの一行が通り過ぎるまでは、色のついたものを食べることが禁じられており、これを破ると火早くなるといわれ、火災が発生しやすくなるといわれている。
 　この行事は、初午の日に行われる火伏せの行事であるが、同時に参加者が異装をして正体がわからないようにして現れるなど、小正月の異形異装の来訪者の行事の要素も併せもっている。また、町内在住者以外の男性の参加を認めない、水かぶりの一行が家の前を通り過ぎるまで、色のついたものを食べないという禁忌も厳格に守られている。宮城県北部における初午の火伏せ行事の中でも代表的なものであり、地域的特色もみられるものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月初午";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.tome.miyagi.jp/syogaigakusyu/shisejoho/bunkazai/raihousin.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

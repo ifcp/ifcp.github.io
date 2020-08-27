@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/195>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/195/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月１日（滝ノ浦）、３日（女鹿）、６日（鳥崎）";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　山形県飽海郡遊佐町の女鹿・滝ノ浦・鳥崎地区は、鳥海山西麓の山形県と秋田県の県境に位置し、日本海岸に面した海沿いの半農半漁の集落である。女鹿には水田がない。
 　この地域では正月にアマハゲと呼ぶ行事が行われている。現在は滝ノ浦が１日、女鹿が３日、鳥崎が６日と別々の日に行われているが、昭和12頃までは３集落とも旧暦1月15日に行われていた。期日はその後、1月31日、1月6日と変化し、昭和50年代初めから現在の期日となった。
@@ -15,7 +19,6 @@
 　鳥追いは、ヨンドリ・ヨナカドリ・ヨアケドリ・アサドリの４回行われる。このうちヨンドリはアマハゲのすぐ後に続いてまわる。滝ノ浦ではヨンドリとヨアケドリは青年が、ヨナカドリとアサドリは子ども組が行ったという。現在行われている鳥崎では子どもたちの行事で、太鼓に合わせて鳥追い唄を歌いながら集落内をまわっている。
 　ホンテ焼きは、女鹿では以前は子どもたち、現在は青年達が門松や注連縄とともにケンダンを焼いている。滝ノ浦では家ごとに行っており、鳥崎では子どもたちが上ノ山のホンテ焼き場で門松・古札類とケンダンを焼いている。
 　遊佐のアマハゲは、男鹿のナマハゲなどと同系統の小正月の来訪神の行事であるが、包丁などは持たず、新年の祝福と豊作を約束して護符の餅をやりとりするなどの特色を有しており、滝ノ浦のように無言で独特の所作を行うなどの地域的特色も有している。また、来訪神と鳥追い・ホンテ焼きなどが組み合わされて伝承されている点でも小正月行事の典型的なものとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月１日（滝ノ浦）、３日（女鹿）、６日（鳥崎）";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.town.yuza.yamagata.jp/ou/kyoiku/bunka/8207.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

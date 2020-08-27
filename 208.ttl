@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/208>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/208/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年旧暦８月１０日直前の土・日曜日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現9月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　見付天神裸祭は、地元で見付天神と呼ばれる矢奈比売神社の大祭（見付天神裸祭）である。
 　この行事は、西区・西中区・東区・東中区という４つの梯団（ﾃｲﾀﾞﾝ）と呼ばれる集団により行われる。この梯団には、それぞれ中心になる町（ｵﾔﾁｮｳ）がある。町（ｵﾔﾁｮｳ）は、西区では西坂町、西中区では馬場町、東区では東坂町、東中区では宿町でそれぞれ２名ずつ年行事がでる。
@@ -12,7 +16,6 @@
 　この間、神輿渡御報告祭が行われており、終了後、榊が一番触に渡されると一番触は「火を消せ」と叫びながら町内へ走り出す。やがて町内のすべての明かりが消され、神輿がネリとともに総社へ渡御する。神輿が総社に着くと、明かりが一斉に灯され、ネリは各町へ帰る。
 　祭日２日目は、神輿が町内を巡り還御する。
 　この行事は、各町内が４つの梯団に属してオヤチョウを中心に組織される重層構造をもち、祭も深夜に明かりを消して行われるなど厳しい物忌みを守っており、地域的特色をよく示しているとともに、静岡県西地域の代表的な裸祭として重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦８月１０日直前の土・日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://hadakamatsuri.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

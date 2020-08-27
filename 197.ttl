@@ -1,10 +1,13 @@
 <https://w3id.org/ifcp/197>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/197/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１２月２日（中浜・杉平）、１月１２日（岩石）";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現12月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　山北のボタモチ祭りは、田畑の収穫や漁業などが無事終了したことを感謝して、人々が鎮守に集まって大きなぼた餅を作って食べてお籠りをして一夜を明かす行事である。
 　例えば、村上市中浜では、火防組の若い衆が念仏堂に集まって行う。まず各家でぼた餅を作り神仏に供えて食べる。夕方になると、念仏堂でトウヤ（年ごとの回り当番）の指揮のもと若い衆が集まり、堂の正面に「石動神社」「石動五社大権現」「十三仏」の掛軸を掛ける。次いで全員で御神酒をいただき、トウヤの引継ぎを行う。そして境内の榎を材料にスリコギを作り、それを使ってお供え用・お祝い用・食用のぼた餅を作る。お供え用とお祝い用は祭壇に供え、食用を食べる。特に新婚や婿入りしてきた者には多く食べさせる。それが終わると、山形県温海町鼠ヶ関原海の長治郎家へ行ってぼた餅を届けて酒をいただく。さらにその周辺で中浜から嫁・婿に行った者の家にぼた餅を届ける。最後に中浜に帰ると、新婚や新築の家にぼた餅を届ける。すべてが終わると、念仏堂の祭壇を片付け、供えていたぼた餅を持ち帰り家族で食べる。
 　この行事は、収穫後あるいは年頭に際して氏神に生業の感謝や祈願をする行事に、強飯儀礼の要素が加わったもので、豊穣祈願するとともに、社会的承認を図る行事として重要なものである。また、新潟県内でも類例のないものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年１２月２日（中浜・杉平）、１月１２日（岩石）";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.buccyake-kojiki.com/archives/1017342119.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

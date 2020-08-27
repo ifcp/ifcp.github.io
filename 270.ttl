@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/270>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/270/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "３年ごとの７月14日以後の直近の土、日曜日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　小菅の柱松行事は、新潟県に近接する長野県北東部に位置する飯山市瑞穂の小菅地区で五穀豊穣や天下太平を祈願して行われる行事である。集落に祀られる小菅神社の例大祭で、３年ごとの７月14日以後の直近の土、日曜日に行われる。
 　この行事は地区の中心部にある旧大聖院講堂前の広場を中心に行われる。行事の起源については不明であるが、16世紀には行われていたといわれている。例大祭は、前日の夜に行われる夜宮、例大祭当日の本祭、例祭行列、里社行列、柱松行列、柱松行事で構成される。
@@ -17,7 +21,6 @@
 　この行事は、本来田植え終了後の時期に行われていた行事で、五穀豊穣を占い、豊作をもたらしてくれるものとして柱松にさされた尾花や松榊、ソダなどを奪い合って持ち帰り、畑の害虫よけにするなど、豊作祈願としての性格が強くうかがえる行事である。また、山に籠もり柱松に点火する役割が子供によって担われている点にも地域的特色がうかがえる。
 　このように柱松を立てる行事は、年占、祖霊の送り迎えなどの要素を持って日本各地に点々と存在していることが知られているが、その中でも本行事は五穀豊穣、天下太平を祈願する性格が強く認められ、祖霊迎えの要素はあまり見られない。
 　以上のことから、この行事は、我が国の柱松行事の分布や性格を考える上で重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "３年ごとの７月14日以後の直近の土、日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://kosugejinja.jp/about/shrine/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

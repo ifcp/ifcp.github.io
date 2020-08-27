@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/259>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/259/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月24～26日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　新庄まつりの山車行事は、山形県新庄市に鎮座する戸沢神社、天満神社、護国神社の3社の例大祭にあわせて市中心部に位置する各町内から山車が引き出される行事で、毎年8月24・25・26日の3日間行われる。
   新庄市は、山形県北東部に位置する新庄盆地のほぼ中央に位置する市で、東は奥羽山脈、西は出羽山地に囲まれた小盆地で、冬は大量の雪が降る豪雪地帯である。近世には新庄藩の城下町として栄え、明治以降は新庄を含む最上郡の中心となってきた。
@@ -15,7 +19,6 @@
 　この行事は、我が国の祭礼に多く見られる山・鉾・屋台が引き出される行事の一つである。これらは種々の飾り物による風流が凝らされたものが多く、この行事も、毎年作り物を変える風流の祭りで、東北地方日本海側に見られる風流の山・鉾・屋台の祭りの典型例の一つといえる。
 　また、近世に領主によって始められたという起源伝承をもち、それ以来明治になるまで領主の庇護のもとに祭りが行われてきたもので、我が国における祭礼行事のうち特徴的な特殊な起源をもつものといえる。
 　当該地域における同種の行事の典型例の一つといえるとともに、我が国の山・鉾・屋台の祭礼の変遷、展開過程を考える上で重要な行事である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月24～26日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://shinjo-matsuri.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

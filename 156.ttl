@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/156>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/156/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月１５日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　野沢温泉の道祖神祭りは、地区を代表する野沢組惣代が総元締めになり、経験者のなかから選ばれた山棟梁や社殿棟梁などの役員の指揮のもと、サンヤンコウ（三夜講）の男たちが具体的なすべての作業を担って行われる。
 　サンヤンコウは、この祭りに数え年42歳の厄年を迎える男たちを筆頭に40歳までの3つの年齢層のトモダチ衆で編成され、これに数え年25歳の厄年を迎える年齢の青年たちが加わって、3年間にわたって道祖神祭りの中心となるのである。
@@ -9,7 +13,6 @@
 　15日夕方、厄年の世話役6人が使者となり、火元の家に「火元貰い」に行く。火元の主人は白丁に烏帽子の装束に着替え、床の間の正面に据えられた道祖神木像を拝み、その前で火打石で火をおこし、種火を弓張提灯に移し、この火をオンガラの大松明に点火する。
 　午後8時すぎ、松明が道祖神場に到着すると、いよいよ道祖神の火祭りが始まる。厄年以外の村の男たちが火付役で元火の火をオンガラの束に移し、社殿に投げつける。これに対して厄年の男たちは火消役になり、社殿前面に25歳の青年たちが、社殿上には42歳の男たちが陣取って応戦し、松の枝でオンガラの火を叩き消す。激しい攻防戦が社殿棟梁の合図で終結すると手締めが行われて、社殿に火が入れられる。炎に包まれた社殿には、初灯籠が順番に立てかけられ、燃やされる。
 　この行事は、長野県北信地方の小正月行事のうち、厄払いの性格や火をめぐる競技的な内容、子どもの成長祝いの性格など地域的特色が豊かである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://nozawakanko.jp/record/dosojin/>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/72>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/72/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月１～２９日（前祭16日宵山、17日山鉾巡行　後祭23日宵山、24日山鉾巡行）";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　京都祇園祭の山鉾行事は、その歴史の古さ、山鉾巡行の豪華絢爛さ、多くの市民が約１か月にわたって多彩な行事を繰り広げる規模の大きさなど全国を代表する祭礼行事として世に知られ、現在各地でとり行われている６、７月頃の祇園祭・天王祭に多大な影響を与えてきたといわれる。我が国の夏祭の発生や変遷を知る上に欠かすことのできない行事である。
 　この行事は、京都市東山区祇園に祀られる八坂神社の祭りに際して行われる行事である。八坂神社（明治以前は祇園社：祭神は牛頭天王・素盞鳴命）の祭は、今からほぼ1000年前、夏に発生しやすい疫病を除けることを祈願して行われた平安京での祇園御霊会に始まり、この行事は神輿の迎え送りの間、歌舞音曲等の神賑いを行う形を発展させてきたものである。
@@ -8,7 +12,6 @@
 　このうち山鉾行事は、くじ取り、山建て、鉾建て、長刀鉾の稚児社参、宵山、山鉾巡行、祇園囃子（各地の祭礼囃子のもととなったもの）など多彩な内容を含んでおり、町中(ちょうじゅう)と呼ばれる組織によって運営されているなどの特色が見られる。
 　華麗な山鉾巡行の姿は人々の憧れの的となり、競って各地の祭礼行事に模倣された極めて重要なものであり、我が国の夏祭りの発生や変遷を知る上で欠かすことのできない祭礼である。
 　なお、この山鉾29基は、いずれも神霊を迎えるための要素をよく備えており、重要有形民俗文化財に指定されている。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月１～２９日（前祭16日宵山、17日山鉾巡行　後祭23日宵山、24日山鉾巡行）";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://kyoto-design.jp/special/gionmatsuri>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/276>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/276/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年10月第二土、日曜日（宵宮、本宮）";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現10月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　坂越の船祭は、兵庫県赤穂市坂越にある大避神社の祭礼で、神輿船を中心とする祭礼船が船団を組んで海上を渡御する大規模な船渡御祭である。十月中旬に行われる本宮には、櫂伝馬に曳航され、天幕や五色の吹き流し、幟などをつけた優雅な船団が東之浜と坂越湾に浮かぶ生島の間を巡行する。
 　赤穂市坂越は、瀬戸内海の東部、播磨灘にある坂越浦に古くから開けた港町で、近世には廻船業の拠点として栄えたところである。坂越には、聖徳太子に仕えた秦河勝が蘇我入鹿の難を逃れて来浦したという伝承があり、
@@ -14,7 +18,6 @@
 　なお、坂越では、船檀尻と呼ばれ、海上に船を並べて舞台を築き、獅子舞などを奉納する行事が昭和２３年以来途絶えていたが、本町所有の船檀尻の部材が発見されたことを契機に、平成２１年の祭礼で約６０年ぶりに復活している。
 　坂越浦の海運業の発達とともに伝承されてきた祭礼であり、華やかに飾られた数多くの祭礼船が登場する盛大な船渡御祭は、海上の御旅所に神輿を載せた船団が曳航する船祭の典型例と考えられるものである。兵庫県下においては、大規模な船祭りの唯一の伝承例であり、また、瀬戸内海を代表する伝統的な船祭りとしても注目される祭りである。
 　また、櫂伝馬による船競漕や漕ぎ手によるバタカケなど船に関わる多彩な構成要素がみられるとともに、頭人と呼ばれる特色ある祭祀組織が維持されているなど地域的特色も顕著で、我が国の祭礼やその変遷を理解する上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年10月第二土、日曜日（宵宮、本宮）";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ako.lg.jp/kensetsu/kankou/visitor/autumn.html#autumn1>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

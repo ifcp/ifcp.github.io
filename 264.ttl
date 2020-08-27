@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/264>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/264/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年２月11日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現2月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　阿月の神明祭は、山口県柳井市大字阿月で2月11日に行われる行事で、本来は小正月に行われていた災厄除けや病気除け、豊作などを祈願する火祭りである。
 　阿月は、山口県東部の柳井市にあり瀬戸内海に面している。近世には毛利氏の家臣浦氏の領地で、天保13（1842）年頃成立したといわれる『防長風土注進案』には、浦氏が阿月に移封された正保元（1644）年に神明祭を行ったと記されている。
@@ -17,7 +21,6 @@
 　我が国には、高い柱状の作り物を立てて火を点けて焼くサイノカミとかドンドン焼きなどと称される小正月の行事が各地で行われてきた。この行事もその一つで、現在2月11日に行われているが、かつては1月15日に行われていた。この火で餅を焼いて食べると災厄にあわないとか、灰は田畑の虫除けになるなどといった伝承は、各地に伝わる同種の行事と共通している。
 　また、東西2本のシンメイを立てて東西対抗で行われオコシタテの早さを競ったという伝承もあり、東西対抗の要素もみられた。さらにこの行事が地区の若者の若連からの脱退の儀礼が行われる場ともなっているという特色もある。
 　これまで同種の行事では東北日本や中国地方日本海側の行事が注目され指定されてきたが、本件は中国地方瀬戸内海側における行事として注目されるものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月11日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.yanaicci.or.jp/yanai/event/sinmei-f.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

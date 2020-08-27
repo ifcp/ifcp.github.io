@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/120>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/120/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年旧暦７月末日～８月１５日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現9月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　我が国では、古来、山容が秀麗で農林漁業などと深いかかわりを持つと考えられる霊山・名山の類が人々の信仰対象となり、特色ある山岳信仰を各地に展開してきた。
 　岩木山に対する信仰は、津軽地方の人々の間に広くかつ深く定着しており、「お山参詣」、「ヤマガゲ」などと呼ばれ、旧暦の７月末日から８月15日の間に村落や地区等の単位で集団登拝が行われる。
@@ -10,7 +14,6 @@
 　一行は、８月１日の御来迎を拝むべく、夜中にヤドを出発する。登山口は岩木山神社に近い百沢口を利用する場合が最も多い。登拝者は、楼門脇の禊場で身を浄め、「サイギ、サイギ……」の呪文を唱えながら、坊主コロバシ・鼻くくりなどの難所を経て、錫杖清水と呼ばれるところで身を浄め、種蒔苗代というところで豊凶を占い、山頂に達する。
 　そして御来迎を拝み、携行の御幣・御神酒の類を御室に奉納する。しばし登拝できた満足感にひたり、下山して登拝の無事を岩木山神社に報告する。そのあと無事登拝を終えた喜びをバダラ（バッタラ）踊りに表現しながら帰途につく。
 　この行事は、村落内の古老を先達に集団登拝するという形でなされ、幼少期に初登拝するのをよしとされているほか、途中の種蒔苗代で豊凶の年占を行い、御室の神前で大騒ぎし、下山にあたって五葉松の一枝を折って帰るなど、よく古風をとどめている。収穫感謝や生業の無事を祈り、家内安全を願う地域的特色ある信仰行事の一つとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧暦７月末日～８月１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.hirosaki.aomori.jp/gaiyou/bunkazai/kuni/kuni28.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

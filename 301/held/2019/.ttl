@@ -1,7 +1,7 @@
 <https://w3id.org/ifcp/301/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P12> 2019;
   <http://purl.org/NET/cidoc-crm/core#P14> "浦佐毘沙門堂裸押合大祭委員会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/301>;
-  <http://purl.org/NET/cidoc-crm/core#P170> 2019;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2019-03-03";
     <http://purl.org/NET/cidoc-crm/core#P116> "2019-03-03"

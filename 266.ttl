@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/266>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/266/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年1月15日が日曜日にあたる場合は15日、それ以外の場合は1月15日の直前の日曜日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """  邑町のサイノカミは、富山県東部に位置する下新川郡入善町上野の邑町地区で行われている、厄払いや無病息災、五穀豊穣、家内安全を祈願する小正月の火祭りの行事である。
   平成12年までは1月15日に行われていたが、現在は1月15日が日曜日にあたる場合は15日に、それ以外の場合は1月15日の直前の日曜日に行われている。
@@ -17,7 +21,6 @@
 　やがて火が下火になってくると、サイノカミの唄を止めて、燃え尽きた作り物の中を探り、デクの燃え具合を確認する。このとき、デクが燃え残っていると、作り物の燃え残りや新しい藁などを一箇所に集めて再びデクを燃やす。デクが完全に灰になったことを確認すると行事は終了となる。
 　この行事は、年頭にあたって大火を焚いて災厄を払う小正月の火祭りの行事の典型例の一つである。また、男女一対の人形が地区内をめぐり、最後に地区の境で正月飾りなどとともに完全に灰になるまで燃やされることで災厄が払われるとされ、それを年齢階梯的な子ども集団が中心となって執り行っている点で地域的特色も豊かな行事である。
 　この行事のように人形を正月飾りとともに燃やす行事は、サイノカミ、ドウロクジンなどと呼ばれ、中部地方を中心とした地域に濃密にみられることが知られている。いっぽうで富山県を含む北陸地方では、竹を円錐状に組んで正月飾りを燃やして無病息災や家内安全を祈願するサギチョウと呼ばれる行事が濃密にみられ、人形を正月飾りとともに燃やすサイノカミと呼ばれる行事は、本件が現在唯一の伝承例となっている。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年1月15日が日曜日にあたる場合は15日、それ以外の場合は1月15日の直前の日曜日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

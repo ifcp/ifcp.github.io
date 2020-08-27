@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/182>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/182/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月１４・１５日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　鳥出神社の鯨船行事は、四日市市富田地区の北島組・中島組・南島組・古川町の４つの集団で行われ、それぞれ１隻ずつ計４隻の鯨船が曳き出される行事である。
 　鯨船のハタシ（羽刺）役の子どもや太鼓たたきの練習は、７月後半から始まり、組ごとに浜辺や公園、倉庫の前などで、古老が所作や太鼓のたたき方の指導をする。行事の1～2週間前には鯨船を格納庫から引き出し、屋形や幕、装飾部品などをつけ、張り子の鯨の修理をする。
@@ -10,7 +14,6 @@
 　町練りで最初に突く場所は組によって異なる。町練りでは、祝儀突きといって、鯨船行事に寄付金を出した家の前で鯨を突いたり、ヤクヅキ（役突き）といって、自治会長の家や、ハタシ・ロコギ等を出している家でも突く。本来、祝儀突きは新築・結婚・出産等のめでたいことがあった家が頼んだものだった。今でも新築などの祝事があったときに「大きい鯨を一本突いた」という。家に不幸があった場合は、1年間は鯨突きを遠慮するのが通例で、鯨船行事にも参加しない。
 　15日は本練りで、各組とも前日にやり残した町練りを行い、午後の鳥出神社への練り込みを待つ。北島組から次々に鳥出神社の境内に練り込み演技を行う。練り込みの後、浜の組は浜辺に出て、多度大社と伊勢神宮に向かって鯨突きをする。
 　この行事は、北勢地方に集中的に分布する鯨船行事を代表するものであり、鯨突きが象徴する漁撈が漁村にもたらす豊かな生活を祈念する意識を背景に、風流行事の中に捕鯨習俗を取り入れて伝えているものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年８月１４・１５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.yokkaichi.mie.jp/kyouiku/kujirabune/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

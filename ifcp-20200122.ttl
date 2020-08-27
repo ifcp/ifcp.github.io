@@ -10,28 +10,31 @@ ifcp:"&A2&"
     rdfs:label """&C2&"""@ja ;
     rdfs:label """&D2&"""@ja-hrkt ;
     crm:P3 """""""&E2&""""""" ; 
-    crm:P4 """&F2&""" ; 
-    crm:P67 <"&G2&"> ;
+    crm:P170 [
+    crm:P164 """&F2&""" ; 
+    crm:P3 """&G2&"""
+    ];
+    crm:P67 <"&H2&"> ;
     crm:P141 <https://w3id.org/ifcp/"&A2&"/register> ; 
     crm:P94 [
         crm:P31 _:edit"&A2&" ;
-        crm:P81 """&R2&""" ; 
+        crm:P81 """&S2&""" ; 
         crm:P167 _:place"&A2&"
     ];
-    crm:P2 "&I2&" ;
-    crm:P2 "&H2&" .
+    crm:P2 "&J2&" ;
+    crm:P2 "&I2&" .
 _:edit"&A2&"
-    crm:P67 <"&Q2&"> ;
-    crm:P4 """&U2&""";
-    crm:P51 """&V2&""".
+    crm:P67 <"&R2&"> ;
+    crm:P4 """&V2&""";
+    crm:P51 """&W2&""".
 _:place"&A2&"
-    rdfs:label """&S2&""";
-    crm:P67 <"&T2&">.
-<"&Q2&">
+    rdfs:label """&T2&""";
+    crm:P67 <"&U2&">.
+<"&R2&">
     rdf:type crm:E42 .
-<"&G2&">
+<"&H2&">
     rdf:type crm:E42 .   
 <https://w3id.org/ifcp/"&A2&"/register>
     rdf:type crm:E5 ;
-    crm:P4 """&J2&""" ;
-    crm:P67 """&K2&""" .
+    crm:P4 """&K2&""" ;
+    crm:P67 """&L2&""" .

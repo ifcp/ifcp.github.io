@@ -1,7 +1,7 @@
 <https://w3id.org/ifcp/187/held/2019/>
+  <http://purl.org/NET/cidoc-crm/core#P12> 2019;
   <http://purl.org/NET/cidoc-crm/core#P14> "田港区、屋古区、塩屋区、白浜区";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/187>;
-  <http://purl.org/NET/cidoc-crm/core#P170> 2019;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "2019-08-18";
     <http://purl.org/NET/cidoc-crm/core#P116> "2019-08-18"

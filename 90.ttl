@@ -1,11 +1,14 @@
 <https://w3id.org/ifcp/90>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/90/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年４月１９・２０日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現4月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　古川祭の起し太鼓・屋台行事は、古川町の産土神である気多若宮神社の祭礼に行われる行事である。19日の神輿の渡御に合わせて屋台の行列が、獅子舞や鶏闘楽を伴って町々を練り歩き、翌20日0時からは勇壮な起し太鼓が行われる。
 　起し太鼓は、本楽祭の開始を知らせるためのものともいわれているが、大太鼓を据えた大きな櫓を大勢の半裸の若者がかつぎ、大太鼓の上にまたがった２人の若者がこの太鼓を豪快に打つ。
 　町を巡行する時には、小太鼓を担いだ附太鼓の連中が、各町内から出てこの大太鼓にからみあう。せめぎあう大太鼓と附太鼓は男性的な祭の興奮を呼び起す注目すべき行事である。
 　各町の屋台は、９基あり、江戸時代後期に発達した祭屋台の形態をよく備えており、この中にはからくり人形を設けた屋台もあり、この種の祭礼行事の代表的な事例の一つとして重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年４月１９・２０日";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://www.okosidaiko.com>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

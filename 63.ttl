@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/63>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/63/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月２５～２７日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　烏山の山あげ行事は、永禄３（1560）年、疫病がこの地域に流行したので、時の城主那須資胤（余一の子孫）がこの災厄を避けるため牛頭天王を町の中央に祠り、天下泰平、五穀豊穣、厄除開運を祈願したのに始まるとされるもので、その後、山あげを行なうようになり、今日まで伝承されてきているものである。
 　７月24日は宵まつりで、各町で笠揃い、屋台整備、所作狂言〔おどり〕が行われる。
@@ -10,7 +14,6 @@
 　所作狂言の演目には「三番叟」「将門」「戻橋」「紅葉狩」「宗清」「忠信」「関の扉」などがある。常磐津節によるこれらの演目を町の踊り子たちが路上に立てられた「ヤマ」の前面で踊る。
 　「ヤマ」は、町の各所をまわり、そこで路上100㍍もの奥行の舞台を仮設して前述の所作狂言を行なうが、移動の際はいちいち組立て及び分解を行う。これには150人ほどの若衆を必要とし、木頭と呼ばれる役付きの若衆の打つ拍子木の合図で規律正しく数分間のうちに組立て、及び分解の作業を完了するのを自慢とする。
 　この行事は、竹や烏山和紙などの特産材料、及び屋台や地車を巧みに用いてつくる「ヤマ」での多彩な所作狂言を上演する地域的特色の豊かな行事であり、全国にも類例を見ない重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年７月２５～２７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nasukara-yamaage.jp>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

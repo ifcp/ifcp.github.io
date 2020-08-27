@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/171>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/171/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月３日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　発光路の強飯式は、発光路妙見神社の祭り当番の受け渡しの儀式として行われているもので、氏子の扮した山伏と強力が、新太夫・古太夫の新旧の祭り当番をはじめ、氏子の人々に対して高盛飯を強いる行事である。
 　発光路は、栃木県北西部、足尾山地の中を流れる粕尾川沿いに位置する山村である。この地は古くから日光修験との関係が強く、横根山・地蔵岳と近接の古峯高原は、春峯修行の重要な巡路であった伝えられている。
@@ -13,7 +17,6 @@
 　一同に飯を強いた後、強力は最後に立ち上がり、謡に合わせて四股を踏みながら、山伏の回りを右回りに3回まわって式を終える。
 　強飯用の料理は、かつては祭りの当番の家で調理されていたが、現在では青年がつくっている。
 　この行事は、祭り当番の受け渡し儀式とともに、望ましい村人としての資質を育てようとする性格もうかがわせる行事であり、重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年１月３日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

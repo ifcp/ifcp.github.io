@@ -1,7 +1,7 @@
 <https://w3id.org/ifcp/91/held/2018/>
+  <http://purl.org/NET/cidoc-crm/core#P12> 2018;
   <http://purl.org/NET/cidoc-crm/core#P14> "尾張津島天王祭協賛会";
   <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/91>;
-  <http://purl.org/NET/cidoc-crm/core#P170> 2018;
   <http://purl.org/NET/cidoc-crm/core#P4> [
     <http://purl.org/NET/cidoc-crm/core#P115> "中止";
     <http://purl.org/NET/cidoc-crm/core#P116> "中止"

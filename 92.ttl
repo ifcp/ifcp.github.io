@@ -1,10 +1,13 @@
 <https://w3id.org/ifcp/92>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/92/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年２月１０・１１日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現2月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　豊橋神明社の鬼祭は、豊橋市にある安久美神戸神明社の春祭の行事として２月10、11日に行われる。
 　１１日の本祭では、神明社の拝殿の前に設けられている周囲に石の手すりのついた八角形の壇上を舞台として、お的の式、田楽躍、鼻天の舞などが演じられる。三河地方に多い田楽芸の一種であるが、ここでは田遊び系の芸能が含まれていない。お的の式は、裏に鬼の字を書いた的を侍鳥帽子をつけた射手が射る。続いて愛敬のある鬼と鼻の王との戦いが境内でくりひろげられ、鬼は負けて境内から走り出て町内をまわる。壇上では鼻の王の方固め、田楽躍があり、最後にお手玉引きと称し、藁で作った蛇のようなものの中に榎の幹をとがらして刺したものを、お的の射手がひく。この時榎玉がはずれて落ちるが、それにより年占をする。
 　この行事は、農作物の豊饒を予祝し、その年の豊凶を占う行事であり、芸能的にも民俗的にも貴重な内容を有している。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月１０・１１日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://onimatsuri.jimdofree.com>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

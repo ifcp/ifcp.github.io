@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/129>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/129/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年２月１５～１７日、３月２１日、９月３０日、１０月１６・１７日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現2月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　近畿地方の近江・山城・大和の地方には、宮座という伝統的な氏子組織に支えられた祭祀行事がよく伝えられている。その中でも、京都府相楽郡山城町（旧棚倉村）の氏神である涌出宮には、特色ある宮座行事が今日でもよく伝承されている。
 　涌出宮は、古くからの通称で、正しくは和伎座天乃夫岐売【わきにいますあめのふきめの】神社といい、延喜式所載の古社である。注目されるのは、この神社の祭祀の大部分が８つの宮座によって行われていることである。
@@ -11,7 +15,6 @@
 　９月30日は、あえの相撲で、大座と殿屋座、中村座と岡之座が組んで２組に分かれ、子供相撲を涌出宮に奉納する。
 　10月16・17日は、百味の御食で、大座・殿屋座・中村座・岡之座の座衆が出て、山や田畑の収穫物を各戸から集めて涌出宮に供物として奉納する。
 　これらの行事では、特に居籠祭りが神の来臨と饗応を軸とした厳粛かつ、古風な祭りの形態をよく残しているほか、珍しい女性中心の豊穣祈願の女座の祭り、収穫物の献上を中心とする秋祭りなどもそれぞれ特色がある。近畿地方で行われる宮座行事の中でも氏神祭祀の古風な儀礼をよく伝承している典型的な例として重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年２月１５～１７日、３月２１日、９月３０日、１０月１６・１７日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.pref.kyoto.jp/mishitei-bunkazai/1188265940408.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

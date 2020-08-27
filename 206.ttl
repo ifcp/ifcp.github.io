@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/206>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/206/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１２月１６日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現12月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　羽咋市は能登半島に位置する。市内寺家町に海に向かって鎮座するのが気多神社である。鵜祭は12月16日午前3時から気多神社（現気多大社）で行われる。七尾市鵜浦から3人の鵜捕部が徒歩で運んできた、捕らえたての生きた鵜を神前で放し、案上にとまるとすぐに取り押さえ、神社前の海岸に運んで真っ暗な空に放つものである。神前で案上にとまるまでの鵜の動きによって古老が来るべき年の豊凶を占う。
 　鵜は、祭日の前に七尾市の鵜浦町の鹿渡島で捕らえられる。鹿渡島は七尾市北端の崎山半島の先端部に位置し、ここにある鵜捕り崖で、鹿渡島に住む鵜捕主任の小西家によって捕らえられる。捕まえられた鵜は、同じく鹿渡島に住む20戸の鵜捕部の人たちが毎年3戸ずつ当番で気多神社まで運ぶ。道中は、七尾市内での宿泊が2泊から1泊になり、宿も変わってはいるが、歩く道筋はほぼ古くからの通りである。
@@ -12,7 +16,6 @@
  気多神社に着くと、八神式、寝覚の神楽が行われ、次いで禰宜と鵜捕部との間で問答が行われて、鵜が放たれ、とまったところで捕まえて海岸まで運んで暗闇の空に放つ。その後、神楽が行われ、直会があって終了する。
  なお、鵜捕部は、鵜田という共有田も所有し、４戸年番で耕作する。鵜田の収穫は４戸で分けるほか、初穂料として気多神社にも納める。
 　この行事は、鵜捕部という特殊な祭祀集団により行われ、鵜の羽の色や動きで豊凶や天候を占うものであり、石川県内でも類例がないものとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年１２月１６日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.hakui.lg.jp/rekimin/history/culturalproperties/ketaumatsuri.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

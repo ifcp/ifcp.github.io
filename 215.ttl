@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/215>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/215/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年５月４・５日";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現5月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　城端神明宮祭の曳山行事は、旧東礪波郡城端町に鎮座する城端神明宮の春の例祭として行われ、獅子舞、神輿、鉾、曳山、庵屋台が町内を巡行する行事である。
 　この行事が行われる旧城端町は、富山県の礪波平野の最南端に位置し、五箇山への入口の地にある。近世以来五箇山で生産される生糸を原料とする織物の町として、また城端別院善徳寺の門前町として栄えてきた。高清水山地から流れ出る山田川と池川にはさまれた幅約300ｍ、長さ1000ｍほどの所に町の中心部がある。
@@ -15,7 +19,6 @@
 　６日には曳山と庵屋台の片付けが行われる。以前には各山町内がそれぞれの山蔵に保管していたが、曳山会館ができてからは、毎年３台ずつ交代で会館に展示されることになっている。
 　曳山と庵屋台の運行は、それぞれ曳山連合会、庵連合会によって行われている。曳山連合会はこの行事全体を運営する組織で、６つの山町の区長、区長代理、若連会長などで構成され、当番山とも呼ばれるその年の一番山町の区長が連合会長になり、他の５つの山町の区長が副会長になる。庵連合会は、各山町内でそれぞれ組織されている若連中によって構成され、会長は当番山の若連会長がつとめる。この他、神輿の巡幸は城端神明宮の氏子組織である敬神会がつとめる。
 　この行事は、富山県の代表的な山鉾屋台の行事の一つであるとともに、地域的特色が豊かなものとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年５月４・５日";
   <http://purl.org/NET/cidoc-crm/core#P67> <https://www.tabi-nanto.jp/archives/1961>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [

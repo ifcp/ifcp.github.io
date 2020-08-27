@@ -1,5 +1,9 @@
 <https://w3id.org/ifcp/187>
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/187/register>;
+  <http://purl.org/NET/cidoc-crm/core#P170> [
+    <http://purl.org/NET/cidoc-crm/core#P164> "毎年旧盆明けの初亥の日を中心とした３日間";
+    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　塩屋湾のウンガミは、沖縄県北部の大宜味村の田港区・屋古区・塩屋区・白浜区のシカアザ（四か字）で行われる行事である。旧盆明けの初亥の日を中心に３日間かけて行われており、１年交代でウグァンマール（御願年）とウドイマール（踊り年）とを行う。
 　ウグァンマールには、行事前夜にハミンチュ（門中を代表する神女）がそれぞれの門中の元屋（本家筋の家）に集まり、ウンケー（神迎え）を行う。ヌル（祝女。塩屋湾のウンガミの祭祀を主宰する神女）が、サンナム（ヌルの世話役）とシマンホー（島方。祭祀を担当する男性）を従えて神のお迎えをし、明日のウンガミの実施を神に告げて案内する。
@@ -13,7 +17,6 @@
 　ウグァンマールには、翌日にヤーサグイを行う。ヌルやハミンチュたちが拝所を拝み、ハミンチュの元屋を回り、その家の不浄を祓い、一家の健康と繁栄を祈る行事である。
 　ウドイマール（踊り年）には、塩屋ではウンガミの翌日塩屋小学校前のアサギマーでウドイ（踊り）を行い、屋古と田港では、サーサーといって、ハミンチュと村人たちが集まって、アサギマーなどでミキを飲んで踊る。
 　この行事は、沖縄の伝統的な民俗信仰のあり方をよく伝えているとともに、沖縄県北部に分布しているウンガミの典型的な事例の１つとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P4> "毎年旧盆明けの初亥の日を中心とした３日間";
   <http://purl.org/NET/cidoc-crm/core#P67> <http://kanko.vill.ogimi.okinawa.jp/village/ungami/index.html>;
   <http://purl.org/NET/cidoc-crm/core#P94> [
     <http://purl.org/NET/cidoc-crm/core#P167> [
