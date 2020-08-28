@@ -2,7 +2,7 @@
   <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/245/register>;
   <http://purl.org/NET/cidoc-crm/core#P170> [
     <http://purl.org/NET/cidoc-crm/core#P164> "毎年1月8日";
-    <http://purl.org/NET/cidoc-crm/core#P3> ""
+    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
   ];
   <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
   <http://purl.org/NET/cidoc-crm/core#P3> """　東光寺の鬼会は、兵庫県加西市上万願寺町の東光寺で行われる年頭の行事で、厄年の男性が扮する赤鬼と青鬼の２匹の鬼が登場し、松明や大きな鉾を振り回しながら堂内を巡って、１年の災厄を払うものである。鬼が登場する前には、田起こしや種蒔きなど稲作の作業過程を模擬的に演じる田遊びが行われ、１年の豊作が祈願される。
