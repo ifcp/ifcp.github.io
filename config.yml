@@ -1,26 +1,26 @@
 base_uri: https://w3id.org/ifcp/
 labels:
   http://www.w3.org/2000/01/rdf-schema#label: 名称
-  http://purl.org/NET/cidoc-crm/core#P3: 詳細
-  http://purl.org/NET/cidoc-crm/core#P4: 日付
-  http://purl.org/NET/cidoc-crm/core#P67: URL
-  http://purl.org/NET/cidoc-crm/core#P141: 重要無形民俗文化財登録情報
-  http://purl.org/NET/cidoc-crm/core#P94: 発祥
-  http://purl.org/NET/cidoc-crm/core#P31: 発祥記述
-  http://purl.org/NET/cidoc-crm/core#P51: 記入者
-  http://purl.org/NET/cidoc-crm/core#P81: 発祥時期
-  http://purl.org/NET/cidoc-crm/core#P167: 発祥地
-  http://purl.org/NET/cidoc-crm/core#P2: カテゴリー
+  http://www.cidoc-crm.org/cidoc-crm/P3_has_note: 詳細
+  http://www.cidoc-crm.org/cidoc-crm/P4: 日付
+  http://www.cidoc-crm.org/cidoc-crm/P67_refers_to: URL
+  http://www.cidoc-crm.org/cidoc-crm/P141_assigned: 重要無形民俗文化財登録情報
+  http://www.cidoc-crm.org/cidoc-crm/P94_has_created: 発祥
+  http://www.cidoc-crm.org/cidoc-crm/P31_has_modified: 発祥記述
+  http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner: 記入者
+  http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout: 発祥時期
+  http://www.cidoc-crm.org/cidoc-crm/P167_at: 発祥地
+  http://www.cidoc-crm.org/cidoc-crm/P2_has_type: カテゴリー
   http://www.w3.org/2004/02/skos/core#broader: 上位カテゴリー
   http://www.w3.org/2004/02/skos/core#narrower: 下位カテゴリー
-  http://purl.org/NET/cidoc-crm/core#P17: 開催情報
-  http://purl.org/NET/cidoc-crm/core#P7: 開催地
-  http://purl.org/NET/cidoc-crm/core#P14: 運営団体
-  http://purl.org/NET/cidoc-crm/core#P116: 開始日
-  http://purl.org/NET/cidoc-crm/core#P115: 終了日
-  http://purl.org/NET/cidoc-crm/core#P12: 開催年
-  http://purl.org/NET/cidoc-crm/core#P170: 公開日
-  http://purl.org/NET/cidoc-crm/core#P164: 通例公開日
+  http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by: 開催情報
+  http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at: 開催地
+  http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by: 運営団体
+  hhttp://www.cidoc-crm.org/cidoc-crm/P116_starts: 開始日
+  http://www.cidoc-crm.org/cidoc-crm/P115_finishes: 終了日
+  http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of: 開催年
+  http://www.cidoc-crm.org/cidoc-crm/P170_defines_time: 公開日
+  http://www.cidoc-crm.org/cidoc-crm/P164_during: 通例公開日
 site_title: Intangible Folk Cultural Properties
 title_property: http://www.w3.org/2000/01/rdf-schema#label
-top_class: http://purl.org/NET/cidoc-crm/core#E1
+top_class: http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity
