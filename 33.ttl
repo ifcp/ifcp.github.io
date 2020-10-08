@@ -1,27 +1,26 @@
 <https://w3id.org/ifcp/33>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/33/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年５月３～５日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現5月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/33/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年５月３～５日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現5月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　日立風流物は、日立市宮田地区の鎮守である神峰神社の大祭典に東町、西町、本町、北町の４つの町から１台ずつ山車が競い出され、からくり人形が演じられる行事で、近年は日立まつりに合わせて行われている。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　日立風流物は、日立市宮田地区の鎮守である神峰神社の大祭典に東町、西町、本町、北町の４つの町から１台ずつ山車が競い出され、からくり人形が演じられる行事で、近年は日立まつりに合わせて行われている。
 　この行事で出る山車は、高さ15メートル、幅３～8メートル、重量５tという巨大なもので、上部に五層の唐破風造りの屋形があり、中央から両側に割れるようになっており、「源平盛衰記」、「仮名手本忠臣蔵」などの人形芝居が演じられる。５つの各層に出しものの一場ずつを配して演じられ、全体の調和をとりつつ、綱の操作によって人形の早がわりなどが行われる。
 　きらびやかに飾られた山車や笠鉾などが曳き出される行事は、全国各地に伝承されてきているが、この行事ででる山車は、規模の大きい作りものがみられるだけでなく、からくり人形を組み込んだもので精緻で豪壮な形態をよく示しており、人形芝居も興趣が深いものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kankou-hitachi.jp/page/dir000031.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C08202-20041101>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.kankou-hitachi.jp/page/dir000031.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C08202-20041101>;
       <http://www.w3.org/2000/01/rdf-schema#label> "茨城県日立市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-05-12";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Σ64 ";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/日立風流物>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-05-12";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Σ64 ";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/日立風流物>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "1695年（元禄8年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "1695年（元禄8年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ひたちふりゅうもの"@ja-hrkt, "日立風流物"@ja .
-<https://w3id.org/ifcp/33/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/33>.
-<https://w3id.org/ifcp/33/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/33>.
+<https://w3id.org/ifcp/33/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/33>.

@@ -1,32 +1,30 @@
 <https://w3id.org/ifcp/69>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/69/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年４月１４・１５日、１０月９・１０日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現4月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/69/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年４月１４・１５日、１０月９・１０日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現4月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　高山祭は、春４月14・15日の日枝神社の山王祭と、秋10月9・10日の八幡神社の八幡祭の総称である。いずれも10数基ずつの華麗な屋台が巡行する行事で、我が国有数の山車祭として知られている。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　高山祭は、春４月14・15日の日枝神社の山王祭と、秋10月9・10日の八幡神社の八幡祭の総称である。いずれも10数基ずつの華麗な屋台が巡行する行事で、我が国有数の山車祭として知られている。
 　飛騨の高山は、元禄５年以降、江戸幕府の直轄地（いわゆる天領）となったが、政策上、いろいろな面で旧態を保存して人心を収らんしようとした。日枝神社や八幡神社の祭礼もその盛行を許されたことから、祭屋台の構造や装飾も、次第に華美になってきたものと考えられている。
 　春の山王祭は、14日の試楽祭と、15日の本楽祭からなる。試楽祭には神輿を中心にした屋台の行列（4月1日に屋台の曳順の抽選を行う）によって町々を練り歩き、鶏頭楽や獅子舞などがこれに伴って行われる。また夜は屋台に提灯を灯し、各屋台蔵への曳き別れを行う。15日の本楽祭では、再び屋台の曳行があり、神輿還御とともに屋台の曳き払いとなる。
 　秋の八幡祭は、8日の屋台曳き順の抽選に続いて、9日の例大祭に屋台の巡行があり、その夜に曳き別れを行う。10日の御神幸には、屋台の曳行とそれに伴う鶏頭楽、獅子舞などが行われ、夕刻曳き払いとなる。
 　この行事は、春・秋の祭りともに、年行事と呼ばれる役により屋台の曳行が指揮され、屋台ではからくり人形や囃子などが上演されるなど、我が国における屋台を用いた祭礼行事の代表的なものの一つとして重要である。
 　なお、山王祭の屋台12基と八幡祭の屋台11基は、江戸時代後期に発達した我が国の祭屋台の典型例の一つとして、重要有形民俗文化財に指定されている。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.takayama-yatai.jp>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C21203-20050201>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.takayama-yatai.jp>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C21203-20050201>;
       <http://www.w3.org/2000/01/rdf-schema#label> "岐阜県高山市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-13";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Shocoreo4212";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/高山祭>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-04-13";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Shocoreo4212";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/高山祭>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "慶安5年（1652年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "慶安5年（1652年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "たかやままつりのやたいぎょうじ"@ja-hrkt, "高山祭の屋台行事"@ja .
-<https://w3id.org/ifcp/69/held/2018/1> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/69>.
-<https://w3id.org/ifcp/69/held/2018/2> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/69>.
-<https://w3id.org/ifcp/69/held/2019/1> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/69>.
-<https://w3id.org/ifcp/69/held/2019/2> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/69>.
+<https://w3id.org/ifcp/69/held/2018/1> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>.
+<https://w3id.org/ifcp/69/held/2018/2> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>.

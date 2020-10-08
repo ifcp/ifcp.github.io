@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/266>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/266/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年1月15日が日曜日にあたる場合は15日、それ以外の場合は1月15日の直前の日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/266/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年1月15日が日曜日にあたる場合は15日、それ以外の場合は1月15日の直前の日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """  邑町のサイノカミは、富山県東部に位置する下新川郡入善町上野の邑町地区で行われている、厄払いや無病息災、五穀豊穣、家内安全を祈願する小正月の火祭りの行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """  邑町のサイノカミは、富山県東部に位置する下新川郡入善町上野の邑町地区で行われている、厄払いや無病息災、五穀豊穣、家内安全を祈願する小正月の火祭りの行事である。
   平成12年までは1月15日に行われていたが、現在は1月15日が日曜日にあたる場合は15日に、それ以外の場合は1月15日の直前の日曜日に行われている。
 　この行事の起源については諸説あり、江戸時代にコレラが流行した際、邑町地区を流れる町川に上流から木製の人形が流れ着いたので同じものを毎年作って燃やすようになった、あるいは上流の地区で疫病除けとして町川に流した人形が邑町地区に流れ着いたので同じものを毎年作って燃やすようになったなどといわれている。それによりコレラの流行は収まり、以来、周辺でコレラがたびたび流行しても邑町地区だけはその難を逃れてきたといわれている。
 　この行事は、7歳から12歳までの男の子たちが中心となって執り行う。当日早朝、子どもたちが地区内にある邑町公民館に参集してから、地区内の家々を一軒一軒訪問して正月飾りなどを集めてまわる。このとき先頭に立つのは、オヤカタ（親方）と呼ばれる最年長の子どもで、デクあるいはデクノボー、デクサマなどと呼ばれる男女一対の人形を手に持ち、他の子どもたちはオヤカタの後に続く。
@@ -21,20 +21,19 @@
 　やがて火が下火になってくると、サイノカミの唄を止めて、燃え尽きた作り物の中を探り、デクの燃え具合を確認する。このとき、デクが燃え残っていると、作り物の燃え残りや新しい藁などを一箇所に集めて再びデクを燃やす。デクが完全に灰になったことを確認すると行事は終了となる。
 　この行事は、年頭にあたって大火を焚いて災厄を払う小正月の火祭りの行事の典型例の一つである。また、男女一対の人形が地区内をめぐり、最後に地区の境で正月飾りなどとともに完全に灰になるまで燃やされることで災厄が払われるとされ、それを年齢階梯的な子ども集団が中心となって執り行っている点で地域的特色も豊かな行事である。
 　この行事のように人形を正月飾りとともに燃やす行事は、サイノカミ、ドウロクジンなどと呼ばれ、中部地方を中心とした地域に濃密にみられることが知られている。いっぽうで富山県を含む北陸地方では、竹を円錐状に組んで正月飾りを燃やして無病息災や家内安全を祈願するサギチョウと呼ばれる行事が濃密にみられ、人形を正月飾りとともに燃やすサイノカミと呼ばれる行事は、本件が現在唯一の伝承例となっている。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C16342-20141201>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.town.nyuzen.toyama.jp/bunka/kyoiku/bunka/bunkazai/mukei/sainokami.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C16342-20141201>;
       <http://www.w3.org/2000/01/rdf-schema#label> "富山県下新川郡入善町上野邑町"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-03-12";
-      <http://purl.org/NET/cidoc-crm/core#P51> "なびお ";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/塞の神まつり>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-03-12";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "なびお ";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/塞の神まつり>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "江戸時代"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "江戸時代"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "むらまちのさいのかみ"@ja-hrkt, "邑町のサイノカミ"@ja .
-<https://w3id.org/ifcp/266/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/266>.
-<https://w3id.org/ifcp/266/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/266>.
+<https://w3id.org/ifcp/266/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/266>.

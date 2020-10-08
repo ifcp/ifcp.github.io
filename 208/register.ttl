@@ -1,5 +1,5 @@
 <https://w3id.org/ifcp/208/register>
-  <http://purl.org/NET/cidoc-crm/core#P4> "2000-12-27";
-  <http://purl.org/NET/cidoc-crm/core#P67> "379";
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
-<https://w3id.org/ifcp/208> <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/208/register>.
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2000-12-27";
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> "379";
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .
+<https://w3id.org/ifcp/208> <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/208/register>.

@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/295>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/295/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "5年ごとの5月2日・3日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現5月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/295/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "5年ごとの5月2日・3日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現5月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """常陸大津の御船祭は、茨城県北茨城市大津町に鎮座する佐波波地祇神社の春の例大祭で行われる行事で、神社から海辺に渡御する神輿を飾り付けた船に載せて町内を巡幸し、豊漁や海上安全などを祈願する行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """常陸大津の御船祭は、茨城県北茨城市大津町に鎮座する佐波波地祇神社の春の例大祭で行われる行事で、神社から海辺に渡御する神輿を飾り付けた船に載せて町内を巡幸し、豊漁や海上安全などを祈願する行事である。
 　大津町は、茨城県の最北、福島県との境に位置する。東に太平洋をのぞみ、江戸時代から水戸藩領を代表する漁村として明治時代までは鰹の一本釣り、その後は鰯の巻き網漁が盛んで、現在でも県下有数の水揚げを誇る。
 　佐波波地祇神社は、大津町の氏神で、市街地の背後の宮平の高台に鎮座する。主祭神の天日方奇日方命のほか五つの神を祀るため六所明神とも呼ばれ、近郷近在から広く信仰を集めてきた。特に漁業者の信仰は篤く、神社西側にあった宮の松と呼ぶ松の古木はかつて漁場の位置を目視で特定する山アテの対象ともされた。
 　御船祭の起源は詳らかではないが、享保11年（1726）に水戸藩儒臣の丸山可澄が記した「佐波々地祇神社縁起」から江戸時代には神輿を船に載せて渡御する行事が行われていたことがわかる。例大祭は、もとは大漁の年の旧暦3月9日・10日に行われ、明治41年（1908）に大漁の年の新暦5月9日・10日となり、昭和49年からは5年ごとの新暦5月2日・3日に行われるようになった。
@@ -17,20 +17,19 @@
 巡幸は、空船の時と同様にソロバンの敷設と船の曳行を繰り返し、御仮屋のある大西から大中を通って大東の川尻まで行われる。途中、チョウマタギや町内の祠の前にくると船を停止して御船歌を奉納する。チョウマタギでは当番町の頭取が通過する町の頭取に通行の許しを得る問答も交わす。神船は後退できないとされるため、停止位置ではソロバンを積み上げて強制的に停止させる。また、御仮屋から約100mのＴ字路では、船首を中心軸に船尾を大きく振って直角に向きを変えることから巡幸中の見せ場の一つとなっている。
 川尻に着くと、神職・囃子方・水主が下船し、神輿を船から下ろして海辺に行って潮垢離の式となる。鐡家と鈴木家の代表2名が海水を浸した御幣で神輿を浄める。そして御船歌の奉納後、神輿は神社に還御する。神社では再び御船歌が奉納され、拝殿で鐡家と鈴木家が神輿を受け取って神霊が戻される。最後に境内で当番町の頭取・御囃子師匠と次年の当番町の頭取・御囃子師匠の間で引き継ぎの挨拶が交わされる。
 なお、毎年の例祭は休祭ともいい、5月3日に神社で神事と囃子や御船歌の奉納がある。かつては神輿が渡御しないと次の当番町に引き継げないとされ、休祭でも神輿を担いで海辺まで渡御して潮垢離して還御した。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kitaibarakishi-kankokyokai.gr.jp/page/page000186.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.kitaibarakishi-kankokyokai.gr.jp/page/page000186.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ひたちおおつのおふねまつり"@ja-hrkt, "常陸大津の御船祭"@ja .
-<https://w3id.org/ifcp/295/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/295>.
-<https://w3id.org/ifcp/295/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/295>.
+<https://w3id.org/ifcp/295/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/295>.

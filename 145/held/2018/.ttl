@@ -1,11 +1,14 @@
 <https://w3id.org/ifcp/145/held/2018/>
-  <http://purl.org/NET/cidoc-crm/core#P12> 2018;
-  <http://purl.org/NET/cidoc-crm/core#P14> "祖生柱松行事保存会　中村柱松保存会，山田柱松保存会，落合柱松保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/145>;
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "開催せず";
-    <http://purl.org/NET/cidoc-crm/core#P116> "開催せず"
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "祖生柱松行事保存会　中村柱松保存会，山田柱松保存会，落合柱松保存会";
+  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/145>;
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-08-23";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-08-15"
+  ], [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "開催せず";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "開催せず"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.hikari.fun/archives/19937441.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352081260>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.hikari.fun/archives/19937441.html>, <https://www.oidemase.or.jp/tourism-information/spots/11689>;
+  <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352081260>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

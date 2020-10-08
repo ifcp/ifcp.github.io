@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/249>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/249/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月第一日曜日とその前日の土曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/249/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年８月第一日曜日とその前日の土曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　桑名石取祭の祭車行事は、桑名市中心部に鎮座する旧城下町桑名の総鎮守である桑名宗社に対して行われる行事で、氏子町内から祭車と呼ばれる車が出され、鉦、太鼓で激しく囃しながら曳き回される。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　桑名石取祭の祭車行事は、桑名市中心部に鎮座する旧城下町桑名の総鎮守である桑名宗社に対して行われる行事で、氏子町内から祭車と呼ばれる車が出され、鉦、太鼓で激しく囃しながら曳き回される。
 　この行事は、本来夏の禊ぎ祓いの意味を持ち、清らかな石をとって祭地を浄める祭りで、現在は氏子の各町内が11の組に分かれて参加する。桑名宗社は、桑名神社と中臣神社の２社からなり通称春日神社と称される。この桑名宗社の氏子の町内には元々春日神社の氏子であった本氏子と石取祭に参加するため春日神社の氏子になったといわれる準氏子がある。
 　桑名市は三重県北東部に位置し愛知県と境を接する。江戸時代には桑名藩の城下町であり、東海道の宿場町でもあった。木曽川、揖斐川、長良川が合流する河口の、尾張から海上7里を渡った所に位置し、伊勢参詣の出発点としても賑わいを見せた。
 　この祭の初見史料は『慶長自記』で、その慶長18（1613）年の条に「七月十七日石取アリ」と見える。このことからすでにこの時期に石取の行事があったことが窺えるが、祭礼ではなく石を取る行事のみであったといわれている。この『慶長自記』に見える行事が祭礼化したのが現在の石取祭である。
@@ -25,20 +25,19 @@
 　花車が渡祭をすると、順番にしたがって各祭車が渡祭をしていく。渡祭は各祭車が神職と神社役員の待つ楼門前に進み番号札を神職に渡してお祓いを受けて退出するもので、神社役員の振る提灯の合図で楼門前に進み、同じく提灯の合図で退出する。
 　渡祭が終了した祭車は、すべての祭車の渡祭が終了するまで定められた渡祭後定位置まで進んで待機し、花車から順番に定められた場所で曳き別れを行い各組の帰路待ち合わせ場所に向かって待機する。組の全祭車が揃うと各組に向かって帰路につき、それぞれ適当な場所で曳き別れを行い町内に戻っていく。
 　わが国に数多く見られる山・鉾・屋台は神霊の依るダシを賑やかな行列で鎮め送ることを本来の目的にしたものといわれている。そのダシが美的建造物になるところに成立したのが山や鉾であり、それを囃す行為とともに造形化されたのが各種の屋台である。この行事は、採取した石を氏神に奉納することを目的に成立した行事で、石取という行事から祭礼へ展開したものとして注目される。我が国における山・鉾・屋台の祭の成立過程においてこの行事は特色ある展開過程をとったものとしてその変遷過程を知る上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://isidori.jp/index.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C24205-20041206>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://isidori.jp/index.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C24205-20041206>;
       <http://www.w3.org/2000/01/rdf-schema#label> "三重県桑名市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "桑名石取祭保存会";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://isidori.jp/about.html>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "桑名石取祭保存会";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://isidori.jp/about.html>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "江戸時代初期"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "江戸時代初期"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "くわないしどりまつりのさいしゃぎょうじ"@ja-hrkt, "桑名石取祭の祭車行事"@ja .
-<https://w3id.org/ifcp/249/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/249>.
-<https://w3id.org/ifcp/249/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/249>.
+<https://w3id.org/ifcp/249/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/249>.

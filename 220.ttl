@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/220>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/220/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月１～３日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/220/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年８月１～３日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　八戸三社大祭は、八戸市内に所在する龗神社、新羅神社、神明宮の三社の合同例祭で、毎年７月31日から8月4日にわたって行われる。山車行事は、この例祭に合わせて、８月１日から３日間行われ、三社の神幸行列に従って27台の大型で豪華な風流系の山車が行列を組んで市内を巡行する。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　八戸三社大祭は、八戸市内に所在する龗神社、新羅神社、神明宮の三社の合同例祭で、毎年７月31日から8月4日にわたって行われる。山車行事は、この例祭に合わせて、８月１日から３日間行われ、三社の神幸行列に従って27台の大型で豪華な風流系の山車が行列を組んで市内を巡行する。
 　三社大祭は、龗神社の祭礼から始まったとされる。龗神社は、旧八戸城内に鎮座し旧社名を法龗神社、法龗大明神などと呼ばれ、初めは柏崎村の産土神であったが、盛岡藩の代官所が置かれると「八戸御館神」と称され、さらに寛文4年（1664）の八戸藩誕生以後は、藩と城下町を鎮護する神として信仰されるようになった。
 　龗神社の神輿が現在の新羅神社である長者山虚空蔵堂を御旅所にして渡御し、城下を神幸するようになるのは享保6年（1721）のことで、その後明治3年（1870）、法龗大明神は龗神社と社名を改め、明治17年（1884）の祭礼から新羅神社が加わって二社の合同祭礼となり、同22年（1889）の祭礼からは神明宮も加わって、現在の三社大祭のかたちとなった。
 　現在の三社の氏子範囲は、龗神社が市内北部の20町内、新羅神社が市内南部の20町内、神明宮が中央部の12町内となっており、祭礼は町内を単位に行われている。
@@ -17,20 +17,19 @@
 　こうした固定した人形を飾る山車は、明治20年代を境にしだいに町内が所有し、趣向を凝らした物語を毎年作り替える風流系の山車に変わっていく。町内所有の風流系の山車は、明治25年（1892）の記録に6台が初めて登場してくる。しかし、人形山車は大正時代終わり頃までは曳き出されていたことが記録されており、曳き出されない出し人形は商家の店先に飾られていたようである。
 　なお、江戸時代の出し人形類は現在もいくつか伝わっているが、その中で三社大祭との関係が確認された「武田信玄と屋台一式」「太公望と屋台一式」「神功皇后と武内宿禰」「為朝と嶋人」「享保六年紀年銘鉾先」が、平成15年八戸市有形文化財に指定されており、平成15年の祭礼には龗神社の行列に、太公望の人形山車が曳き出されている。
 この祭りの山車は、延享４年（1747）に裕福な町人が奉納した人形山車が、明治24年に町内所有の風流山車へと変化し、更に近代的な意匠へと変化した経緯が現存する山車類から明確であること、祭りの運営組織や運行習俗などにも伝統性を濃厚に残すことなど、我が国の山車祭りの変遷過程と、風流系統の山車の展開の様相を如実に示す事例として貴重である。さらにこの祭りは、青森県南部から岩手県北部にかけて広く分布する祭りの中心的なものであり、地域的特色も豊かである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://visithachinohe.com/stories/hachinohe-sannshataisai/>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C02203-20170101>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://visithachinohe.com/stories/hachinohe-sannshataisai/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C02203-20170101>;
       <http://www.w3.org/2000/01/rdf-schema#label> "青森県八戸市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2020-01-02";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Hope and Lightning";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/八戸三社大祭>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2020-01-02";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Hope and Lightning";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/八戸三社大祭>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "享保6年（1721年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "享保6年（1721年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はちのへさんしゃたいさいのだしぎょうじ"@ja-hrkt, "八戸三社大祭の山車行事"@ja .
-<https://w3id.org/ifcp/220/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/220>.
-<https://w3id.org/ifcp/220/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/220>.
+<https://w3id.org/ifcp/220/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/220>.

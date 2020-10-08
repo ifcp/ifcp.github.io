@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/198>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/198/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月３１日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/198/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年７月３１日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現7月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　滑川のネブタ流しは、眠気や穢れを海に送り出す行事で、かつては中川原から高月町にいたる海岸沿いの町内の多くで行われていたが、現在では中川原と常盤町一区・二区・三区の４町内だけで行われている。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　滑川のネブタ流しは、眠気や穢れを海に送り出す行事で、かつては中川原から高月町にいたる海岸沿いの町内の多くで行われていたが、現在では中川原と常盤町一区・二区・三区の４町内だけで行われている。
 　中川原では町内の人たちが直前の日曜日などに集まってネブタを作る。青竹を芯に周囲に藁を入れて莚でくるみ荒縄で縛って作る。大人用と子ども用があり、大人用は高さが４～６㍍、径が下部で70～80㎝、上部で30～40㎝ほど、子ども用はこれよりも小ぶりに作る。31日に、大人用のものを和田の浜に据え付け、色紙で作った服を着せ目鼻を刻んだナス、キュウリなどの飾りものを胴体に刺し、先端部に青竹を刺して準備を終える。子ども用のものは午後１時頃に櫟原神社の禊場に据え付け、服を着せたナスやキュウリの飾りものを刺す。２時頃に禊場で始まる茅の輪くぐりの神事が終わると、午後５時頃、子どもたちとその父兄がネブタを持って出発し、「ネブタ流され、朝おきれ」とはやしながら町内を練り歩き和田の浜に向かう。和田の浜につくと護岸の上に据え付け、点火して海に流し出す。
 　常盤町一区・二区・三区のネブタの作り方はほぼ同様であるが、二区は中に籐くずを入れ、まわりを薦で包んで作っている。作る数は参加者の数や材料によって異なる。ネブタの大きさは、高さが３～６㍍、径が70～80㎝ほどである。先端には一区・二区・三区ともに紅白の御幣を刺す。三区は御幣とともに花火を刺し、火をつけて海に流し出したときに花火が打ち上がるようになっている。
 　現在、これら４地区のネブタはすべて和田の浜にそろい、市長が各ネブタに点火して海に流しているが、かつてはそれぞれの地先の浜で町内の長老が点火した後に流していた。
@@ -16,20 +16,19 @@
 と記しているように、日本海側におけるネムタ流しの南限を示す行事であることが知られている。また、この日を境に昼寝をしてはならないとも伝承されている。
 　周辺地域にはコウヤあるいはオショウライと呼ばれる小屋やタイマツを作って川原で燃やす七夕行事が分布しており、このネブタ流しも盆を迎える行事の一つであると考えられる。
 　このように滑川は現在知られているなかでは日本海側における南限を示す例であり、富山県内ではこの地域だけで行われている地域的特色をよく示している重要な行事である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.info-toyama.com/event/50030/>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.info-toyama.com/event/50030/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "なめりかわのねぶたながし"@ja-hrkt, "滑川のネブタ流し"@ja .
-<https://w3id.org/ifcp/198/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/198>.
-<https://w3id.org/ifcp/198/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/198>.
+<https://w3id.org/ifcp/198/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/198>.

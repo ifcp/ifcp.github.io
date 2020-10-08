@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/244>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/244/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年５月３・４日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現5月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/244/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年５月３・４日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現5月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　亀崎潮干祭の山車行事は、知多半島の北東側にある愛知県半田市の北部亀崎地区の鎮守神前神社の祭礼潮干祭に行われる行事で、氏子で組織される東組、石橋組、中切組、田中組、西組の５つの組から、からくり人形をのせた山車が出されて曳き回される行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　亀崎潮干祭の山車行事は、知多半島の北東側にある愛知県半田市の北部亀崎地区の鎮守神前神社の祭礼潮干祭に行われる行事で、氏子で組織される東組、石橋組、中切組、田中組、西組の５つの組から、からくり人形をのせた山車が出されて曳き回される行事である。
 　山車を出す５つの組は亀崎潮干祭を担う基本的な組織である。石橋、田中、中切は、亀崎内の字名であり、東と西はその両側にあることから命名されたと伝えられていることから、これらの組は基本的には地域的なまとまりで構成されたものと考えられ、それぞれの区域内に居住する者のうち組費を納めた者によって組が構成されている。
 　この行事は毎年５月３・４日に行われる。行事前の３月下旬から４月上旬には道検分が行われる。これは神前神社に５つの組の若者頭等が集合して山車巡行経路の道路状況の点検を行う行事である。
 　続いて祭りのほぼ１か月ほど前になると浜に埋めてある山車の車輪を掘り出すゴマ掘りといわれる作業が行われる。各組の山車の車輪は行事が終了すると乾燥しないように海岸の砂の中に埋められるのである。
@@ -19,20 +19,19 @@
 　神前神社での人形芸の奉納が終了すると、山車は各町内に向かい町内を巡行した後、サヤに納められ行事が終了する。
 　この行事でだされる山車は、二層造りで唐破風の屋根を四本柱が支え、正面にも同様な唐破風を拵え前壇と呼ばれる棚があり、車輪は一木造りの四輪で台輪の内側に入る内輪形式のもので知多型と呼ばれる。山車の四本柱内で上山人形と呼ばれるからくり人形が行われ、正面の前壇でも前人形と呼ばれるからくり人形が行われる。この行事の山車は、知多型の中でも最も贅をこらした山車の１つとして知られている。
 　また、山車を出す５つの組が東組、石橋組、中切組、田中組、西組の順に年番として１年任期で務める代参元が全体の執行・統括を行っている。また、各組にも任期１年で務める車元と呼ばれる役がおかれ、組における１年間の経費を提供するともいわれる名誉ある役で、山車の管理に責任を負う役割を果たしている。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://shiohi-matsuri.jp>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/page/smallArea/g00200521/2015/S232051080>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://shiohi-matsuri.jp>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/page/smallArea/g00200521/2015/S232051080>;
       <http://www.w3.org/2000/01/rdf-schema#label> "愛知県半田市亀崎町"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2017-07-25";
-      <http://purl.org/NET/cidoc-crm/core#P51> "112.137.61.222";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/亀崎潮干祭>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2017-07-25";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "112.137.61.222";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/亀崎潮干祭>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "室町時代応仁・文明年間"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "室町時代応仁・文明年間"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かめざきしおひまつりのだしぎょうじ"@ja-hrkt, "亀崎潮干祭の山車行事"@ja .
-<https://w3id.org/ifcp/244/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/244>.
-<https://w3id.org/ifcp/244/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/244>.
+<https://w3id.org/ifcp/244/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/244>.

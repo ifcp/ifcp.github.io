@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/182>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/182/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月１４・１５日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/182/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年８月１４・１５日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　鳥出神社の鯨船行事は、四日市市富田地区の北島組・中島組・南島組・古川町の４つの集団で行われ、それぞれ１隻ずつ計４隻の鯨船が曳き出される行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　鳥出神社の鯨船行事は、四日市市富田地区の北島組・中島組・南島組・古川町の４つの集団で行われ、それぞれ１隻ずつ計４隻の鯨船が曳き出される行事である。
 　鯨船のハタシ（羽刺）役の子どもや太鼓たたきの練習は、７月後半から始まり、組ごとに浜辺や公園、倉庫の前などで、古老が所作や太鼓のたたき方の指導をする。行事の1～2週間前には鯨船を格納庫から引き出し、屋形や幕、装飾部品などをつけ、張り子の鯨の修理をする。
 　鯨船は、全長約9㍍、最大幅約2.3㍍ある。車輪はコマと呼ばれ、前方に1輪、中央と後ろに一対ずつの計5輪つけられている。張り子の鯨は竹の骨組みで作られており、頭部には黒い布、胴部は細かい網状の布を張り、胸びれと背びれは楕円形に曲げた竹に黒い布を被せる。
 　行事は、8月14日に鎮火祭とチョウネリ（町練り）、15日にホンネリ（本練り）を行う。14日の鎮火祭は鳥出神社で行われ、組ごと役員・ハタシ・ロコギ（櫓漕ぎ）・太鼓たたき・鯨被りなどの鯨船行事の参加者が参拝し、道具や衣裳を清めてもらう。宮本といわれる北島組が鎮火祭と神社への練り込みを最初に行い、中島組・南島組・古川町の順で行うことになっている。鎮火祭を終えて各組に戻ると、夕方まで町練りが行われる。
@@ -14,20 +14,19 @@
 　町練りで最初に突く場所は組によって異なる。町練りでは、祝儀突きといって、鯨船行事に寄付金を出した家の前で鯨を突いたり、ヤクヅキ（役突き）といって、自治会長の家や、ハタシ・ロコギ等を出している家でも突く。本来、祝儀突きは新築・結婚・出産等のめでたいことがあった家が頼んだものだった。今でも新築などの祝事があったときに「大きい鯨を一本突いた」という。家に不幸があった場合は、1年間は鯨突きを遠慮するのが通例で、鯨船行事にも参加しない。
 　15日は本練りで、各組とも前日にやり残した町練りを行い、午後の鳥出神社への練り込みを待つ。北島組から次々に鳥出神社の境内に練り込み演技を行う。練り込みの後、浜の組は浜辺に出て、多度大社と伊勢神宮に向かって鯨突きをする。
 　この行事は、北勢地方に集中的に分布する鯨船行事を代表するものであり、鯨突きが象徴する漁撈が漁村にもたらす豊かな生活を祈念する意識を背景に、風流行事の中に捕鯨習俗を取り入れて伝えているものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.yokkaichi.mie.jp/kyouiku/kujirabune/index.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.yokkaichi.mie.jp/kyouiku/kujirabune/index.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とりでじんじゃのくじらぶねぎょうじ"@ja-hrkt, "鳥出神社の鯨船行事"@ja .
-<https://w3id.org/ifcp/182/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/182>.
-<https://w3id.org/ifcp/182/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/182>.
+<https://w3id.org/ifcp/182/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/182>.

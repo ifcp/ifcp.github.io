@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/179>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/179/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月第三土曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/179/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月第三土曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　大磯では左義長とか、サイト・サイトヤキ・サイトバライと呼ぶ小正月の火祭りが、海岸沿いの南下町の坂下・浜町・大泊・子の神、北下町の中宿・浅間町・大北、山王、長者の計９地区で行われる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　大磯では左義長とか、サイト・サイトヤキ・サイトバライと呼ぶ小正月の火祭りが、海岸沿いの南下町の坂下・浜町・大泊・子の神、北下町の中宿・浅間町・大北、山王、長者の計９地区で行われる。
 　大磯の左義長は、前年12月8日の一番息子という行事で始まると考えられている。その日の朝、子どもたちは宮元（塞の神の世話を代々している家）に集まり、塞の神の祠に置かれているゴロ石を縄で縛り、５人ぐらいの組を作って各家を回り、ゴロ石で門口や庭先の地面をドンドンと打って唱え言を唱える。子どもたちは各家から賽銭を受け取り、宮元へ持ち帰る。この賽銭でご馳走を作って食べるが、風邪をひかないように必ず豆腐を食べる風習がある。ゴロ石は蚕の繭形に中央を削った石で、男子が生まれたり７歳になったときに、丈夫に育つようにと奉納するもので、かつては祠近くの土中に埋めていたという。
 　正月11日早朝に大磯の東方に当たる平塚市に行って、竹や松などを買う。オンベ竹は御仮屋の傍らに立てるもので、ヌイゾメ（縫い初め）といって、正月の供え餅に敷いた紙や五色の紙をつなぎ合わせて作った吹き流し・紙テープ・細い竹と縄とで作った弓矢などをつける。
 　11日から3日間、子どもたちはオカリコ（御仮籠）といって木造の組立式の御仮屋に籠もる。これは塞の神の社地に建て、塞の神を正面奥に祀ったもので、入口には賽銭箱、両側に門松と道祖神と書いた提灯を立て、近くにオンベ竹を立てる。御仮屋の中には火鉢などが置かれ、子どもたちが餅を焼いたりミカンなどを食べてお籠りをする。このとき、隣の地区との境の道には、ミチキリ・シメヒキリといって、中央に幣束を挿した注連縄を張り、賽の目に切った大根を錘につける。
@@ -15,20 +15,19 @@
 　午後７時頃、サイトに火をつける。昔はアキの方から点火し、その順番は厳しく守られていたというが、現在は山王のサイトを最初に点火し、次々に火をつける。宮総代が「ドゥミドンヤ」と唱えながら点火し、サイトが燃え盛り、倒れそうになると綱を引いてアキの方に倒す。集まった人びとは、木の枝につけた福団子や竹竿の先に吊り下げた福団子をサイトの火であぶって食べる。
 　サイトの残り火が燃え上がっている頃、渚でヤンナゴッコが行われる。褌姿の青年10数人が、ソリを引いて海に飛び込むと、浜に残っている子どもたちに大人が加勢して、海と陸との綱引きが始まる。ヤンナゴッコは陸の幸と海の幸を相手に与えないように競い合う意味で、必ず陸方が勝つことになっている。海方の青年たちは魚であると言い伝えられており、それを引き上げることによって、豊漁が予祝されるのである。人びとはソリを曳いて、それぞれの地区に戻る。隣の地区のソリと出会ったりすると、大きな声で伊勢音頭を歌って気勢をあげ、地区内を一巡して、塞の神に到着すると、さらにここ一番と大声で歌う。
 　小正月の火祭りは全国に分布するが、関東地方や中部地方のものは塞の神と結びつき、さまざまな展開をみせている。大磯の左義長は、関東地方にあって、とりわけ壮大な規模をもつ代表的な行事であり、一番息子やオカリコの行事が行われたり、豊漁を祈願する予祝儀礼であるヤンナゴッコが行われるなどさまざまな行事を包含し、地域的特徴をよく示している。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.town.oiso.kanagawa.jp/isotabi/matsuri_event/matsuri/sagichou.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.town.oiso.kanagawa.jp/isotabi/matsuri_event/matsuri/sagichou.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおいそのさぎちょう"@ja-hrkt, "大磯の左義長"@ja .
-<https://w3id.org/ifcp/179/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/179>.
-<https://w3id.org/ifcp/179/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/179>.
+<https://w3id.org/ifcp/179/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/179>.

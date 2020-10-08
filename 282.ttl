@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/282>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/282/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年8月19、20日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/282/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年8月19、20日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　花輪祭の屋台行事は、秋田県鹿角市花輪に鎮座する幸稲荷神社と花輪神明社の合同の例大祭で、神輿の渡御に合わせて10基の屋台が地区内を巡行し、五穀豊穣や家内安全などを祈願する行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　花輪祭の屋台行事は、秋田県鹿角市花輪に鎮座する幸稲荷神社と花輪神明社の合同の例大祭で、神輿の渡御に合わせて10基の屋台が地区内を巡行し、五穀豊穣や家内安全などを祈願する行事である。
 　花輪は、秋田県の北東部、米代川上流に位置する鹿角市の中心地で、近世より近隣の豊かな山林と鉱山で産する木材や鉱産物の集積地として発展してきた。近世には盛岡藩の代官所が置かれ、盛岡から鹿角街道が通じていた。明治以降も採掘・製錬技術の近代化で全国屈指の鉱産物量を誇り、鹿角郡の郡役所も置かれた。
 　幸稲荷神社は、六日町、谷地田町、大町、新町、横丁、旭町、上旭町を氏子域とする神社で、近世には盛岡藩が領国支配の単位として設けた通(とおり)の一つである花輪通の総鎮守であり、盛岡藩主の寄進による社殿の再建・改築も行われている。花輪神明社は、新田町、舟場町、舟場元町、組丁のほか周辺の農村部も氏子域とする神社で、近世の社殿修復の記録もある。２つの神社の氏子域で屋台をだすのは、舟場元町、舟場町、新田町、六日町、谷地田町、大町、旭町、新町、横丁、組丁の10町である。
 　花輪祭の起源は明確ではないが、明和２（1765）年の『御銅山御定目帳』に「花輪稲荷　毛馬内月山と隔年之祭礼也」とあるのが初見で、文久３（1863）年の『阿津免久佐』には「花輪祭中止」とあって近世には花輪祭の名称で行われていたことがわかる。その頃の花輪祭は、幸稲荷神社の祭礼であったが、昭和35年から花輪神明社の例大祭もこれに加わった。
@@ -16,20 +16,19 @@
 　花輪祭は、８月９日頃の囃子の練習を開始する棒入れから始まる。15日には花輪神明社の宵宮祭があり氏子総代が参集して神事をする。16日は２つの神社の神輿が町内を巡行した後、幸稲荷神社の神輿は花輪の中心部にある御旅所に遷座し、花輪神明社の神輿は還御する。御旅所は里宮とも呼ばれ、神事とサギリの奉納がある。各町はこの日に屋台を保管場所から出して18日まで屋台で囃子の練習をする。
 　19日は、夕方から全屋台が御旅所に集合する御旅所詰めが行われる。屋台が着くと、若者会の役員などが御旅所に参拝してからサンサをする。その後、駅前広場詰めと称して鹿角花輪駅前まで屋台を巡行して得意の囃子を披露し、サンサをした後、自町内に戻る。
 　20日は、日付が変わると同時に朝詰めが始まる。全屋台が米代川にかかる稲村橋に集合した後、枡形と呼ぶ花輪の南外れに向かう。全屋台が稲村橋に着く頃、神輿は御旅所から枡形に渡御する。そして神輿が枡形に遷座すると、屋台は稲村橋から枡形に向けて出発する。枡形に着いた屋台は、囃子をやめて提灯を消し、１基ずつ神職の祈祷を受けて得意の囃子を奉納する。最後に若者会の役員などがサンサをし、夜明け頃に屋台は霧囃子を演奏しながら自町内に戻る。昼は、門付けと称して各屋台が自町内を巡行し、主に子どもたちが囃子を演奏する。また午後、枡形に遷座していた神輿が幸稲荷神社に還御する。夕方になると、19日と同様に駅前広場詰めを行った後、赤鳥居詰めと称して花輪の北外れにある幸稲荷神社の赤鳥居まで巡行する。全屋台が赤鳥居に着くと、若者会の役員などが赤鳥居越しに幸稲荷神社に拝礼してからサンサをし、屋台は自町内に戻る。なお、赤鳥居詰めは、日付が変わる前に終えなければならないとされている。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://hanawabayashi.jp>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052090020>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://hanawabayashi.jp>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052090020>;
       <http://www.w3.org/2000/01/rdf-schema#label> "秋田県鹿角市花輪"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-01";
-      <http://purl.org/NET/cidoc-crm/core#P51> "10.133.159.244";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/花輪ばやし>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-09-01";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "10.133.159.244";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/花輪ばやし>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "1204年（元久元年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "1204年（元久元年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はなわまつりのやたいぎょうじ"@ja-hrkt, "花輪祭の屋台行事"@ja .
-<https://w3id.org/ifcp/282/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/282>.
-<https://w3id.org/ifcp/282/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/282>.
+<https://w3id.org/ifcp/282/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/282>.

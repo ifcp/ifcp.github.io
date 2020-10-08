@@ -1,20 +1,20 @@
 @base <https://w3id.org/ifcp/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix ifcp: <https://w3id.org/ifcp/> .
 @prefix cate: <https://w3id.org/ifcp/category/> .
 ifcp:"&A2&"
     rdfs:label """&E2&"""@ja .
 <https://w3id.org/ifcp/"&A2&"/held/2018/"&B2&">
-    rdf:type crm:E5 ;
-    crm:P12 "&D2&" ;
-    crm:P17 ifcp:"&A2&" ;
-    crm:P7 <"&I2&"> ;
-    crm:P14 """&J2&""" ;
-    crm:P67 <"&M2&"> ;
-    crm:P4 [
-        crm:P116 """&K2&""" ;
-        crm:P115 """&L2&""" 
+    rdf:type crm:E5_Event ;
+    crm:P12_occurred_in_the_presence_of "&D2&" ;
+    crm:P17_was_motivated_by ifcp:"&A2&" ;
+    crm:P7_took_place_at <"&I2&"> ;
+    crm:P14_carried_out_by """&J2&""" ;
+    crm:P67_refers_to <"&M2&"> ;
+    crm:P4_has_time-span [
+        crm:P116_starts """&K2&""" ;
+        crm:P115_finishes """&L2&""" 
     ] .

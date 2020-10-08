@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/269>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/269/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月16日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/269/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年８月16日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　三戸のオショロ流しは、神奈川県三浦市初声町三戸に伝承される盆の精霊送りの行事で、毎年８月16日早朝に、華やかに飾り付けられたオショロブネ（精霊船）と呼ばれる大きな藁船を海岸で作り、子どもたちが沖まで泳ぎながら船を曳いて行き、先祖の霊を海の彼方に送るものである。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　三戸のオショロ流しは、神奈川県三浦市初声町三戸に伝承される盆の精霊送りの行事で、毎年８月16日早朝に、華やかに飾り付けられたオショロブネ（精霊船）と呼ばれる大きな藁船を海岸で作り、子どもたちが沖まで泳ぎながら船を曳いて行き、先祖の霊を海の彼方に送るものである。
 　三浦市初声町は、三浦半島の南西部に位置し、畑作を中心とする農業と漁業を生業としてきた地域である。オショロ流しが伝承される三戸地区は、相模湾に面した集落で、海岸にそって北から神田、北、上、谷戸の４つの地区がある。自治会組織のうえでは、上と谷戸が１つの単位となって谷戸上として活動しており、オショロ流しは、この３つの地区ごとに藁船を製作して行われる。
 　三戸では、盆は月遅れで行われ、８月13日から16日の期間である。オショロ流しは、13日に各家が盆棚を設えて、オショロサマと呼ばれる一対の円筒形の飾り物を供物とともに供え、迎えた先祖の霊を16日早朝、三戸海岸から集団で送り出すもので、セイトッコと呼ばれる子ども組によって伝えられてきた。現在は、３地区の区長と三戸全体を統括する大区長を中心に保存会が組織され、大人の主導のもと、セイトッコを中心に行事が伝承されている。
 　セイトッコは、小学校１年生から中学校３年生までの男子で構成される年齢集団で、地区ごとに組織されている。三戸は、コワカイシュウ、シュクロウ、セワニンなどと呼ばれる年齢階梯の制度が続けられてきた地域で、セイトッコはこれらの年齢集団のもっとも下に位置づけられる。７年に１度、元服式と呼ばれる儀礼が地区で行われ、これを済ますと次のコワカイシュウに仲間入りするが、それまではセイトッコとしてこの行事に参加する。
@@ -19,20 +19,19 @@
 　なお、オショロブネを流し終えると、谷戸上では、大将がヤドの神棚に祀られているオミシメサマを風呂に入れる。オミシメサマは、着物を着た小さな木像で、セイトッコが祀る神であり、子どもの守り神とも伝えられている。かつては、大将がオミシメサマを風呂に入れた後、無病息災を祈ってセイトッコが順番に風呂に入ったが、現在は、風呂場でオミシメサマの体を拭くだけになっている。その後、セイトッコはヤドや集会所に集まり、共同飲食をしてから解散となる。このオミシメサマは、オンベ焼きと呼ばれる正月行事が終了すると、次のヤドをつとめる家に御幣とともに引き渡される。
 　盆は、正月とともに、日本の年中行事を考える上で重要な節目にあたり、先祖の霊を迎え、送る行事が各地に伝承されている。そうした中で、この行事は、先祖の霊を船に託して送る、船流しの形態をとる盆行事の典型例と考えられるもので、大きな精霊船を用いた集団的な精霊送りの行事としても注目される事例である。
 　また、セイトッコと呼ばれる年齢集団によって行事が伝承されてきたことは地域的な特色であり、少子化が進むなかで、年齢階梯的な役割分担や年番制をとるヤドの慣行など伝統的な要素をよく残していて、我が国の年中行事や民間信仰を理解する上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.city.miura.kanagawa.jp/shakai/mukeiminzoku/mitonooshouronagasi01.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "みとのおしょろながし"@ja-hrkt, "三戸のオショロ流し"@ja .
-<https://w3id.org/ifcp/269/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/269>.
-<https://w3id.org/ifcp/269/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/269>.
+<https://w3id.org/ifcp/269/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/269>.

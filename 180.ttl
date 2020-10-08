@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/180>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/180/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月第一金・土曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/180/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年８月第一金・土曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　魚津のタテモン行事は、魚津市諏訪町に鎮座する諏訪神社の例祭に豊漁と航海・操業の安全を祈願して、氏子町内からマントウ(万灯)とかタテモンと呼ばれる作り物が曳き出されるものである。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　魚津のタテモン行事は、魚津市諏訪町に鎮座する諏訪神社の例祭に豊漁と航海・操業の安全を祈願して、氏子町内からマントウ(万灯)とかタテモンと呼ばれる作り物が曳き出されるものである。
 　現在、例祭は８月７・８日の魚津まつりに合わせて行われている。この日、諏訪神社の神輿が町内をまわるが、タテモンは夜の行事であり神輿に随行することはない。
 　諏訪神社の氏子は、港町、諏訪一区・二区・三区・四区・五区、元町、下新一区・二区・三区、寺町、餌指町の12町内でその9割が漁師であった。以前はこのうち9町からタテモンが出ていたが、昭和に入り立町・下町・下新町が抜けて６基となり、第二次大戦後に港町が加わって現在は７基となっている。
 　タテモンは長さ３㍍、幅２㍍ほどの橇形の台に斜交いをわたし、四本柱を立てて上台をつける。この上台に長さ10㍍余の丸太を1㍍幅に2本つけ、その両端から6～8本のウデギ（腕木）をわたして担ぎ棒としこれをハシゴ（梯子）と呼ぶ。梯子の中央部一帯には綱を八の字に絡げて囃子方や稚児役の子どもたちの桟敷を作る。台ができたところで、斜交いの交差部分から上台を貫通して全長約15㍍ほどの杉の心棒を立てる。この心棒の途中には、それぞれ間隔をあけてナカガク（中額）という5つの角灯籠をつけ神社名などを書く。心棒の頂上には直径1.8㍍ほどのカサ（笠）という六角または八角の枠をつけ、この下に幕を吊るしてサルコという縫いぐるみを下げる。この飾り全体を六角・六角行灯などと呼び、ホコドメ（鉾留）とも呼ぶ。これは元来は太鼓の胴型に作って恵比須を描いたものであったが、現在では、下にエビスガク（恵比須額）・エビスアンドン（恵比須行灯）と呼ぶ丸行灯をつけるようになり、六角には縁起のよい文字や、町内の若者連中の名前を書いている。笠からは六本または八本のヤナギ（柳）と呼ぶ割竹の枝を垂らす。この枝のところどころに経木を房状にして飾るが、これはもともとは笹の葉を束にしたものであった。柳の数は本来は６本で、その後、装飾性を高める目的で８本のものが作られるようになったものである。
@@ -15,20 +15,19 @@
 　回転を終えたタテモンは、神前に進み代表者が幣帛を捧げた後、境内を出て町内に帰る。祭りの実行主体となるのは各町内の若者たちであるが特定の組織はなく、祭り全体としては、諏訪神社の氏子組織である総代会のほかにたてもん保存会が組織されている。
 　この行事の起源は定かではないが、江戸時代には各町内ごとにいくつかの提灯を台上に吊るし町内を担ぎ回るものであったという。その後、しだいに提灯の数を増し、明治時代は25個、大正時代初めころは50個ほどへと増加し、現在のような数に至ったといわれる。タテモンは「立てるもの」の意味であり、富山県内にも富山市東岩瀬や氷見市などにタテモンと呼ぶ作り物がみられる。
 この行事は、秋田の竿灯などの眠り流しの要素と風流灯籠などの風流行事の様態がうかがわれ、この地域を代表する行事である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.uozu.toyama.jp/event-topics/svTopiDtl.aspx?servno=3553>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C16204-19890601>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.uozu.toyama.jp/event-topics/svTopiDtl.aspx?servno=3553>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C16204-19890601>;
       <http://www.w3.org/2000/01/rdf-schema#label> "富山県魚津市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2018-08-19";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Shocoreo4212";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/たてもん祭り>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2018-08-19";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Shocoreo4212";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/たてもん祭り>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "享保年間中頃（1720年頃）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "享保年間中頃（1720年頃）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うおづのたてもんぎょうじ"@ja-hrkt, "魚津のタテモン行事"@ja .
-<https://w3id.org/ifcp/180/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/180>.
-<https://w3id.org/ifcp/180/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/180>.
+<https://w3id.org/ifcp/180/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/180>.

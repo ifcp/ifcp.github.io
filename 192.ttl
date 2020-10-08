@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/192>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/192/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年４月第３日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現4月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/192/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年４月第３日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現4月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　等覚寺の松会は、京都郡苅田町で行われる五穀豊穣、疫病退散、国家安泰を祈願する行事で、かつては2月19日に行われていたが、現在は4月第3日曜日に行われている。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　等覚寺の松会は、京都郡苅田町で行われる五穀豊穣、疫病退散、国家安泰を祈願する行事で、かつては2月19日に行われていたが、現在は4月第3日曜日に行われている。
   等覚寺は、明治の廃仏毀釈までは普智山等覚寺として、英彦山などとともに豊前六峰と呼ばれた修験道の拠点の１つであった。その名称は今でも大字山口の字名として残り、貫山の南東斜面の中腹に位置する標高300㍍ほどの山間の小集落である。
 　行事の準備は、まず４月１日に坪草刈りと柱起こしが行われ、マツバシラとかハシラマツともいわれる柱に添え木を取り付け、33か所を太い蔓で縛りつけ、縄で四方から引っ張って立てておく。
 　そして4月第2日曜日には、役出し座・注連下ろし・幣はぎ・盛一臈御座【もりいちろうござ】、綱打ち・綱掛けなどが行われる。役出し座は、松会に奉仕する人たちが白山多賀神社に集まり、松会での役を決める行事で、この日から松会行事が始まるとされている。
@@ -19,20 +19,19 @@
 　幣切りは、松役と呼ばれる、花笠を被った施主により行われる。施主は大幣を受け取って担ぎ、斜めに背負って白布で縛りつけ、柱の途中まで縄梯子で登ると、太い蔓を伝わって柱をまわりながらよじ登る。そして頂上に登り詰めると、神輿の方に向かって、天下泰平・国土安全・五穀成就の祈願文を読み上げ、右手に大幣を持って、天地四方を清め、その後、左手に大幣を持ち替え右手で刀を抜いて、大幣の幣串を一気に切り落とす。
 　翌日、柱は倒されて解体され、来年の施主に権現様の御絵図と御神刀・御神酒スズが渡され、行事は終了する。
 　この行事は、我が国の民間信仰に大きな影響を与えた修験の伝統をよく伝える特色ある行事である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C40621-19700401>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C40621-19700401>;
       <http://www.w3.org/2000/01/rdf-schema#label> "福岡県苅田町白川地区等覚寺"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Taka&Take";
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Taka&Take";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://shirakawanosato.sakura.ne.jp/shirakawa/tokakuji/matuetop.html>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "天歴８（９５４）年"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "天歴８（９５４）年"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とかくじのまつえ"@ja-hrkt, "等覚寺の松会"@ja .
-<https://w3id.org/ifcp/192/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/192>.
-<https://w3id.org/ifcp/192/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/192>.
+<https://w3id.org/ifcp/192/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/192>.

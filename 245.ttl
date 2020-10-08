@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/245>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/245/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年1月8日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/245/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年1月8日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　東光寺の鬼会は、兵庫県加西市上万願寺町の東光寺で行われる年頭の行事で、厄年の男性が扮する赤鬼と青鬼の２匹の鬼が登場し、松明や大きな鉾を振り回しながら堂内を巡って、１年の災厄を払うものである。鬼が登場する前には、田起こしや種蒔きなど稲作の作業過程を模擬的に演じる田遊びが行われ、１年の豊作が祈願される。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　東光寺の鬼会は、兵庫県加西市上万願寺町の東光寺で行われる年頭の行事で、厄年の男性が扮する赤鬼と青鬼の２匹の鬼が登場し、松明や大きな鉾を振り回しながら堂内を巡って、１年の災厄を払うものである。鬼が登場する前には、田起こしや種蒔きなど稲作の作業過程を模擬的に演じる田遊びが行われ、１年の豊作が祈願される。
 　加西市は、兵庫県の南部、播州平野のほぼ中央に位置する。東光寺は、市域北部の上万願寺町にあり、天台宗比叡山延暦寺の末寺である。かつては有明山満願寺と称していたが、天文７年（1538）に焼失し、同9年に再興し、東光寺と改称している。現在は無住であり、隣町にある同宗派の楊柳寺の住職が兼務している。薬師如来を本尊とすることから、地元では薬師堂と呼ばれ親しまれている。
 　鬼会は、この東光寺で年頭に行われる修正会の行事として伝承されてきたもので、毎年1月8日に行われる。当地に残る文書資料から、室町時代の末期にはすでに鬼会が行われていたであろうことが知られており、また、田遊びについては、享保2年（1717）に再興されたものといわれている。
 　行事の準備や運営は、上万願寺と下万願寺の2地区の人たちによって行われる。両地区から3人ずつ選ばれる宮委員と5人ずつ選ばれる世話役が行事運営の中心となる。前年の12月には、地区内の山々から松材を採取し、松明作りに取りかかる。年が明けて1月6日には、東光寺の庫裡や境内で供物にする鏡餅と本堂の内陣・外陣に飾る鬼の花の製作を行う。
@@ -17,20 +17,19 @@
 　田遊びは、まず福太郎、福次郎が木鍬を担いで、介添人を従えながら鬼部屋から登場する。そして、外陣を一周した後、内陣の前で田起こし、苗代作りの所作をし、次いで、住職が演じる田主から予祝の口上を受ける。福太郎と福次郎は、裃姿に面、烏帽子をつけ、地区内の還暦の男性が務める。介添人は、福太郎、福次郎を補佐する役目で、作務衣姿に手拭いを頭巾被りにし、行事に精通した年配者が務める。田主による予祝の口上が終わると、4人は米の入った半紙のおひねりを懐中から取り出し、種蒔きに見立てて参詣者に向かって投げる。種蒔きの後には、縄綯いの所作が行われ、最後に、苗取りの唱え言をいいながら、一行は再び外陣を一周して鬼部屋に引き上げる。
 　田遊びが終了すると、棒打ちがまた始まり、しばらくすると鬼が登場する。鬼は、赤鬼、青鬼の順で鬼部屋から出る。赤鬼は松明を振りかざし、青鬼は鉾を突き立てながら、東の出、西の出といって内陣の東西からそれぞれ6回ずつ計12回、外陣を回る。鬼の子たちは鬼の後ろについて棒で床を叩き、参詣者たちも「鬼こそ鬼よ」と声をかけて鬼をはやし立てる。
 　本件は年頭にあたって鬼が人びとの除災をするこの種の行事の典型例の一つで、我が国の民間信仰や年中行事の変遷を考える上で重要である。また兵庫県内では播磨から摂津にかけての地域に鬼の行事が数多く分布するが、田遊びの儀礼が結びついて伝承されている事例は少ない。さらに子どもたちが扮する鬼の子による棒打ちや鬼の花と呼ばれる作り物の奪い合いなど民俗的要素も豊富に伝えていて地域的特色も豊かである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282201260>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282201260>;
       <http://www.w3.org/2000/01/rdf-schema#label> "兵庫県加西市上万願寺町"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "加西市ふるさと創造部 文化・観光・スポーツ課";
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "加西市ふるさと創造部 文化・観光・スポーツ課";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.city.kasai.hyogo.jp/02kank/02muse/matsu/matur03.htm>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "室町末期頃"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "室町末期頃"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とうこうじのおにえ"@ja-hrkt, "東光寺の鬼会"@ja .
-<https://w3id.org/ifcp/245/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/245>.
-<https://w3id.org/ifcp/245/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/245>.
+<https://w3id.org/ifcp/245/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/245>.

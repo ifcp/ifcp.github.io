@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/236>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/236/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月１１～１５日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/236/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月１１～１５日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　五十猛のグロは、大田市五十猛町大浦地区に伝承される小正月の行事である。グロと呼ばれる円錐形の大きな仮屋を浜辺に作って歳徳神を迎え、その年の豊漁や無病息災を祈願し、最後に正月飾りとともに仮屋を焼き払う行事で、1月11日から15日までの5日間にわたって行われる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　五十猛のグロは、大田市五十猛町大浦地区に伝承される小正月の行事である。グロと呼ばれる円錐形の大きな仮屋を浜辺に作って歳徳神を迎え、その年の豊漁や無病息災を祈願し、最後に正月飾りとともに仮屋を焼き払う行事で、1月11日から15日までの5日間にわたって行われる。
 　五十猛町は、島根県のほぼ中央にある大田市の北西部に位置する。グロが伝承されている大浦地区は、日本海に面した町域の西端にあり、石見海岸では浜田に次ぐ県内屈指の漁港として栄えてきたところである。この行事は、大浦地区の漁師たちによって伝えられてきたもので、かつては網元を中心に行われていたが、現在は漁業に従事する家々によって構成される大浦グロ保存会を中心に伝承されている。
 　グロとは、行事の名称であるとともに、行事の際に竹を主な材料として作られる独特の小屋をさす呼称でもある。その語源は定かではないが、当地では、グロとは草むらや山中に建つ簡素な小屋のこと、あるいは草が密集している様子を言い表す語として用いられ、こうした関連から仮屋をグロと称するようになったといわれる。
 　行事の準備や運営は、大浦地区の家々を第一組と第二組とに分け、この2つの組が1年交替の当番制で行っている。第一組は、上一、上二、上三、竪町、本町の5つの自治会から、第二組は、柳町、上柳町、明神、朝日、日の出、団地の6つの自治会からなる。当番に当たった組は、その年に5人の世話人を選出する。世話人は、グロの材料集めや組み立てなどの準備作業をはじめ、供物の用意や儀礼に際しての献饌など、数日間にわたる行事の中心的な役割を担う。
@@ -17,20 +17,19 @@
 　翌15日は、早朝から当番の組の男性たちが浜辺に集まり、グロの解体が行われる。外されたセンボクサンは縁起物として希望者に売られ、船の防舷材や雨樋などに使用される。かつては競りで売買され、網元が高値を付けたといわれている。取り外された竹や笹など浜辺に高く積まれ、各家が持ち寄った松飾りや注連縄、古い御札とともに燃やされて、行事は終了する。
 　年の始めに仮屋を設けて神を迎え、予祝儀礼や火焚きを行う行事は、日本の各地に地域的特色をもって伝承されており、日本人の神観念や年中行事を理解する上で早くから注目されてきた。このような小正月の行事については、これまでに東北地方や関東地方など東日本の事例が指定されているが、五十猛のグロは、従来この種の行事の指定のなかった西日本地域の中で、特色ある小正月の行事として注目されるものであり、センボクサンを心柱とする円錐形の独特の仮屋を作り、その中で地区の人たちが共同飲食をするなど地域的特色も豊かである。
 　また、グロと呼ばれる小正月の行事は、島根県中部の沿岸部に伝承されてきたが、現在では大浦地区で行われるのみとなっている。神を迎え・送る一連の儀礼や禁忌などの民俗的要素もよく伝えており、我が国の年中行事や民間信仰の変遷を考える上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.all-iwami.com/spot/detail_1187.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.all-iwami.com/spot/detail_1187.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "いそだけのぐろ"@ja-hrkt, "五十猛のグロ"@ja .
-<https://w3id.org/ifcp/236/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/236>.
-<https://w3id.org/ifcp/236/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/236>.
+<https://w3id.org/ifcp/236/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/236>.

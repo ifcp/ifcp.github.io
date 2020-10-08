@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/122>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/122/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "旧暦閏年翌年の旧暦９月１７～１９日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現10月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/122/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "旧暦閏年翌年の旧暦９月１７～１９日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現10月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　室根神社祭のマツリバ行事は、古く熊野神をこの地に勧請したと伝えられる室根神社で行われる祭礼である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　室根神社祭のマツリバ行事は、古く熊野神をこの地に勧請したと伝えられる室根神社で行われる祭礼である。
 　万治２年（1659）の『東山上折壁村風土記』中に初見するように古い伝統を継承するもので、現行では初日の17日までに諸準備を完了して関係者一同が南流神社（この地方の開拓神を祀るとされる）に参詣する。
 　２日目の18日には新たに造営した仮宮をロクシャクガシラ（陸尺頭）の管理に移し、諸役を分担する一同がマツリバソロイ（仮宮の前に勢揃い）する。
 　第3日目の19日には室根神社の神輿2基が室根山八合目に鎮座する山宮を暗闇のなかで発輿し、途中タウエダン（田植壇）と呼ばれる場所で農耕に関する行事を行い、山降りして里の仮宮（お旅所）へ渡御する等の行事次第を繰りひろげる。
@@ -14,20 +14,19 @@
 　続くホロ先陣は、大名行列を模したものといわれ、その最後尾にはキョクロクと呼ばれる作り物が登場する。荒馬の背に乗せられた造華である。
 　また、６基のダシには、32人担ぎや40人担ぎ等のものがあり、マツリバソロイの折りに決められた順番に従って練りまわされ、オモテダシには合戦の場、ウラダシには昔話を題材にした作り物の出来具合が競われる。
 　この祭りは、荒馬祭りとも称され、従来、稲刈り後、麦まきを行うまでの時期になされたと伝えられる。厳格なジンヤク制によって分担され、３歳以上の雄馬を選定して人馬一体となり、荒馬先陣・キョクロク・ダシ等を繰り出すなど祭りの古態を良く止めているものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C03209-20170904>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C03209-20170904>;
       <http://www.w3.org/2000/01/rdf-schema#label> "岩手県一関市室根地域"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2017-05-11";
-      <http://purl.org/NET/cidoc-crm/core#P51> "一関市文化財課/文化財係";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2017-05-11";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "一関市文化財課/文化財係";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.ichinoseki.iwate.jp/index.cfm/6,57320,73,html>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "養老2年（718）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "養老2年（718）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "むろねじんじゃさいのまつりばぎょうじ"@ja-hrkt, "室根神社祭のマツリバ行事"@ja .
-<https://w3id.org/ifcp/122/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/122>.
-<https://w3id.org/ifcp/122/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/122>.
+<https://w3id.org/ifcp/122/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/122>.

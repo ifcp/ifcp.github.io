@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/283>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/283/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年12月31日、1月1日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現12月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/283/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年12月31日、1月1日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現12月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """ 松例祭の大松明行事は、山形県庄内地方に位置して日本海に面する鶴岡市羽黒町に鎮座する出羽三山神社で、12月31日から1月1日に行われる大松明を上・下に分かれて引く行事や国分け、火の打ち替えそして烏跳び、兎跳ねの験較べなどを中心にした行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """ 松例祭の大松明行事は、山形県庄内地方に位置して日本海に面する鶴岡市羽黒町に鎮座する出羽三山神社で、12月31日から1月1日に行われる大松明を上・下に分かれて引く行事や国分け、火の打ち替えそして烏跳び、兎跳ねの験較べなどを中心にした行事である。
   出羽三山神社は羽黒山山頂にあり、大松明を引く行事は、山麓に所在する手向(とうげ)の若者たちが古墓町、桜小路、下長屋町、亀井町の上四町と鶴沢町、池ノ仲町、入江町、八日町の下四町の二手に分かれて行い、上が勝てば豊作、下が勝てば豊漁になるといわれている。また、上は位上方、下は先途方ともいわれる。
 　行事は手向の氏子を中心とする人々によって担われている。この行事は、かつては羽黒修験の冬の峰の行事として行われ、大松明行事はその結願(けちがん)の行事として行われてきたが、明治初めの修験道廃止以降は手向の若者たちによって担われている。中世にはすでに行われていたといわれるが、史料としては近世のものとされる『羽黒三山古実集覧記』の冬の峰の記録に松聖や大松明引きの記事が見え、また貞享4（1687）年成立といわれる『羽黒山年中行事』に松聖の修行と大晦日の行事が記されているのが知られている。
 　大松明行事は長い期間にわたって行われる行事の最後の行事である。最初に行われる行事は2人の松聖を決めることで、8月中旬までに手向の氏子の中から位上と先途2人の松聖が決定される。松聖は手向に住む出羽三山神社の氏子の中から生年月日の早い順に決定するとされており、手向の氏子の人たちは子供が生まれるとすぐに神社に届け出記帳することになっている。この帳簿を太業と呼んでいる。松聖が決まると9月24日には幣立祭が行われ、この日から大晦日まで松聖が潔斎に入りお籠もりをする。この潔斎の間12月30日までに行事の費用を集めるために手向や増川郷などの近郷や鶴岡市内などを勧進に回る松の勧進と呼ばれる行事が行われる。
@@ -17,20 +17,19 @@
 　この験較べが終わると庭上では大松明引きが行われる。上と下に分かれて大松明を引いていって立ち上げ焼き払う。大松明を引き出してから立てるまでの早さと燃え具合で勝敗を競う。
 　新年を迎えると庭上では所司前、大目付、出役、法螺役、松打、役者などの諸役や、手向の各町若衆正副頭、正副カド持ちなどにより、全国を英彦山、熊野、羽黒の支配地に分ける国分けの行事が行われる。この行事が済むと火の打替の行事が行われる。この行事は新年にあたって新しい生命力のある清浄な火を切り出す儀礼であるといわれ、庭上に立てられて火がつけられた鏡松明から、4人の役者が手に持った松明に火をもらうと、火打ち金と火打ち石を手にした位上方、先途方各1人の松打が加わって火口を打ちながら鏡松明の周りを3周する。回り終わると火口を持ってカド持ちの所に行き、競って火口で新しい火を切り出し、早く火がついた方が勝ちとなる。この後、三神合祭殿で大松明引き、火の打ち替え行事の結果が報告され、上の位上方が勝ちと判断されれば豊作、下の先途方が勝ちと判断されれば豊漁になる。
 　一方、火の打ち替えの行事が終わるとカド持ちは松聖のいる補屋へ行き大松明引き、火の打ち替え行事の結果を報告する。結果を聞くと松聖は幣立祭以後の精進潔斎の間守り続けてきた興屋聖の中の五穀(米、麦、粟、稗、小豆)を取り出して補屋の土間に蒔いて補屋での行事も終了する。これらの行事がすべて済むと松例祭の関係者一同が斎館に集合して、にしの寿司といわれる精進落としの儀礼が行われる。最後に2人の松聖を自宅に送り届けて行事は終了する。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.dewasanzan.jp/publics/index/17/>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.dewasanzan.jp/publics/index/17/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "しょうれいさいのおおたいまつぎょうじ"@ja-hrkt, "松例祭の大松明行事"@ja .
-<https://w3id.org/ifcp/283/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/283>.
-<https://w3id.org/ifcp/283/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/283>.
+<https://w3id.org/ifcp/283/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/283>.

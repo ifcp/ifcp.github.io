@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/253>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/253/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月15日前後";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/253/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月15日前後";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　三島のサイノカミは、福島県大沼郡三島町で毎年1月15日を中心に行われている小正月の火祭りの行事で、五穀豊穣や無病息災などを祈願したり、厄払いのために行われる行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　三島のサイノカミは、福島県大沼郡三島町で毎年1月15日を中心に行われている小正月の火祭りの行事で、五穀豊穣や無病息災などを祈願したり、厄払いのために行われる行事である。
   近隣の山より神木を切り出し、これに稲藁や豆幹などを巻きつけ、オンベあるいはオンペイと呼ばれる御幣や正月飾りなどを吊り下げて、バンバと呼ばれる広い場所に立てて夜になると燃やす。この稲藁や正月飾りで飾り付けられ立てられた神木そのものもサイノカミと呼ばれる。
   三島町は、福島県の西部、只見川沿いの河岸段丘上に集落が形成され、農業のほか山仕事なども盛んに行われてきた町であり、現在、三島町内の宮下、桑原、大登、桧原、滝谷、川井、名入、滝原、西方の9地区がこの行事を行っている。また、このうち西方地区は戸数が多いため、13ケ所に分かれて行事を行っている。
 　滝谷地区を例に行事をみると、1月15日にサイノカミを行う。早朝から氏神の諏訪神社の前の広場に子どもたちが集まってバンバフミと称して雪を踏み固める。これが終わると、子どもたちは、地区をまわってモエグサと呼ばれる稲藁や豆幹、正月飾りなどを集め、バンバにもっていく。それらのうち鏡餅の下に敷いた紙や書初めなどの紙類は集会所へ届ける。
@@ -23,20 +23,19 @@
 　この行事は、作り物の形状については、十字型の滝谷地区、高い塔型の川井地区のほか、三角錐の桑原地区、小屋型の宮下地区など多様であるが、近隣の山より神木を切り出し、正月飾りなどをつけて立て、夜に燃やすという次第は共通する。また、子どもが会場づくりをし、正月飾りなどを集めるほか、大人の男性が神木を切り出し、老人がオンペイを製作し、厄年の男性がミカン撒きやサイノカミへの点火などを担当することが多い。
 　なお、桧原地区では、サイノカミの1ヵ月後に、燃え残った神木を利用して子どものサイノカミと称する小型のサイノカミを製作して燃やしている。
 　東北日本の日本海側にサイノカミの名称で伝承される小正月の火祭りの典型例の一つといえ、子どもや厄年の男性が行事に深く関わり、厄落としや年占の要素が濃厚にみられるという点でも特色があり、我が国の小正月行事を知る上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.mishima-kankou.net/20180112/>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.mishima-kankou.net/20180112/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "みしまのさいのかみ"@ja-hrkt, "三島のサイノカミ"@ja .
-<https://w3id.org/ifcp/253/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/253>.
-<https://w3id.org/ifcp/253/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/253>.
+<https://w3id.org/ifcp/253/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/253>.

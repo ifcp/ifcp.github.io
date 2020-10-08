@@ -1,11 +1,14 @@
 <https://w3id.org/ifcp/219/held/2018/>
-  <http://purl.org/NET/cidoc-crm/core#P12> 2018;
-  <http://purl.org/NET/cidoc-crm/core#P14> "鹿沼いまみや付け祭り保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/219>;
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-10-07";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-10-06"
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "鹿沼いまみや付け祭り保存会";
+  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/219>;
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-10-07";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-10-06"
+  ], [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "開催せず";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "開催せず"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASLB65DMXLB6UUHB00F.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092050100>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://afun7.com/archives/18013.html>, <https://www.asahi.com/articles/ASLB65DMXLB6UUHB00F.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092050100>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/178>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/178/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月２０・２１日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/178/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年７月２０・２１日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現7月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　土崎神明社は、土崎港中央3丁目の湊城本丸跡に祀られ、土崎港各町の総鎮守として崇敬されている。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　土崎神明社は、土崎港中央3丁目の湊城本丸跡に祀られ、土崎港各町の総鎮守として崇敬されている。
 　土崎湊は、室町時代末期の『廻船式目』に北国七湊の１つに数えられたが、慶長７年（1602）、佐竹義宣の入封によって一時荒廃するに至った。しかし、まもなく久保田城の門戸をなす湊として甦り、湊八丁と呼ばれる町並みを形成した。
  湊八丁は、上酒田町・下酒田町・新城町・永覚町・加賀町・小鴨町・萱村町（肴町）・菻【がつき】町で、17世紀後半に穀保町と新町が加わり10町となった。土崎神明社の氏子町内は、行政区画では33町内、旧町内単位では47町内となっており、各町内の神社は60社を数える。
 　土崎神明社の祭りは、「大祭り」と呼ばれ、明治以前は旧暦6月20・21日、その後、月遅れの7月20・21日となって、現在は新暦7月20・21日となっている。祭礼には旧町内を単位に曳山が奉納され、その数は年によって違う。祭りは、昭和45年までは統前町【とうまえちよう】と呼ばれる当番町内を中心に行われた。その後は全町内を9つの組に分けて回り番制とし、組単位で当番を引き受け、当番町は大祭典年番町と呼ばれるようになったが、一般には町名の前に統前を冠して呼ばれている。
@@ -20,20 +20,19 @@
 　曳山の櫓は、台車の前3分の2には岩と人形を飾り、場面を解説する外題を掲げる。後ろ3分の1には囃子方の乗る櫓を組み、櫓の上には世相を風刺した見返しの人形と文句を飾り、櫓の開口部の上部と左右には飾り灯籠をつけて、祭りの心意気や自町内を自慢する文句を書く。曳山は各山事に文句や節の異なる「音頭揚げ」によって動き出す。曳山はかつては女人禁制であったが、現在では女性の参加も多数みられるようになった。
 　曳山は巡行中随所で停まって、囃子の演奏により曳き手の若者や女性・子どもたちが路上で手踊りを披露する。
 　この行事は、大規模な祭礼であるとともに、多彩な儀礼を伴い、風流の要素を色濃く残したものとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://tutizaki-hikiyama.com>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://tutizaki-hikiyama.com>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C05201-20050111>;
       <http://www.w3.org/2000/01/rdf-schema#label> "秋田県秋田市土崎港地区"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
-      <http://purl.org/NET/cidoc-crm/core#P51> "ナレンコ";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-12-06";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "ナレンコ";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "1705年（宝永2年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "1705年（宝永2年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "つちざきしんめいしゃさいのひきやまぎょうじ"@ja-hrkt, "土崎神明社祭の曳山行事"@ja .
-<https://w3id.org/ifcp/178/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/178>.
-<https://w3id.org/ifcp/178/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/178>.
+<https://w3id.org/ifcp/178/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/178>.

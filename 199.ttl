@@ -1,29 +1,28 @@
 <https://w3id.org/ifcp/199>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/199/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年９月中旬";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現9月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/199/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年９月中旬";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現9月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　我が国には神幸行事に際して神霊の乗り物・風流の作り物として実物の船や模型の船、船型の山車などを曳き回す行事がみられる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　我が国には神幸行事に際して神霊の乗り物・風流の作り物として実物の船や模型の船、船型の山車などを曳き回す行事がみられる。
 　静岡県遠江地方には神社の秋祭りに精巧な船模型を担ぎ出して神幸行列を先導する行事がいくつか伝承され、榛原地方の相良町海老江の大江八幡神社、相良町波津の飯津佐和乃神社、榛原町鹿島の鹿島神社、榛原町細江の神明神社などはよく知られている。大江八幡神社の御船行事もこのうちの一つである。
 　この行事は、まず江戸時代に造られた樽廻船と菱垣廻船の模型「御船」を大江八幡神社拝殿脇に並べる。次いで柱起こしとして木遣唄に会わせて帆柱を起こし、さらに帆上げを行う。
 　次に神幸行列となり、その途中で出船・入船の練り唄に合わせて大海原をうねるように荒々しく操作する。各家では、門口に海砂を円錐型に盛り上げ、その上に塩とホンダワラを載せたものを一対用意し、「御船」が通行する直前に道路に撒く。　　この「御船」は、御旅所に着くと帆を下ろして帆柱を倒して休息する。そして再び柱起こし・帆上げをして神社に還御する。最後に神饌の牛の舌餅が氏子に配られる。
 　この行事は、享保年間（１７１６～１７３５）に相良湊の廻船問屋により始められたといわれるが、この地域に集中して見られる御船行事のなかでも、精巧な船模型を使い、各種の御船唄に合わせて柱起こし・帆上げ・練りなどを行うという点で全国的にも類例がなく、この種の行事の代表的なものとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.makinoharashi-kankoukyoukai.com/contents/miru_shiru/history/temp08_ofuneshinji.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.makinoharashi-kankoukyoukai.com/contents/miru_shiru/history/temp08_ofuneshinji.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおえはちまんじんじゃのおふねぎょうじ"@ja-hrkt, "大江八幡神社の御船行事"@ja .
-<https://w3id.org/ifcp/199/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/199>.
-<https://w3id.org/ifcp/199/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/199>.
+<https://w3id.org/ifcp/199/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/199>.

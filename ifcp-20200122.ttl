@@ -1,40 +1,40 @@
 @base <https://w3id.org/ifcp/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix crm: <http://purl.org/NET/cidoc-crm/core#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix ifcp: <https://w3id.org/ifcp/> .
 @prefix cate: <https://w3id.org/ifcp/category/> .
 ifcp:"&A2&"
-    rdf:type crm:E1 ;
+    rdf:type crm:E1_CRM_Entity ;
     rdfs:label """&C2&"""@ja ;
     rdfs:label """&D2&"""@ja-hrkt ;
-    crm:P3 """""""&E2&""""""" ; 
-    crm:P170 [
-    crm:P164 """&F2&""" ; 
-    crm:P3 """&G2&"""
+    crm:P3_has_note """""""&E2&""""""" ; 
+    crm:P170_defines_time [
+    crm:P164_during """&F2&""" ; 
+    crm:P3_has_note """&G2&"""
     ];
-    crm:P67 <"&H2&"> ;
-    crm:P141 <https://w3id.org/ifcp/"&A2&"/register> ; 
-    crm:P94 [
-        crm:P31 _:edit"&A2&" ;
-        crm:P81 """&S2&""" ; 
-        crm:P167 _:place"&A2&"
+    crm:P67_refers_to <"&H2&"> ;
+    crm:P141_assigned <https://w3id.org/ifcp/"&A2&"/register> ; 
+    crm:P94_has_created [
+        crm:P31_has_modified _:edit"&A2&" ;
+        crm:P81_ongoing_throughout """&S2&""" ; 
+        crm:P167_at _:place"&A2&"
     ];
-    crm:P2 "&J2&" ;
-    crm:P2 "&I2&" .
+    crm:P2_has_type "&J2&" ;
+    crm:P2_has_type "&I2&" .
 _:edit"&A2&"
-    crm:P67 <"&R2&"> ;
-    crm:P4 """&V2&""";
-    crm:P51 """&W2&""".
+    crm:P67_refers_to <"&R2&"> ;
+    crm:P4_has_time-span """&V2&""";
+    crm:P51_has_former_or_current_owner """&W2&""".
 _:place"&A2&"
     rdfs:label """&T2&""";
-    crm:P67 <"&U2&">.
+    crm:P67_refers_to <"&U2&">.
 <"&R2&">
-    rdf:type crm:E42 .
+    rdf:type crm:E42_Identifier .
 <"&H2&">
-    rdf:type crm:E42 .   
+    rdf:type crm:E42_Identifier .   
 <https://w3id.org/ifcp/"&A2&"/register>
-    rdf:type crm:E5 ;
-    crm:P4 """&K2&""" ;
-    crm:P67 """&L2&""" .
+    rdf:type crm:E5_Event ;
+    crm:P4_has_time-span """&K2&""" ;
+    crm:P67_refers_to """&L2&""" .

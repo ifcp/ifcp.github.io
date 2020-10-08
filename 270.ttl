@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/270>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/270/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "３年ごとの７月14日以後の直近の土、日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/270/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "３年ごとの７月14日以後の直近の土、日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現7月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　小菅の柱松行事は、新潟県に近接する長野県北東部に位置する飯山市瑞穂の小菅地区で五穀豊穣や天下太平を祈願して行われる行事である。集落に祀られる小菅神社の例大祭で、３年ごとの７月14日以後の直近の土、日曜日に行われる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　小菅の柱松行事は、新潟県に近接する長野県北東部に位置する飯山市瑞穂の小菅地区で五穀豊穣や天下太平を祈願して行われる行事である。集落に祀られる小菅神社の例大祭で、３年ごとの７月14日以後の直近の土、日曜日に行われる。
 　この行事は地区の中心部にある旧大聖院講堂前の広場を中心に行われる。行事の起源については不明であるが、16世紀には行われていたといわれている。例大祭は、前日の夜に行われる夜宮、例大祭当日の本祭、例祭行列、里社行列、柱松行列、柱松行事で構成される。
 　行事直前の日曜日には、小菅地区が中心になり東西（上と下ともいわれる）2本の柱松を立てる。柱松は、ソダと呼ぶ雑木の葉付きの枝をブドウヅルや縄で束ね、頂部に小菅の各家が祭りの前年や前々年に採って用意したススキを束ねた尾花を挿した高さ4㍍前後のものである。この柱松に使われるブドウヅルは近接する野沢温泉村の前坂が用意する。柱松作りは同じ飯山市内で小菅に隣接する針田、笹沢、関沢も関わるなど、複数の集落の参加によって行われる。
 　例大祭前日の午後には、旧大聖院護摩堂脇の滝で２人の松神子が禊ぎを行い、夕方には父親などや当番とともに小菅神社奥社に向かい一晩お籠りする。
@@ -21,20 +21,19 @@
 　この行事は、本来田植え終了後の時期に行われていた行事で、五穀豊穣を占い、豊作をもたらしてくれるものとして柱松にさされた尾花や松榊、ソダなどを奪い合って持ち帰り、畑の害虫よけにするなど、豊作祈願としての性格が強くうかがえる行事である。また、山に籠もり柱松に点火する役割が子供によって担われている点にも地域的特色がうかがえる。
 　このように柱松を立てる行事は、年占、祖霊の送り迎えなどの要素を持って日本各地に点々と存在していることが知られているが、その中でも本行事は五穀豊穣、天下太平を祈願する性格が強く認められ、祖霊迎えの要素はあまり見られない。
 　以上のことから、この行事は、我が国の柱松行事の分布や性格を考える上で重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://kosugejinja.jp/about/shrine/>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://kosugejinja.jp/about/shrine/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "こすげのはしらまつぎょうじ"@ja-hrkt, "小菅の柱松行事"@ja .
-<https://w3id.org/ifcp/270/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/270>.
-<https://w3id.org/ifcp/270/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/270>.
+<https://w3id.org/ifcp/270/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/270>.

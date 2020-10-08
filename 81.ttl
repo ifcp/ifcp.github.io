@@ -1,28 +1,27 @@
 <https://w3id.org/ifcp/81>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/81/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年８月２～７日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/81/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年８月２～７日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　この行事は、いわゆる「ねむりながし」の習俗、すなわち仕事の妨げとなる眠気を送り出す習俗が風流化したものである。このような災厄を払い、無事息災を祈る行事は、東北地方をはじめ各地に見られるが、特に青森市と弘前市では盛大なものが行われてきた。青森のものは勇壮華美、弘前のものは古風さに特色があり、青森は組ねぶた、弘前は扇ねぷたで著名である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　この行事は、いわゆる「ねむりながし」の習俗、すなわち仕事の妨げとなる眠気を送り出す習俗が風流化したものである。このような災厄を払い、無事息災を祈る行事は、東北地方をはじめ各地に見られるが、特に青森市と弘前市では盛大なものが行われてきた。青森のものは勇壮華美、弘前のものは古風さに特色があり、青森は組ねぶた、弘前は扇ねぷたで著名である。
 　青森の組ねぶたは、台上に歴史上の人物、物語の中の人物等で勇壮なものを題材にとり、木や竹などを骨組みとした紙製の人形を飾ったもので、人形の中に灯をともす。一種の灯籠で、大小さまざまある。
 　この「ねぶた」は、笛・太鼓の囃子に「はねと」等多数が一団となって町を練りまわる。現在「ねぶた」は大型のものは企業、公共団体等、小型のものは町内会、幼稚園、子供会等から出され、これに参加するものは青森市内全域にわたっている。
 　これらの中には、金魚ねぶた、一人１担ぎねぶた、二人担ぎねぶた、四人担ぎねぶた等の古様を示すねぶたも参加し、歴史的な変遷もうかがうことができる。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.nebuta.jp>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C04100-20190401>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.nebuta.jp>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C04100-20190401>;
       <http://www.w3.org/2000/01/rdf-schema#label> "陸奥国"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-09-19";
-      <http://purl.org/NET/cidoc-crm/core#P51> "ITA-ATU";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/青森ねぶた>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-09-19";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "ITA-ATU";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/青森ねぶた>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "三十八年戦争・第3期"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "三十八年戦争・第3期"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "あおもりのねぶた"@ja-hrkt, "青森のねぶた"@ja .
-<https://w3id.org/ifcp/81/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/81>.
-<https://w3id.org/ifcp/81/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/81>.
+<https://w3id.org/ifcp/81/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/81>.

@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/250>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/250/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月15日に近い土・日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/250/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月15日に近い土・日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　酒津のトンドウは、鳥取県鳥取市気高町の酒津に伝承される小正月の火祭りで、トンドウと呼ばれる円錐形の大きな作り物を海岸につくって火を点け、正月に迎えた歳神を送るとともに、一年の無病息災や豊漁を祈願する行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　酒津のトンドウは、鳥取県鳥取市気高町の酒津に伝承される小正月の火祭りで、トンドウと呼ばれる円錐形の大きな作り物を海岸につくって火を点け、正月に迎えた歳神を送るとともに、一年の無病息災や豊漁を祈願する行事である。
 　トンドウとは、火祭りの行事名称であるとともに、行事のときに松や竹、藁などを材料として作られる円錐形の作り物の呼称ともなっている。
 　気高町は、鳥取県東部に広がる鳥取市の沿岸部に位置する。トンドウが伝承されている酒津地区は、北に日本海を望み、背後の三方を山に囲まれた集落で、イワシ漁やサバ漁を中心とする漁業を生業としてきたところである。昭和20年代に酒津隧道が開通するまでは、他村との行き来もほとんどない漁村であったといわれている。
 　トンドウは、この酒津地区にある東条、大中条、小中条、西条、樽谷の5つの地区の人達によって伝承されてきた行事で、かつては旧暦1月14・15日に行われていたが、昭和30年代に新暦に移行し、近年は1月15日に近い土・日曜日を期日としている。　行事初日には、トンドウの組み立てと子どもたちによるコリトリ（垢離取り）が行われ、翌日の深夜、子どもたちによる火入れの予告の後、早朝にトンドウに火が点けられる。
@@ -21,20 +21,19 @@
 　年頭にあたり、大火を焚いて1年の無事を祈ったり、生業を予祝する行事は、日本各地に地域的特色をもって伝承されているが、この行事は、トンドウと呼ばれる大きな作り物を燃やして歳神を送り、1年の無病息災などを祈願するもので、小正月に行われる火祭りの典型例の一つと考えられる。
 　また、子供たちによるコリトリの儀礼が伴うことや、頭送りや一番頭など伝承組織に年齢階梯的な秩序がよく守られているなど地域的特色も豊かである。
 　小正月の火祭りについては、これまで東方地方や関東地方の事例が主に指定されているが、この行事はこれまでに指定例の少ない西日本のうち、山陰地方沿岸部に伝承される特色ある行事として注目されるものであり、伝承状況も良好であることから、我が国の年中行事や民間信仰の変遷を考える上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://db.pref.tottori.jp/bunkazainavi.nsf/bunkazai_web_view/ED924928115C630F4925796F0007FF1C?OpenDocument>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://db.pref.tottori.jp/bunkazainavi.nsf/bunkazai_web_view/ED924928115C630F4925796F0007FF1C?OpenDocument>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "さけのつのとんどう"@ja-hrkt, "酒津のトンドウ"@ja .
-<https://w3id.org/ifcp/250/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/250>.
-<https://w3id.org/ifcp/250/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/250>.
+<https://w3id.org/ifcp/250/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/250>.

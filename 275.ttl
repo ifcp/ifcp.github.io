@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/275>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/275/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月初旬～10月下旬（宵祭・朝祭は8月第一土日曜日）";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現8月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/275/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年７月初旬～10月下旬（宵祭・朝祭は8月第一土日曜日）";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現8月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　須成祭は、愛知県海部郡蟹江町須成にある冨吉建速神社と八剱社の例祭である。疫病退散を祈願する天王信仰に由来する祭礼行事で、華やかな車楽船の出る行事と1年の穢れを植物の葭に託して川に流す神葭流しの2つの行事を中心に構成される。この祭は、通称百日祭とも呼ばれるように、7月初旬から約3か月にわたって祭事が続き、祭りの中心となる8月初旬の宵祭と翌日の朝祭には船が蟹江川に出され、朝祭の翌日に神葭流しが行われる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　須成祭は、愛知県海部郡蟹江町須成にある冨吉建速神社と八剱社の例祭である。疫病退散を祈願する天王信仰に由来する祭礼行事で、華やかな車楽船の出る行事と1年の穢れを植物の葭に託して川に流す神葭流しの2つの行事を中心に構成される。この祭は、通称百日祭とも呼ばれるように、7月初旬から約3か月にわたって祭事が続き、祭りの中心となる8月初旬の宵祭と翌日の朝祭には船が蟹江川に出され、朝祭の翌日に神葭流しが行われる。
   蟹江町須成は、愛知県の西部、木曽川下流域の水郷地帯にあり、町域の中央を蟹江川が貫流する。生業は農業を中心とするが、地理的に名古屋市と町域の東で接しており、海部郡南部を代表する在郷町として発達してきた。
 　冨吉建速神社は、明治以前は冨吉天王と呼ばれた天王社で、須成を中心とする冨吉荘の総鎮守として信仰を集めてきた。一方、八剱社は、古くは五社と呼ばれ、熱田神宮と縁の深い神社と伝えられている。両社はともに須成の鎮守として相殿で祀られ、両社を合わせて須成神社とも呼ばれている。
 　須成祭は、その起源は定かではないが、津島神社の天王祭で流した葭を須成の若者が持ち帰ったことに始まるという伝承がある。また、尾張藩が宝暦5（1755）年に尾張地方の祭礼を記録した『尾陽村々祭礼集』には、「冨吉天王之祭、船祭一輌、打囃子試楽有、村下之橋より天王橋迄渡」とあり、現在と同様の祭りの形態がうかがわれ、『尾張名所図会』の付録として知られる『小治田之真清水』には須成祭の絵図が載せられており、大勢の観衆とともに、蟹江川での船祭りや葭流しの情景が描かれていて、近世における須成祭の賑やかな様子を伝えている。祭りの期日は、旧暦6月17日、18日が宵祭、朝祭であったが、昭和40年に新暦に改められ、8月の第一土、日曜日に行うようになり、現在に至っている。
@@ -17,20 +17,19 @@
 　一方、神葭流しは、宵祭までに「葭刈準備」「葭刈」「葭揃え」が行われる。「葭刈準備」では、ちまき作りと葭を刈り取る用具の準備を行い、その翌日が「葭刈」となる。蟹江川下流の弥富市にある亀ヶ池に行き、ご神体となる神葭の材料を刈り取ってくる。亀ヶ池までは、天王橋から川舟で下るが、その途中、若衆が橋の上や川岸にいる人たちにちまきを投げ与える。「葭揃え」では、刈ってきた葭を切り揃えて大きな葭の束を4本作り、神饌とともに社殿に供える。この葭束を「御神葭様」という。その後、朝祭の翌日が「葭流し」となる。早朝に、祭三役と葭刈役の若衆が社殿から神葭を蟹江川まで運び出し、舟の上で葭の束を十文字に組み、その中心に1年間の災厄を託した幣束を差し立て川に浮かべる。かつては、葭が流れ着いた地域が疫病退散を祈願して、葭を厳粛に祀っていたが、現在は、川の中に立てた4本の笹竹の間に納めておく。神葭は、この七日後に「棚上り」といって引き上げ、神社境内に設えた棚に遷し、灯明や供物をあげて祀る。これ以後「御神葭様参り」といって、70日間、地区の人たちが班単位に期間を割り振って毎日参拝する。70日目には「棚下し」が行われ、御神葭様を棚から下ろして境内で燃やし、長きにわたる須成祭の行事は終了する。
 　夏の祭礼行事として、祇園祭とともに、疫病除けの牛頭天王の信仰に由来する天王社の祭りとして注目されるものである。天王信仰に因む行事が広くみられる愛知県下において、風流的に発達した車楽船の出る優雅な船祭りと、葭に対する古い信仰を伝える神葭流しの2つの要素を伝えている類例の少ない伝承例であり、2つの行事を中心に種々の儀礼や行事が長期にわたって執り行われていることも貴重である。
 　祭礼船の出る天王祭は、木曽川中・下流域を中心に伝承されてきたが、現在では廃絶した事例が少なくない。そうしたなかで、本件は、天王信仰に由来する同種の祭礼行事の典型例と考えられるものであり、多度参りや投げ花など地域的な特色もみられ、我が国の夏の祭礼やその変遷を理解する上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.kaninavi.jp/html/sunari/index.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C23425-19960701>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.kaninavi.jp/html/sunari/index.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C23425-19960701>;
       <http://www.w3.org/2000/01/rdf-schema#label> "愛知県海部郡蟹江町"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-04-18";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Asturio Cantabrio";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/須成祭>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-04-18";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Asturio Cantabrio";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/須成祭>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "天文17年（1548年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "天文17年（1548年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "すなりまつりのだんじりぶねぎようじとみよしながし"@ja-hrkt, "須成祭の車楽船行事と神葭流し"@ja .
-<https://w3id.org/ifcp/275/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/275>.
-<https://w3id.org/ifcp/275/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/275>.
+<https://w3id.org/ifcp/275/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/275>.

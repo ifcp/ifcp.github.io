@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/301>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/301/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年３月3日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現3月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/301/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年３月3日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現3月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　浦佐毘沙門堂の裸押合は、新潟県南魚沼市浦佐にある普光寺の毘沙門堂で行われる春先の行事で、寒冷のなか上半身裸の男性たちが除災招福や五穀豊穣などを願って、堂内で激しく押合いをする。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　浦佐毘沙門堂の裸押合は、新潟県南魚沼市浦佐にある普光寺の毘沙門堂で行われる春先の行事で、寒冷のなか上半身裸の男性たちが除災招福や五穀豊穣などを願って、堂内で激しく押合いをする。
 　南魚沼市は、新潟県南部の魚沼盆地に位置する。裸押合が伝承されている浦佐は、市域の北部となる旧大和町の中心にあり、近世には三国街道の宿場町として栄え、信濃川支流の魚野川を利用した河川交通の要衝でもあった。また、毘沙門堂の門前町としても発達し、定期的に門前に立った毘沙門市には、日用品をはじめとするあらゆる物資や近在の商人たちが集い、この地方の重要な経済交流の場であった。近代以後は、昭和57年の上越新幹線の開通に伴う浦佐駅の開業が大きな転機であり、地域の開発が進むとともに、毘沙門堂への参詣者も増え、裸押合にも市外から多くの参加がみられるようになり、現在に至っている。
 　毘沙門堂は、大同2年（807）に坂上田村麻呂によって創建されたという開基伝承を持ち、その別当寺として建てられた真言宗普光寺の境内にある。本尊の毘沙門天は、農業の神としてこの地方一円から信仰を集めており、境内の別行殿に秘仏として安置されている。毘沙門堂には、前立本尊と呼ばれる椿の木で造られた木像が厨子に納めて祀られており、中越地方の各地には、浦佐と同じ椿の木から造立されたという毘沙門天の伝承もある。
 　裸押合は、その起源は詳らかでないが、かつては堂押とも呼ばれ、近世後期には、この地方における大きな祭りとして知られていた。天保年間（1830～44）に刊行され、越後魚沼地方の生活を描写した鈴木牧之『北越雪譜』には、「浦佐の堂押」として取り上げられており、「人気にて堂内の熱すること燃がごとく」などと押合いの活況な様子が記されている。行事の期日は、かつては正月3日に行われていたが、明治5年の改暦に際し、現在の3月3日に改められている。
@@ -15,20 +15,19 @@
 　裸押合は、参加者の水行と参拝、福物撒与、ササラスリ、御灰像と大鏡餅の撒与から構成される。参加する男性たちは、ハンタコと呼ばれる下衣をつけ、腹には晒を巻き、白足袋を履く。上半身は裸である。参加者は、市内の会館などで着替えると列を組んで普光寺に向かい、夕方から境内にあるうがい鉢と呼ばれる水場で肩まで水中に浸かり、垢離をとる。これは水行と呼ばれ、浦佐多聞青年団、ローソク講中、中学生、一般参加者の順番で行われる。青年団は、水行の後、境内や堂内で、豊年踊りと呼ばれる稲の刈り取りの所作を真似た踊りを奉納する。参加者の一行は、順次、毘沙門堂に参拝すると堂内で押合いをはじめる。押合いの中、群衆を押し分けて内陣に到達し、内陣係に引き上げられた者だけが毘沙門天への参拝を許される。
 　裸押合が行われている間には、毘沙門天に奉納された種々の品々が、福物撒与と称して、参詣者や押合いをする者たちに向けて撒かれる。福物は、餅のほかに穀種と金盃、銀盃などの盃があり、撒与者と呼ばれる奉納者が青年団の肩に乗り、提灯持ち、ローソク持ち、警護役などを従えて堂内に入り、奉納する。福物撒与は、時間を定めて三回行われ、奉納物名を書いた木札が撒与者によって内陣の中央から撒かれ、これを裸の男性たちが「サンヨ、サンヨ」の掛け声とともに激しく奪い合う。この木札は、行事の終了後に品物と交換される。堂内の福物撒与と同時に、毘沙門堂と並んで建つ別行殿の屋根から弓張提灯が撒かれ、参拝者がこれを奪い合う。弓張提灯は、奪い合いで壊れるが、骨組の一本だけでも田の水口にさすと豊作になるといわれている。
 　深夜になり、裸押合が佳境を迎える頃、青年団に肩車された年男が入堂し、五穀豊穣を祈願するササラスリが行われる。年男は、毘沙門堂の堂守である井口家の当主が世襲でつとめる。年男は、烏帽子を被り、狩衣と袴を着けて正装しており、本尊と向かい合うと、音頭取の歌に合わせてササラを擦りはじめ、豊作の唱え事をする。それを合図に、堂内で押し合っていた男たちは、年男の周りを二重、三重の輪になって足踏みしながら左回りにまわりはじめる。最後に年男の胴上げが行われ、ササラが本尊の厨子に納められると、普光寺住職が大護摩の灰を型に入れて作った12体の毘沙門天の御灰像と2組の大鏡餅が堂内で撒与され、行事は終了となる。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://yamatokankou.jp/osiainixtutei.htm>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://yamatokankou.jp/osiainixtutei.htm>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うらさびしゃもんどうのはだかおしあい"@ja-hrkt, "浦佐毘沙門堂の裸押合"@ja .
-<https://w3id.org/ifcp/301/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/301>.
-<https://w3id.org/ifcp/301/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/301>.
+<https://w3id.org/ifcp/301/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/301>.

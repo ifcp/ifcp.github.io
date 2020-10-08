@@ -1,1 +1,1 @@
-ttl2html poorman-p5-20200827.ttl poorman-p6-20200827.ttl ifcp-event-p5-2018-20200827.ttl ifcp-event-p6-2018-20200827.ttl ifcp-event-p5-2019-20200827.ttl ifcp-event-p6-2019-20200827.ttl ifcp-category-20200624.ttl
+ttl2html poorman-p5-20201008.ttl poorman-p6-20201008.ttl ifcp-event-p5-2018-20201008.ttl ifcp-event-p6-2018-20201008.ttl ifcp-event-p5-2019-20201008.ttl ifcp-event-p6-2019-20201008.ttl ifcp-category-20201008.ttl

@@ -1,29 +1,28 @@
 <https://w3id.org/ifcp/79>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/79/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月１～１５日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/79/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年７月１～１５日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現7月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　博多祇園山笠行事は、承天寺開山の聖一国師（圓爾弁圓）が施餓鬼棚に乗り、疫病退散を祈願したことに由来するという。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　博多祇園山笠行事は、承天寺開山の聖一国師（圓爾弁圓）が施餓鬼棚に乗り、疫病退散を祈願したことに由来するという。
 　櫛田神社の夏祭に奉納されるこの行事は、博多の呉服流・東町流・西町流・土居流・洲崎流・石堂流・魚ノ町流の各流【ながれ】を基盤に継承され、現在にいたっている。
 　７月１日の辻祈祷にはじまり、各流（町内）ごとに山笠の飾り付けなどをなすとともに、神霊を山笠に移すオカミイレの儀礼をなし、８日または９日には神に供える汐井とりをし、10日には流舁き、11日には朝山・他流舁きと続き、12日には追山ならしと称して各山笠が櫛田入りを競う、
 　さらに13・14日両日も流舁き・他流舁きと山笠舁きがなされた後、15日には追山笠と称して早朝に各山笠の櫛田入りが競われる。往時は差山笠・堂山ともに高さ20数尺の山笠をそのまま舁きまわっていたが、市街地化に伴って丈の高いものは舁くことができなくなり、飾り山笠として各町内に据えるものと、これと別に高さ9尺に制限した山笠を作って舁くように変化した。
 　山笠舁きは会所における協議にもとづき、大老・中老・若者中等の年齢階梯制に応じて役割を分担するほか、台あがり、棒さばきおよび舁き役は揃いのはっび・はちまき姿で、特に舁き役はタスキと呼ばれる繩を使って山笠舁きに臨むなど、その諸行事は勇壮豪快である。九州北部における山笠の神幸行事の典型例の１つとして重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.hakata-yamakasa.net>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C40132-19720401>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.hakata-yamakasa.net>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C40132-19720401>;
       <http://www.w3.org/2000/01/rdf-schema#label> "福岡市博多区"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2020-01-13";
-      <http://purl.org/NET/cidoc-crm/core#P51> "240f:41:1ef0:1:89e5:3c:9a84:d50";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/博多祇園山笠>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2020-01-13";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "240f:41:1ef0:1:89e5:3c:9a84:d50";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/博多祇園山笠>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "1241年（仁治2年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "1241年（仁治2年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はかたぎおんやまかさぎょうじ"@ja-hrkt, "博多祇園山笠行事"@ja .
-<https://w3id.org/ifcp/79/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/79>.
-<https://w3id.org/ifcp/79/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/79>.
+<https://w3id.org/ifcp/79/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/79>.

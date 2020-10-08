@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/228>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/228/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年２月第２日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現2月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/228/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年２月第２日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現2月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　鳥羽の火祭りは、幡豆町の鳥羽地区で行われている正月行事で、地区を二分し、燃え盛るスズミと呼ばれる大松明の中から「神木」と「十二縄」を取り出して神前に供える速さを競い、その勝敗や松明の燃え具合などで作柄や一年の吉凶などを占う行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　鳥羽の火祭りは、幡豆町の鳥羽地区で行われている正月行事で、地区を二分し、燃え盛るスズミと呼ばれる大松明の中から「神木」と「十二縄」を取り出して神前に供える速さを競い、その勝敗や松明の燃え具合などで作柄や一年の吉凶などを占う行事である。
 　行事は旧鳥羽村の村社である神明社の境内で行われ、古くは旧暦１月７日に行われていたが、昭和45年からは２月の第二日曜日に行われることとなった。
 　神明社脇を流れる鳥羽川を境に、東側の九番組、十番組を「乾地」、西側の十一番組、十二番組を「福地」という形で地区を二分する。そして神明社の氏子の中から選ばれた９人の宮係（宮役）とそのうちの１人が務める宮総代が中心となって執行され、行事の参加者は忌みの罹っていない男性に限られる。
 　乾地、福地の若者からそれぞれ１人ずつ神男が選ばれ、祭りの中心的な役割を務める。この神男は、前年の祭り当日に決められ、かつては25歳の厄男の中からくじ引きで選ばれていたが、現在では宮総代が依頼するようになり、年齢も原則扱いとなった。神男は、現在では祭り前の3日（かつては7日）神社に籠もり、自分で煮炊きした料理を食べて精進潔斎をする。神男は他に、スズミの材料集めやミソギの先導役を務めたり、祭り当日はスズミの燃え具合を煽る役を務める。
@@ -19,20 +19,19 @@
 　祭り当日、祭り参加者は午後2時頃に社務所に集合し、晒の下帯に白足袋・鉢巻を付けた姿に身を調え、神男を先頭に宮係の先導で隊列を組んで浜に行き、ミソギをする。海中でのミソギは、福地の神男が御幣を付けた竹棹を海に投げ入れ、これを乾地の神男が拾って終わる。その後ミソギの一行は再び隊列を組んで神明社に戻り、境内に祀られてある稲荷大明神に御幣竹を奉じた後、いったん帰宅して夕方の祭りに備える。
 　夕刻、氏子総代がヒツケ役を自宅に迎えに行く。その後、神明社の拝殿にて神男らのお祓いが行われ、拝殿脇に控えているネコ姿の奉仕人を塩で清めた後、ヒツケ役を先頭にスズミに向かう。スズミの前で神官によるお祓いが行われ、最後の塩が撒かれた後、神男がヒツケ役によってきりだされた火を用いて、スズミに点火する。
 　年の初めにその年の豊凶を占う年占の行事は、日本各地に地域的特色をもって伝承されており、一部には修正会との関連をうかがわせるものもみられる。本件は、そうした数少ない事例で、「神男」を中心とした塩垢離とりの習俗や、大型の松明の製作と材料の調達などに地域をあげての参加がみられ、伝承の根強さを示している。また、燃えさかる大松明の中から神木や十二縄を取り出す競争は他に類例が少なく、地域的特色も豊かである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.katch.ne.jp/~toba-shinmeisha/himatsuri/index.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C23213-20110401>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.katch.ne.jp/~toba-shinmeisha/himatsuri/index.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C23213-20110401>;
       <http://www.w3.org/2000/01/rdf-schema#label> "愛知県西尾市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-21";
-      <http://purl.org/NET/cidoc-crm/core#P51> "Urania";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/鳥羽の火祭り>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-12-21";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Urania";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/鳥羽の火祭り>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "平安時代"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "平安時代"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とばのひまつり"@ja-hrkt, "鳥羽の火祭り"@ja .
-<https://w3id.org/ifcp/228/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/228>.
-<https://w3id.org/ifcp/228/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/228>.
+<https://w3id.org/ifcp/228/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/228>.

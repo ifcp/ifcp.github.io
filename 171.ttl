@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/171>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/171/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月３日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/171/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月３日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　発光路の強飯式は、発光路妙見神社の祭り当番の受け渡しの儀式として行われているもので、氏子の扮した山伏と強力が、新太夫・古太夫の新旧の祭り当番をはじめ、氏子の人々に対して高盛飯を強いる行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　発光路の強飯式は、発光路妙見神社の祭り当番の受け渡しの儀式として行われているもので、氏子の扮した山伏と強力が、新太夫・古太夫の新旧の祭り当番をはじめ、氏子の人々に対して高盛飯を強いる行事である。
 　発光路は、栃木県北西部、足尾山地の中を流れる粕尾川沿いに位置する山村である。この地は古くから日光修験との関係が強く、横根山・地蔵岳と近接の古峯高原は、春峯修行の重要な巡路であった伝えられている。
 　妙見神社は、かつて権現様とも呼ばれ、文禄4年（1595）に日光より遷宮されたという伝承も残っている。この行事は、日光責めの異名をもつように、日光修験の流れをくむもので、日光の輪王寺の強飯式や生岡神社の子供強飯式などと共通する内容をもつ。
 　行事は、正月３日の妙見神社の祭礼終了後に、地区公民館で行われている。行事に参加できるのは、地区内の氏子全戸であったが、昭和40年代末に神社の青年部が組織され、以後はこの青年部が行事を主催するようになった。現在の青年部は、32歳から43歳までの男子が構成員となっている。
@@ -17,20 +17,19 @@
 　一同に飯を強いた後、強力は最後に立ち上がり、謡に合わせて四股を踏みながら、山伏の回りを右回りに3回まわって式を終える。
 　強飯用の料理は、かつては祭りの当番の家で調理されていたが、現在では青年がつくっている。
 　この行事は、祭り当番の受け渡し儀式とともに、望ましい村人としての資質を育てようとする性格もうかがわせる行事であり、重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C09205-20110801>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C09205-20110801>;
       <http://www.w3.org/2000/01/rdf-schema#label> "栃木県鹿沼市"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2018-12-25";
-      <http://purl.org/NET/cidoc-crm/core#P51> "鹿沼市教育委員会事務局文化課文化財係";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2018-12-25";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "鹿沼市教育委員会事務局文化課文化財係";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.kanuma.tochigi.jp/0299/info-0000001963-0.html>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "延文年間（1356～1361"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "延文年間（1356～1361"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ほっこうじのごうはんしき"@ja-hrkt, "発光路の強飯式"@ja .
-<https://w3id.org/ifcp/171/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/171>.
-<https://w3id.org/ifcp/171/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/171>.
+<https://w3id.org/ifcp/171/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/171>.

@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/162>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/162/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月７日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/162/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月７日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　大善寺玉垂宮の鬼夜は、久留米市大善寺玉垂宮に伝承されている行事である。12月31日のオニビトリ（鬼火採り）から始まり、この火が神殿奥にて守られる１月７日まで行われる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　大善寺玉垂宮の鬼夜は、久留米市大善寺玉垂宮に伝承されている行事である。12月31日のオニビトリ（鬼火採り）から始まり、この火が神殿奥にて守られる１月７日まで行われる。
 　鬼夜の大松明は、かつては前日の１月６日に作っていたが、現在は人手の都合などもあって４日に作っている。この松明は大字宮本の６つの字がそれぞれムラヨリといい全戸が参加して作って奉納するもので、一番松明から六番松明の６本となっている。芯に直径20㎝ほどの孟宗竹を３本束ねて入れその周囲に笹竹を寄せて回し、さらにそのうえを直径3～4㎝ほどの真竹で包み込んで化粧竹とする。火をつける頭には枯れた杉葉を入れて切り口を揃え、この上に頭の方から7本・5本・3本と縄を掛けて結び、同様に根元側からも同じく七五三と縄を掛けて男結びにする。
   大松明の胴を縛る縄は、2本回しで1年の日数を表す365ヶ所、閏年の場合には366ヶ所を縛る。大松明の末端はかずらの蔓で縛り尻縄を付ける。
 　祭り当日の７日は、昼の鬼面尊【きめんそん】神事から始まる。神社から迎えを受けた赤司家と川原家の人たちによって鬼面尊の面が本殿から阿弥陀堂へ奉遷される。このなかで種蒔き行事も行われる。これは神前に供えた玄米を用いて行われるが、その玄米は神官によって正月14日のドンドの日に粥に炊かれ、4月11日の御田祭の当日に粥の表面に発生したカビの具合によって五穀の豊凶や風災害の予測などが占われる。これをカビ占いという。
@@ -17,20 +17,19 @@
 　回り終えた一番松明は境内から総門を潜って霰川の堤防にシオイガキに向かう。
 　大松明のシオイガキとともに鬼のシオイガキが行われる。大松明の明かりを避け建物の陰を縫いながら霰川へと向かい、終了後は本殿に一気に駆け込む。ここで、鐘楼の鐘が七・五・三と打たれる。これをヤクガネといいすべての行事が終了したことを示すもので、勝田氏が務めることとなっている。
 　この行事は、その規模においても特筆される火祭りである。小正月の火祭りに追儺の儀式が結び付いたもので、周辺の同種の行事の存在から天台修験の影響も推測される。行事は種蒔き神事などの農耕儀札や、鬼役が人目にふれずに行動すること、大松明のシオイガキなどに特色ある形態を残していること、大松明の奉納やタイマツマワシを玉垂宮の氏子が務め、鉾面神事や鬼役・数取り役・ヤクガネ打ちなどの主要な役が特定の世襲の家筋で務められるなど、地域と社寺が一体となって執行していることなど、多様な要素と内容とを具備しており、この地方の年頭の火祭り行事を代表するものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://tamataregu.or.jp/oniyo>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C40203-20080401>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://tamataregu.or.jp/oniyo>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C40203-20080401>;
       <http://www.w3.org/2000/01/rdf-schema#label> "福岡県久留米市大善寺"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2018-11-15";
-      <http://purl.org/NET/cidoc-crm/core#P51> "STA3816";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/鬼夜>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2018-11-15";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "STA3816";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/鬼夜>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "368年（仁徳天皇56年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "368年（仁徳天皇56年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "だいぜんじたまたれぐうのおによ"@ja-hrkt, "大善寺玉垂宮の鬼夜"@ja .
-<https://w3id.org/ifcp/162/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/162>.
-<https://w3id.org/ifcp/162/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/162>.
+<https://w3id.org/ifcp/162/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/162>.

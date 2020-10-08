@@ -1,11 +1,14 @@
 <https://w3id.org/ifcp/172/held/2018/>
-  <http://purl.org/NET/cidoc-crm/core#P12> 2018;
-  <http://purl.org/NET/cidoc-crm/core#P14> "貴船祭保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/172>;
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2018-07-28";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2018-07-27"
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "貴船祭保存会";
+  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/172>;
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-07-28";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-07-27"
+  ], [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-07-28";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-07-27"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.kanaloco.jp/article/entry-33868.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C14383-19700401>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.town.manazuru.kanagawa.jp/juyo/1239.html>, <https://www.kanaloco.jp/article/entry-33868.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C14383-19700401>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

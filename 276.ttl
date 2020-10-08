@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/276>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/276/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年10月第二土、日曜日（宵宮、本宮）";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現10月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/276/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年10月第二土、日曜日（宵宮、本宮）";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現10月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　坂越の船祭は、兵庫県赤穂市坂越にある大避神社の祭礼で、神輿船を中心とする祭礼船が船団を組んで海上を渡御する大規模な船渡御祭である。十月中旬に行われる本宮には、櫂伝馬に曳航され、天幕や五色の吹き流し、幟などをつけた優雅な船団が東之浜と坂越湾に浮かぶ生島の間を巡行する。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　坂越の船祭は、兵庫県赤穂市坂越にある大避神社の祭礼で、神輿船を中心とする祭礼船が船団を組んで海上を渡御する大規模な船渡御祭である。十月中旬に行われる本宮には、櫂伝馬に曳航され、天幕や五色の吹き流し、幟などをつけた優雅な船団が東之浜と坂越湾に浮かぶ生島の間を巡行する。
 　赤穂市坂越は、瀬戸内海の東部、播磨灘にある坂越浦に古くから開けた港町で、近世には廻船業の拠点として栄えたところである。坂越には、聖徳太子に仕えた秦河勝が蘇我入鹿の難を逃れて来浦したという伝承があり、
 この秦河勝を祭神として祀るのが当地の産土神である大避神社である。生島は、原生林の生い茂る周囲約二キロメートルほどの小さな島で、河勝が漂着した場所と伝えられており、聖地として普段は立ち入りが禁止されている。船祭りは、この島に設けられた御旅所への神幸を中心に坂越湾を舞台として行われる。
 　この祭りは、坂越浦の経済的な発展とともに伝承されてきたもので、近世の史料にはすでに現行の船祭りの基本的な形態がうかがわれる。当地に残る『奥藤家文書』のうち、坂越村から赤穂藩に祭礼の執行を願い出た享保11（1726）年の「祭礼行烈覚」には、神輿船をはじめとする船列の構成が記されており、弘化2（1845）年に作られた『大避神社祭礼絵巻』には、華麗な各船とともに海上渡御の様子が克明に描かれている。
@@ -18,20 +18,19 @@
 　なお、坂越では、船檀尻と呼ばれ、海上に船を並べて舞台を築き、獅子舞などを奉納する行事が昭和２３年以来途絶えていたが、本町所有の船檀尻の部材が発見されたことを契機に、平成２１年の祭礼で約６０年ぶりに復活している。
 　坂越浦の海運業の発達とともに伝承されてきた祭礼であり、華やかに飾られた数多くの祭礼船が登場する盛大な船渡御祭は、海上の御旅所に神輿を載せた船団が曳航する船祭の典型例と考えられるものである。兵庫県下においては、大規模な船祭りの唯一の伝承例であり、また、瀬戸内海を代表する伝統的な船祭りとしても注目される祭りである。
 　また、櫂伝馬による船競漕や漕ぎ手によるバタカケなど船に関わる多彩な構成要素がみられるとともに、頭人と呼ばれる特色ある祭祀組織が維持されているなど地域的特色も顕著で、我が国の祭礼やその変遷を理解する上で重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.city.ako.lg.jp/kensetsu/kankou/visitor/autumn.html#autumn1>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.ako.lg.jp/kensetsu/kankou/visitor/autumn.html#autumn1>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "さこしのふなまつり"@ja-hrkt, "坂越の船祭"@ja .
-<https://w3id.org/ifcp/276/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/276>.
-<https://w3id.org/ifcp/276/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/276>.
+<https://w3id.org/ifcp/276/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/276>.

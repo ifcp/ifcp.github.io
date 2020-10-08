@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/126>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/126/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月６日、３月２４・２５日、６月２０・２４～２８日、７月１～８日、１２月７日、毎月１日の朝参り";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/126/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月６日、３月２４・２５日、６月２０・２４～２８日、７月１～８日、１２月７日、毎月１日の朝参り";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現7月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　東湖八坂神社のトウニン（統人）行事は、八郎潟に近い旧南秋田郡天王町天王に鎮座する東湖八坂神社で行われる、トウニンと称する制度を背景とした行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　東湖八坂神社のトウニン（統人）行事は、八郎潟に近い旧南秋田郡天王町天王に鎮座する東湖八坂神社で行われる、トウニンと称する制度を背景とした行事である。
 　トウニン（統人。頭屋を意味する）制は、天王町と船越のそれぞれにみられる。トウニンは、イチバントウ（一番統）とニバントウ（二番統）から構成されており、協力して行事が行われる。また、その構成は、イチバントウ・ニバントウともトウニン１人、警護役３人の計４人からなる。
 　天王町では、イチバントウには天王（本郷）の者が就き、主として供物の諸準備や行事の執行などに釆配をふるい、ニバントウには天王の近辺６地区の者が就き、お竹迎え（７月６日）や牛引き迎えの役割などを担当する。
 　船越では、イチバントウが主役を、ニバントウがその補佐役を務める。
@@ -15,20 +15,19 @@
 　７月７日の本祭り当日は、両地区から神輿が渡御して途中で合流する。これに従う形で、天王町からは牛乗りが、船越からはチョマン（蝶舞を演じる者）が登場する。
 　牛乗りは、サカベヤに籠って昏睡状態となり、決まりの牛引き役及び統人達に助けられ湖岸へ出発し、馬場目川（船越水道）に浮かぶ船上でチョマンがチョマイ（蝶舞）を演ずる頃合いを計って矢を放った。現在は矢を放つ部分はない。チョマンは、船にしつらえられた部屋の前後に２本のジャバシラ（角柱）を固定させ、これに張り渡した大綱にまたがりチョマンケリ（トンボ返り）を３度演ずる。牛乗りは、祭神の素戔嗚尊を、チョマンは、櫛稲田姫を意味するとの伝承がある。
 　この行事は、鈴木重孝『絹篩』や菅江真澄『おがのあきかぜ』（１９世紀）にも記述されており、祭神にまつわる「八岐の大蛇退治」の故事と八郎潟渕の農漁民の間に伝わる水神信仰とが習合しており、お竹迎えに象徴される厳格なトウニン制を継承しながら、神饌をめぐる儀礼内容にも特色があり、神懸りや年占の名残りもよくとどめるものであり重要である。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://www.city.oga.akita.jp/index.cfm/14,1397,52,141,html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.city.oga.akita.jp/index.cfm/14,1397,52,141,html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "とうこやさかじんじゃのとうにんぎょうじ"@ja-hrkt, "東湖八坂神社のトウニン（統人）行事"@ja .
-<https://w3id.org/ifcp/126/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/126>.
-<https://w3id.org/ifcp/126/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/126>.
+<https://w3id.org/ifcp/126/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/126>.

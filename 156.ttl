@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/156>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/156/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１月１５日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現1月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/156/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１月１５日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現1月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　野沢温泉の道祖神祭りは、地区を代表する野沢組惣代が総元締めになり、経験者のなかから選ばれた山棟梁や社殿棟梁などの役員の指揮のもと、サンヤンコウ（三夜講）の男たちが具体的なすべての作業を担って行われる。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p5>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　野沢温泉の道祖神祭りは、地区を代表する野沢組惣代が総元締めになり、経験者のなかから選ばれた山棟梁や社殿棟梁などの役員の指揮のもと、サンヤンコウ（三夜講）の男たちが具体的なすべての作業を担って行われる。
 　サンヤンコウは、この祭りに数え年42歳の厄年を迎える男たちを筆頭に40歳までの3つの年齢層のトモダチ衆で編成され、これに数え年25歳の厄年を迎える年齢の青年たちが加わって、3年間にわたって道祖神祭りの中心となるのである。
 　祭りの準備は、前年10月下旬から始まり、村の共有林から「道祖神の社殿」の用材になるブナ材を伐り出す。芯木になるのは直径1尺（約30㎝）・長さ10間（約18㍍）ほどのブナ5本である。1月13日には芯木を集落まで曳き下ろし、14日早朝からは社殿棟梁の指揮のもとに社殿造りが行われる。この巨大な社殿を、近年は15日の昼までに完成させている。
 　一方、前年に長男が誕生した家では初灯籠を作る。灯籠作りは七日正月頃から、灯籠棟梁の指揮に従って親戚や友人たちが集まって行われる。11日にはトウロウマルメ（灯籠まるめ）と称して、家の前に灯籠を組み立て完成の祝宴が開かれ、15日夕方には、灯籠送りの練りが関係者によって行われる。タイマツの火に先導されて町内を巡って道祖神場まで道祖神歌を歌いながら送り出す。
@@ -13,20 +13,19 @@
 　15日夕方、厄年の世話役6人が使者となり、火元の家に「火元貰い」に行く。火元の主人は白丁に烏帽子の装束に着替え、床の間の正面に据えられた道祖神木像を拝み、その前で火打石で火をおこし、種火を弓張提灯に移し、この火をオンガラの大松明に点火する。
 　午後8時すぎ、松明が道祖神場に到着すると、いよいよ道祖神の火祭りが始まる。厄年以外の村の男たちが火付役で元火の火をオンガラの束に移し、社殿に投げつける。これに対して厄年の男たちは火消役になり、社殿前面に25歳の青年たちが、社殿上には42歳の男たちが陣取って応戦し、松の枝でオンガラの火を叩き消す。激しい攻防戦が社殿棟梁の合図で終結すると手締めが行われて、社殿に火が入れられる。炎に包まれた社殿には、初灯籠が順番に立てかけられ、燃やされる。
 　この行事は、長野県北信地方の小正月行事のうち、厄払いの性格や火をめぐる競技的な内容、子どもの成長祝いの性格など地域的特色が豊かである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://nozawakanko.jp/record/dosojin/>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://nozawakanko.jp/record/dosojin/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "のざわおんせんのどうそじんまつり"@ja-hrkt, "野沢温泉の道祖神祭り"@ja .
-<https://w3id.org/ifcp/156/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/156>.
-<https://w3id.org/ifcp/156/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/156>.
+<https://w3id.org/ifcp/156/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/156>.

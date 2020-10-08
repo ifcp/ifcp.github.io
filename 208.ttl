@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/208>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/208/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年旧暦８月１０日直前の土・日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現9月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/208/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年旧暦８月１０日直前の土・日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現9月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　見付天神裸祭は、地元で見付天神と呼ばれる矢奈比売神社の大祭（見付天神裸祭）である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　見付天神裸祭は、地元で見付天神と呼ばれる矢奈比売神社の大祭（見付天神裸祭）である。
 　この行事は、西区・西中区・東区・東中区という４つの梯団（ﾃｲﾀﾞﾝ）と呼ばれる集団により行われる。この梯団には、それぞれ中心になる町（ｵﾔﾁｮｳ）がある。町（ｵﾔﾁｮｳ）は、西区では西坂町、西中区では馬場町、東区では東坂町、東中区では宿町でそれぞれ２名ずつ年行事がでる。
 　神輿を担ぐ輿番は、東区の権現町と東中区が１年交代で、触番をだし、ネリの際に鈴を振るのは西区の一番町・西中区の二番町・東区の権現町、特定の道具を持つオサキトモは東坂町の特定の家１８戸が務める。
 　行事は、大祭６日前のミシバオロシから始まる。見付天神の旧社地とされる元天神で祭を行い、午後１０時に灯火を消してオサキトモが榊を道筋１３箇所に立てる。
@@ -16,20 +16,19 @@
 　この間、神輿渡御報告祭が行われており、終了後、榊が一番触に渡されると一番触は「火を消せ」と叫びながら町内へ走り出す。やがて町内のすべての明かりが消され、神輿がネリとともに総社へ渡御する。神輿が総社に着くと、明かりが一斉に灯され、ネリは各町へ帰る。
 　祭日２日目は、神輿が町内を巡り還御する。
 　この行事は、各町内が４つの梯団に属してオヤチョウを中心に組織される重層構造をもち、祭も深夜に明かりを消して行われるなど厳しい物忌みを守っており、地域的特色をよく示しているとともに、静岡県西地域の代表的な裸祭として重要なものである。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://hadakamatsuri.jp>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://hadakamatsuri.jp>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>;
       <http://www.w3.org/2000/01/rdf-schema#label> ""
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "";
-      <http://purl.org/NET/cidoc-crm/core#P51> "";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://w3id.org/ifcp/>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "みつけてんじんはだかまつり"@ja-hrkt, "見付天神裸祭"@ja .
-<https://w3id.org/ifcp/208/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/208>.
-<https://w3id.org/ifcp/208/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/208>.
+<https://w3id.org/ifcp/208/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/208>.

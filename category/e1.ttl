@@ -1,5 +1,5 @@
 <https://w3id.org/ifcp/category/e1>
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E55>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>;
   <http://www.w3.org/2000/01/rdf-schema#label> "神楽";
   <http://www.w3.org/2004/02/skos/core#broader> <https://w3id.org/ifcp/category/entertainment> .
 <https://w3id.org/ifcp/category/entertainment> <http://www.w3.org/2004/02/skos/core#narrower> <https://w3id.org/ifcp/category/e1>.

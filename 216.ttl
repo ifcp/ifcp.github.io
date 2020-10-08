@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/216>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/216/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年１０月２５日の直前の金・土・日曜日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現10月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/216/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年１０月２５日の直前の金・土・日曜日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現10月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　上野天神祭のダンジリ行事は、菅原神社の秋祭りとして行われ、印、ダンジリ、鬼行列などが町内を巡行する行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　上野天神祭のダンジリ行事は、菅原神社の秋祭りとして行われ、印、ダンジリ、鬼行列などが町内を巡行する行事である。
 　この行事が行われる伊賀上野は、北は京都府、西は奈良県に接し、大和街道、伊勢街道沿いに位置する近世初頭以来の城下町である。現在、上野市東町に鎮座する菅原神社はもと上野城内の東南隅に祀られていたが、藤堂高虎によって現在の地に移されたと伝えられている。この菅原神社は、一般には上野天神宮、天神さんと呼び慣わされ、上野城下町の氏神としての信仰を集めてきた。
 　この行事は10月23・24・25日に菅原神社の秋祭りとして行われる旧上野城下町の祭りである。神輿巡幸に関わる車坂町、田端町、緑ヶ丘地区（旧平野地区）５町、農人町、北平野地区は神輿町と呼ばれる。また、印とダンジリを出す新町、東町、中町、西町、向島町、鍛冶町、魚町、小玉町、福居町の９町はダンジリ町と呼ばれる。また、鬼行列を出す、相生町、紺屋町、三之西町、徳居町の４町は鬼町と呼ばれており、このうち、相生町、紺屋町、三之西町の３町は合同で三鬼会を結成している。このダンジリ町と鬼町をあわせた13町を特に祭り町と称している。
 　祭りの準備は、梅雨明けに行われる土用干しから始まる。土用干しは各ダンジリ町ごとに町民総出で1日がかりで行われる。
@@ -20,20 +20,19 @@
 　ダンジリは９つのダンジリ町が籤の順に、それぞれ印、ダンジリの順に並んで巡行し、時折拍子木の合図で休み、祭礼本部に着くと籤改めを行う。
 　印は、新町が白楽天、東町が逆熨斗、中町が菊慈童、西町が羯鼓、向島町が日月扇、鍛冶町が月鉾、魚町が琴高仙人、小玉町が三社の託宣、福居町が幟山と呼ばれている。
 　ダンジリは、新町が薙刀鉾、東町が桐本、中町が其神山、西町が花冠、向島町が鉄英剣鉾、鍛冶町が二東、魚町が紫鱗、小玉町が小蓑山、福居町が三明と呼ばれている。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.ueno-tenjin-matsuri.com>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C24216-20041101>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.ueno-tenjin-matsuri.com>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C24216-20041101>;
       <http://www.w3.org/2000/01/rdf-schema#label> "三重県伊賀市上野地区"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2018-01-15";
-      <http://purl.org/NET/cidoc-crm/core#P51> "新幹線";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/上野天神祭>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2018-01-15";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "新幹線";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/上野天神祭>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "天正13年（1585年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "天正13年（1585年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "うえのてんじんまつりのだんじりぎょうじ"@ja-hrkt, "上野天神祭のダンジリ行事"@ja .
-<https://w3id.org/ifcp/216/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/216>.
-<https://w3id.org/ifcp/216/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/216>.
+<https://w3id.org/ifcp/216/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/216>.

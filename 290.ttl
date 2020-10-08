@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/290>
-  <http://purl.org/NET/cidoc-crm/core#P141> <https://w3id.org/ifcp/290/register>;
-  <http://purl.org/NET/cidoc-crm/core#P170> [
-    <http://purl.org/NET/cidoc-crm/core#P164> "毎年７月13、14日";
-    <http://purl.org/NET/cidoc-crm/core#P3> "現7月開催"
+  <http://www.cidoc-crm.org/cidoc-crm/P141_assigned> <https://w3id.org/ifcp/290/register>;
+  <http://www.cidoc-crm.org/cidoc-crm/P170_defines_time> [
+    <http://www.cidoc-crm.org/cidoc-crm/P164_during> "毎年７月13、14日";
+    <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "現7月開催"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P2> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
-  <http://purl.org/NET/cidoc-crm/core#P3> """　那智の扇祭りは、和歌山県東牟婁郡那智勝浦町に所在する熊野那智大社を中心とした祭礼行事で、毎年7月13、14日に行われ、年間の祭礼行事のなかで、もっとも盛大で重要な行事である。
+  <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://w3id.org/ifcp/category/p6>, <https://w3id.org/ifcp/category/practice>;
+  <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> """　那智の扇祭りは、和歌山県東牟婁郡那智勝浦町に所在する熊野那智大社を中心とした祭礼行事で、毎年7月13、14日に行われ、年間の祭礼行事のなかで、もっとも盛大で重要な行事である。
 　熊野那智大社は、熊野本宮大社、熊野速玉大社とともに熊野三山と称され、これらは全国に約3000社あるとされる熊野神社の総本社にあたる。各社とも固有の祭祀起源を持つが、10世紀後半に相互に祭神を合祀し、熊野三山の信仰体系が成立すると、11世紀には、阿弥陀信仰が強まり、浄土教が盛んになってくるなかで、熊野の地は浄土とみなされるようになり、院政期の歴代上皇の度重なる御幸をきっかけに、その名は全国に広まった。やがて、皇室から武士、さらには庶民へと熊野信仰は広がっていき、平安時代末期から鎌倉時代にかけては「蟻の熊野詣」と例えられたように、浄土に生まれ変われるよう、多くの人びとが熊野三山を訪れた。那智の扇祭りは、こうした信仰の歴史を背景にした神聖な地において、今日に受け継がれてきた。
 　本件は、太陽をかたどったとされる扇神輿が本殿を出立し、那智の大滝を拝したのち、還御するという祭りである。扇神輿は、いわゆる宮型神輿ではなく、扇を飾り付けた高さ6ｍほどの板状のもので、12体あってそれぞれ年月を意味するとされている。祭礼組織としては、那智山区をはじめ、地元住民を核とした保存会が組織され、特に扇神輿の担ぎ手については扇指といって、伝統的に市野々区の住民が司ることになっている。
 　扇祭りに使う多くの祭具は毎年新調するため、その準備は4月頃からはじめられる。那智大社では専用の作業場があって、おおむねそこで製作しているが、なかでも松明は大小あって多数必要とすることから、入念に準備される。特に、祭りの後段で用いられる大松明は、12体作ることになっていて、最大のもので直径1尺4寸（約42㎝）、重さ約60キログラムもある。
@@ -15,20 +15,19 @@
 　一方、使いを出した滝前では、光ヶ峰と呼ぶ遙拝石に向って、かつての神仏習合時代の修験道的な様相をうかがわせる特殊な祭儀がある。この儀式が終わった頃、子の使いと三者の使いたちが到着し、使いの終了報告があったのち、子の使いのみが再度、扇神輿の元へと馳せ参じる。滝前では12体の大松明に火が点され、子の使いの後を追うように石段を登っていく。石段半ばで扇神輿に出会うと、大松明はその炎で神輿を煽りつつ、大滝に向かって道先を左回りに旋回しながら先導し、浄めていくのである。このあり様が火炎の乱舞のごとく荘厳で、祭りの佳境を呈する場面ともなっていることから、扇祭りは一名「火祭り」とも呼ばれている。
 　扇神輿が石段の下の滝前に到着すると、烏帽を被った神職が打ち松と称する檜の削りかけで神字を描いたのち、扇神輿に付してある神鏡を軽く打ち据えていく。これを順次、一から一二の扇神輿それぞれに行っていくが、このことを扇褒めと呼んでいる。扇神輿は、褒め終えた順に滝前の斎場に立て掛けられ、すべてが揃ったところで、全員が大滝そのものを拝する形で大前の儀がはじまる。終わると、御田刈式と称した稲刈りを模した儀式があるが、これは出発前の御田植式と対になるものである。次に、12名の者が大滝に向かって日の丸扇を手に舞う、那瀑の舞が奉納される。その所作には風起や散塵、招福到来の意が含まれている。以上をもって本殿への還御となる。
 　還御の際は、同じ道程を辿ることになる。ただし、往路であったような途次での駐留はなく、直行するのみである。戻ると、本殿前にて再び扇神輿が立ち並び、終了報告の儀があって、以下、扇神輿の解体、直会と続いて祭りは終了する。""";
-  <http://purl.org/NET/cidoc-crm/core#P67> <http://kumanonachitaisha.or.jp/ougimaturi/ougi.html>;
-  <http://purl.org/NET/cidoc-crm/core#P94> [
-    <http://purl.org/NET/cidoc-crm/core#P167> [
-      <http://purl.org/NET/cidoc-crm/core#P67> <http://data.e-stat.go.jp/lod/sac/C30421-19700401>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://kumanonachitaisha.or.jp/ougimaturi/ougi.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> [
+    <http://www.cidoc-crm.org/cidoc-crm/P167_at> [
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://data.e-stat.go.jp/lod/sac/C30421-19700401>;
       <http://www.w3.org/2000/01/rdf-schema#label> "和歌山県東牟婁郡那智勝浦町"
     ];
-    <http://purl.org/NET/cidoc-crm/core#P31> [
-      <http://purl.org/NET/cidoc-crm/core#P4> "2019-12-06";
-      <http://purl.org/NET/cidoc-crm/core#P51> "ナレンコ";
-      <http://purl.org/NET/cidoc-crm/core#P67> <https://ja.wikipedia.org/wiki/那智の田楽>
+    <http://www.cidoc-crm.org/cidoc-crm/P31_has_modified> [
+      <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> "2019-12-06";
+      <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "ナレンコ";
+      <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/那智の田楽>
     ];
-    <http://purl.org/NET/cidoc-crm/core#P81> "応永10年（1403年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "応永10年（1403年）"
   ];
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E1>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "なちのおうぎまつり"@ja-hrkt, "那智の扇祭り"@ja .
-<https://w3id.org/ifcp/290/held/2018/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/290>.
-<https://w3id.org/ifcp/290/held/2019/> <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/290>.
+<https://w3id.org/ifcp/290/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/290>.
