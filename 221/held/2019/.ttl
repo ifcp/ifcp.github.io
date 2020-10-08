@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/221/held/2019/>
-  <http://purl.org/NET/cidoc-crm/core#P12> 2019;
-  <http://purl.org/NET/cidoc-crm/core#P14> "吉浜スネカ保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/221>;
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2019-01-15";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2019-01-15"
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "吉浜スネカ保存会";
+  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/221>;
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-01-15";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-01-15"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://www.asahi.com/articles/ASM1H44CBM1HUJUB004.html>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C03203-20011115>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.asahi.com/articles/ASM1H44CBM1HUJUB004.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C03203-20011115>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

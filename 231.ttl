@@ -34,3 +34,4 @@
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "かわごえひかわまつりのだしぎょうじ"@ja-hrkt, "川越氷川祭の山車行事"@ja .
 <https://w3id.org/ifcp/231/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/231>.
+<https://w3id.org/ifcp/231/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/231>.

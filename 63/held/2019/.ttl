@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/63/held/2019/>
-  <http://purl.org/NET/cidoc-crm/core#P12> 2019;
-  <http://purl.org/NET/cidoc-crm/core#P14> "烏山山あげ保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/63>;
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2019-07-28";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2019-07-26"
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "烏山山あげ保存会";
+  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/63>;
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-07-28";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-07-26"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://tabi-mag.jp/yamaagesai/>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C09215-20120801>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://tabi-mag.jp/yamaagesai/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C09215-20120801>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

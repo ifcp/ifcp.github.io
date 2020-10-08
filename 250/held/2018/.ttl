@@ -1,14 +1,11 @@
 <https://w3id.org/ifcp/250/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "酒津とんど祭り保存会";
   <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/250>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-01-14";
     <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-01-13"
-  ], [
-    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-01-13";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-01-12"
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://matsuri-no-hi.com/matsuri/20962>, <https://www.sankei.com/photo/daily/news/190112/dly1901120008-n1.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://matsuri-no-hi.com/matsuri/20962>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C31341-20041101>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

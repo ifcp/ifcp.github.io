@@ -37,3 +37,6 @@
 <https://w3id.org/ifcp/195/held/2018/1> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/195>.
 <https://w3id.org/ifcp/195/held/2018/2> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/195>.
 <https://w3id.org/ifcp/195/held/2018/3> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/195>.
+<https://w3id.org/ifcp/195/held/2019/1> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/195>.
+<https://w3id.org/ifcp/195/held/2019/2> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/195>.
+<https://w3id.org/ifcp/195/held/2019/3> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/195>.

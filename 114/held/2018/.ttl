@@ -1,14 +1,11 @@
 <https://w3id.org/ifcp/114/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "青柏祭でか山保存会";
   <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/114>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-05-05";
     <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-05-03"
-  ], [
-    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-05-05";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-05-03"
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.city.nanao.lg.jp/shoukan/event/5gatsu/seihakusai.html>, <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000014569>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.hokurikushinkansen-navi.jp/pc/news/article.php?id=NEWS0000014569>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172020010>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

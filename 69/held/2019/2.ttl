@@ -1,11 +1,11 @@
 <https://w3id.org/ifcp/69/held/2019/2>
-  <http://purl.org/NET/cidoc-crm/core#P12> 2019;
-  <http://purl.org/NET/cidoc-crm/core#P14> "日枝神社氏子山王祭保存会，八幡宮氏子八幡祭保存会";
-  <http://purl.org/NET/cidoc-crm/core#P17> <https://w3id.org/ifcp/69>;
-  <http://purl.org/NET/cidoc-crm/core#P4> [
-    <http://purl.org/NET/cidoc-crm/core#P115> "2019-10-10";
-    <http://purl.org/NET/cidoc-crm/core#P116> "2019-10-09"
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "日枝神社氏子山王祭保存会，八幡宮氏子八幡祭保存会";
+  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>;
+  <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-10-10";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-10-09"
   ];
-  <http://purl.org/NET/cidoc-crm/core#P67> <https://nanotown01.com/akino-takayama-matsuri/#toc3>;
-  <http://purl.org/NET/cidoc-crm/core#P7> <http://data.e-stat.go.jp/lod/sac/C21203-20050201>;
-  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/cidoc-crm/core#E5> .
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://nanotown01.com/akino-takayama-matsuri/#toc3>;
+  <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C21203-20050201>;
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

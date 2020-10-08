@@ -28,3 +28,5 @@
   <http://www.w3.org/2000/01/rdf-schema#label> "たかやままつりのやたいぎょうじ"@ja-hrkt, "高山祭の屋台行事"@ja .
 <https://w3id.org/ifcp/69/held/2018/1> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>.
 <https://w3id.org/ifcp/69/held/2018/2> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>.
+<https://w3id.org/ifcp/69/held/2019/1> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>.
+<https://w3id.org/ifcp/69/held/2019/2> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/69>.

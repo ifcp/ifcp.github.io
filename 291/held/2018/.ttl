@@ -1,14 +1,11 @@
 <https://w3id.org/ifcp/291/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "大津祭保存会";
   <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/291>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-10-07";
     <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-10-06"
-  ], [
-    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "開催せず";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "開催せず"
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.biwalake-otsuka.com/yado/2018/2018092001.html>, <https://www.kyoto-np.co.jp/articles/-/32789>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.biwalake-otsuka.com/yado/2018/2018092001.html>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C25201-20090401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .
