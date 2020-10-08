@@ -2,7 +2,7 @@ base_uri: https://w3id.org/ifcp/
 labels:
   http://www.w3.org/2000/01/rdf-schema#label: 名称
   http://www.cidoc-crm.org/cidoc-crm/P3_has_note: 詳細
-  http://www.cidoc-crm.org/cidoc-crm/P4: 日付
+  http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span: 日付
   http://www.cidoc-crm.org/cidoc-crm/P67_refers_to: URL
   http://www.cidoc-crm.org/cidoc-crm/P141_assigned: 重要無形民俗文化財登録情報
   http://www.cidoc-crm.org/cidoc-crm/P94_has_created: 発祥
@@ -16,7 +16,7 @@ labels:
   http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by: 開催情報
   http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at: 開催地
   http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by: 運営団体
-  hhttp://www.cidoc-crm.org/cidoc-crm/P116_starts: 開始日
+  http://www.cidoc-crm.org/cidoc-crm/P116_starts: 開始日
   http://www.cidoc-crm.org/cidoc-crm/P115_finishes: 終了日
   http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of: 開催年
   http://www.cidoc-crm.org/cidoc-crm/P170_defines_time: 公開日
