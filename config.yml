@@ -4,7 +4,7 @@ labels:
   http://www.cidoc-crm.org/cidoc-crm/P3_has_note: 詳細
   http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span: 日付
   http://www.cidoc-crm.org/cidoc-crm/P67_refers_to: URL
-  http://www.cidoc-crm.org/cidoc-crm/P141_assigned: 重要無形民俗文化財登録情報
+  http://www.cidoc-crm.org/cidoc-crm/P141_assigned: 重要無形民俗文化財指定情報
   http://www.cidoc-crm.org/cidoc-crm/P94_has_created: 発祥
   http://www.cidoc-crm.org/cidoc-crm/P31_has_modified: 発祥記述
   http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner: 記入者
