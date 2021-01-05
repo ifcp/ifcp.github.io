@@ -13,7 +13,7 @@ labels:
   http://www.cidoc-crm.org/cidoc-crm/P2_has_type: カテゴリー
   http://www.w3.org/2004/02/skos/core#broader: 上位カテゴリー
   http://www.w3.org/2004/02/skos/core#narrower: 下位カテゴリー
-  http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by: 開催情報
+  http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose: 開催情報
   http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at: 開催地
   http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by: 運営団体
   http://www.cidoc-crm.org/cidoc-crm/P116_starts: 開始日

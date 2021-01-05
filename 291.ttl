@@ -24,9 +24,9 @@
       <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "NPO法人大津祭曳山連盟";
       <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.otsu-matsuri.jp/festival/history.php>
     ];
-    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "慶長～元和年間（1598～1624）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "慶長～元和年間（1598～1624）";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event>
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "おおつまつりのひきやまぎょうじ"@ja-hrkt, "大津祭の曳山行事"@ja .
-<https://w3id.org/ifcp/291/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/291>.
-<https://w3id.org/ifcp/291/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/291>.
+<https://w3id.org/ifcp/291/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/291>.

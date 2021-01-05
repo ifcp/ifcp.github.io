@@ -17,6 +17,7 @@ ifcp:"&A2&"
     crm:P67_refers_to <"&H2&"> ;
     crm:P141_assigned <https://w3id.org/ifcp/"&A2&"/register> ; 
     crm:P94_has_created [
+        rdf:type crm:E5_Event ;
         crm:P31_has_modified _:edit"&A2&" ;
         crm:P81_ongoing_throughout """&S2&""" ; 
         crm:P167_at _:place"&A2&"

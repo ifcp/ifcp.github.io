@@ -1,11 +1,16 @@
 <https://w3id.org/ifcp/240/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "えんずのわり保存会";
-  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/240>;
+  <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/240>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-01-16";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-01-11"
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-01-11";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
+  ], [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-01-16";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-01-11";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.nihon-kankou.or.jp/miyagi/042145/detail/04566be2220112899>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://hibishinbun.com/news/?a=9291>, <https://www.nihon-kankou.or.jp/miyagi/042145/detail/04566be2220112899>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C04214-20200201>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

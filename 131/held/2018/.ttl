@@ -1,11 +1,16 @@
 <https://w3id.org/ifcp/131/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "猪俣の百八灯保存会";
-  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/131>;
+  <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/131>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-08-15";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-08-15"
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-08-15";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
+  ], [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-08-15";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-08-15";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.saitamatsuri.jp/matsuri/inomata_hyakuhato/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.saihokunavi.net/event/event.shtml?id=51>, <https://www.saitamatsuri.jp/matsuri/inomata_hyakuhato/>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C11381-19890301>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

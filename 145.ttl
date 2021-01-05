@@ -22,9 +22,9 @@
       <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
       <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.sea.icn-tv.ne.jp/~sosym/>
     ];
-    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "享保19年(1734)"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "享保19年(1734)";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event>
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "すおうそおのはしらまつぎょうじ"@ja-hrkt, "周防祖生の柱松行事"@ja .
-<https://w3id.org/ifcp/145/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/145>.
-<https://w3id.org/ifcp/145/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/145>.
+<https://w3id.org/ifcp/145/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/145>.

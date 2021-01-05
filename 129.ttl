@@ -26,9 +26,9 @@
       <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "";
       <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>
     ];
-    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> ""
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event>
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "わきでのみやのみやざぎょうじ"@ja-hrkt, "涌出宮の宮座行事"@ja .
-<https://w3id.org/ifcp/129/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/129>.
-<https://w3id.org/ifcp/129/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/129>.
+<https://w3id.org/ifcp/129/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/129>.

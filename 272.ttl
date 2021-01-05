@@ -32,9 +32,9 @@
       <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "2400:4053:95a0:5e00:b176:c5e5:4753:8b";
       <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/八代神社>
     ];
-    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "1515年（永正12年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "1515年（永正12年）";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event>
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "やつしろみょうけんさいのしんこうぎょうじ"@ja-hrkt, "八代妙見祭の神幸行事"@ja .
-<https://w3id.org/ifcp/272/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/272>.
-<https://w3id.org/ifcp/272/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/272>.
+<https://w3id.org/ifcp/272/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/272>.

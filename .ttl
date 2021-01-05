@@ -86,8 +86,7 @@
 <_:place301> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
 <_:place67> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
 <_:place85> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/153/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
+<https://w3id.org/ifcp/153/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
 <https://w3id.org/ifcp/197/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
-<https://w3id.org/ifcp/197/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
 <https://w3id.org/ifcp/270/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.
 <https://w3id.org/ifcp/295/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://w3id.org/ifcp/>.

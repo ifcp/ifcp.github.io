@@ -22,9 +22,9 @@
       <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "交易財団法人長浜曳山博物館";
       <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.nagahama-hikiyama.or.jp/presently/>
     ];
-    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "天正２年（1574）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "天正２年（1574）";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event>
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "ながはまひきやままつりのひきやまぎょうじ"@ja-hrkt, "長浜曳山祭の曳山行事"@ja .
-<https://w3id.org/ifcp/71/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/71>.
-<https://w3id.org/ifcp/71/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/71>.
+<https://w3id.org/ifcp/71/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/71>.

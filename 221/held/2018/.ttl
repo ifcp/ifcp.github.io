@@ -1,11 +1,16 @@
 <https://w3id.org/ifcp/221/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "吉浜スネカ保存会";
-  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/221>;
+  <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/221>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-01-15";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-01-15"
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-01-15";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
+  ], [
+    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-01-15";
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-01-15";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ofunato.jp/Summary/info/81>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ofunato.jp/Summary/info/81>, <https://www.asahi.com/articles/ASM1H44CBM1HUJUB004.html>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C03203-20011115>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

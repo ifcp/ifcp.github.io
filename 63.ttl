@@ -25,9 +25,9 @@
       <http://www.cidoc-crm.org/cidoc-crm/P51_has_former_or_current_owner> "Urania ";
       <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://ja.wikipedia.org/wiki/山あげ祭>
     ];
-    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "永禄3年（1560年）"
+    <http://www.cidoc-crm.org/cidoc-crm/P81_ongoing_throughout> "永禄3年（1560年）";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event>
   ];
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "からすやまのやまあげぎょうじ"@ja-hrkt, "烏山の山あげ行事"@ja .
-<https://w3id.org/ifcp/63/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/63>.
-<https://w3id.org/ifcp/63/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/63>.
+<https://w3id.org/ifcp/63/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/63>.
