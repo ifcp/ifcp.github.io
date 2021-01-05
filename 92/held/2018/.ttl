@@ -1,16 +1,12 @@
 <https://w3id.org/ifcp/92/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "豊橋鬼祭保存会";
   <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/92>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2018-02-11";
     <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2018-02-10";
     <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
-  ], [
-    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-02-11";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-02-10";
-    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.honokuni.or.jp/toyohashi/topics/?Mode=detail&code=463>, <https://www.asahi.com/articles/ASL2B3JL4L2BOBJB001.html>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.asahi.com/articles/ASL2B3JL4L2BOBJB001.html>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C23201-19990401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .

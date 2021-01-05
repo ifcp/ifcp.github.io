@@ -27,3 +27,4 @@
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity>;
   <http://www.w3.org/2000/01/rdf-schema#label> "はかたぎおんやまかさぎょうじ"@ja-hrkt, "博多祇園山笠行事"@ja .
 <https://w3id.org/ifcp/79/held/2018/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/79>.
+<https://w3id.org/ifcp/79/held/2019/> <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/79>.

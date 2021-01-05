@@ -1,10 +1,11 @@
 <https://w3id.org/ifcp/272/held/2019/>
   <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2019;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "八代妙見祭保存振興会";
-  <http://www.cidoc-crm.org/cidoc-crm/P17_was_motivated_by> <https://w3id.org/ifcp/272>;
+  <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/272>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-11-23";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-11-22"
+    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-11-22";
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
   ];
   <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://omatsurijapan.com/search/m/1410/>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C43202-20050801>;

@@ -1,16 +1,12 @@
 <https://w3id.org/ifcp/91/held/2018/>
-  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018, 2019;
+  <http://www.cidoc-crm.org/cidoc-crm/P12_occurred_in_the_presence_of> 2018;
   <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> "尾張津島天王祭協賛会";
   <http://www.cidoc-crm.org/cidoc-crm/P21_had_general_purpose> <https://w3id.org/ifcp/91>;
   <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> [
-    <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "2019-07-28";
-    <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "2019-07-27";
-    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
-  ], [
     <http://www.cidoc-crm.org/cidoc-crm/P115_finishes> "中止";
     <http://www.cidoc-crm.org/cidoc-crm/P116_starts> "中止";
     <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>
   ];
-  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://event.xtone.jp/amp/archives/tsushima_tennosai_2019.html>, <http://tsushima-cci.or.jp/info/台風１２号の影響による尾張津島天王祭のイベン/>;
+  <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://tsushima-cci.or.jp/info/台風１２号の影響による尾張津島天王祭のイベン/>;
   <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://data.e-stat.go.jp/lod/sac/C23208-19900401>;
   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E5_Event> .
